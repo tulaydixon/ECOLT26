@@ -1,0 +1,23 @@
+---
+title: ""
+format: live-html
+engine: knitr
+toc: false
+mainfont: Arial
+sectfont: Arial
+monofont: Arial
+fontsize: "13"
+linestretch: 1.5
+smooth-scroll: true
+highlight-style: github #breeze, cosmo
+webr:
+  render-df: gt-interactive
+---
+
+{{< include ./_extensions/r-wasm/live/_knitr.qmd >}}
+
+## **Click on the names to learn about the presenters.**
+
+### [**Tülay Dixon**](https://sites.google.com/view/tulaydixon)
+
+### [**Daniel Dixon**](https://sites.google.com/view/danielhdixon)

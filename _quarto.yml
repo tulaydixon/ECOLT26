@@ -1,0 +1,33 @@
+project:
+  type: website
+  resources:
+    - data/
+
+website:
+  title: "ECOLT26"
+  navbar:
+    pinned: true
+    logo: "Images/hex.png"
+    left:
+      - href: index.qmd
+        text: Welcome
+      - href: Basics.qmd
+        text: The Foundation
+      - href: Descriptives.qmd
+        text: Descriptives & Data Wrangling
+      - href: VisualizationsI.qmd
+        text: Visualizations Part I
+      - href: VisualizationsII.qmd
+        text: Visualizations Part II
+      - href: MovingForward.qmd
+        text: Moving Forward
+      - href: about.qmd
+        text: Presenters
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual

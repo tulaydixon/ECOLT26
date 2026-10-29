@@ -1,0 +1,1233 @@
+Filename,group,scene,task_type,total_time,W,C,CP,CN,MLC,CP/C,CN/C
+d2_c_ck_02-10 13_56.txt,GPT_complex,Choosing a Major,everyday,1388,1362,189,66,286,7.21,0.35,1.51
+d3_c_bl_02-05 14_33.txt,GPT_complex,Buying a Car,everyday,1243,1340,185,86,242,7.24,0.46,1.31
+d2_c_un_10-02 14_27.txt,GPT_complex,Choosing a Major,everyday,2108,1327,194,70,287,6.84,0.36,1.48
+d2_c_fm_10-11 12_09.txt,GPT_complex,Choosing a Major,everyday,2653,1271,160,87,255,7.94,0.54,1.59
+d2_c_ga_09-30 14_44.txt,GPT_complex,Choose a Major ,everyday,1405,1270,176,54,274,7.22,0.31,1.56
+a4_c_ts_09-30 14_18.txt,GPT_complex,Economics ,academic,2384,1237,154,52,236,8.03,0.34,1.53
+d2_c_do_10-29 14_03.txt,GPT_complex,Choosing a Major,everyday,2224,1220,141,72,278,8.65,0.51,1.97
+d3_c_nn_10-09 14_08.txt,GPT_complex,Buying a Car,everyday,1124,1187,167,56,214,7.11,0.34,1.28
+d3_c_aa_03-11 10_53.txt,GPT_complex,Buying a Car,everyday,1337,1185,168,48,223,7.05,0.29,1.33
+d4_c_ok_10-18 12_30.txt,GPT_complex,US Culture Discussion,everyday,1741,1169,127,67,198,9.20,0.53,1.56
+d2_c_aa_09-21 09_10.txt,GPT_complex,Choose a Major ,everyday,4259,1154,140,66,271,8.24,0.47,1.94
+d2_c_bl_02-03 14_09.txt,GPT_complex,Choosing a Major,everyday,1494,1135,156,61,211,7.28,0.39,1.35
+d4_c_yv_11-22 12_26.txt,GPT_complex,US Culture Discussion,everyday,5813,1129,112,81,198,10.08,0.72,1.77
+a4_c_un_10-02 15_07.txt,GPT_complex,Economics,academic,1845,1123,146,32,227,7.69,0.22,1.55
+d5_c_fm_10-29 14_18.txt,GPT_complex,Travel Agent,everyday,1584,1122,138,73,235,8.13,0.53,1.70
+d2_c_ar_11-01 10_25.txt,GPT_complex,Choosing a Major,everyday,1763,1121,161,59,230,6.96,0.37,1.43
+d5_c_nn_10-16 14_23.txt,GPT_complex,Travel Agent,everyday,1813,1115,136,69,231,8.20,0.51,1.70
+a2_c_rw_09-21 09_11.txt,GPT_complex,Health ,academic,3430,1105,139,52,228,7.95,0.37,1.64
+d2_c_np_10-30 13_28.txt,GPT_complex,Choosing a Major,everyday,2854,1100,144,54,199,7.64,0.38,1.38
+d3_s_tn_10-09 14_21.txt,GPT_simple,Buying a Car,everyday,1483,1093,177,49,180,6.18,0.28,1.02
+d3_c_do_10-25 13_38.txt,GPT_complex,Buying a Car,everyday,2426,1090,129,71,206,8.45,0.55,1.60
+a1_c_ga_10-02 14_32.txt,GPT_complex,Environmental Science,academic,1941,1089,128,36,230,8.51,0.28,1.80
+a4_c_ok_10-18 13_03.txt,GPT_complex,Economics,academic,1901,1077,154,40,200,6.99,0.26,1.30
+d3_c_yk_02-12 13_42.txt,GPT_complex,Buying a Car,everyday,1319,1052,140,50,184,7.51,0.36,1.31
+d4_c_do_11-01 13_06.txt,GPT_complex,US Culture Discussion,everyday,3253,1049,99,69,195,10.60,0.70,1.97
+d3_c_fm_10-16 14_57.txt,GPT_complex,Buying a Car,everyday,990,1042,137,67,196,7.61,0.49,1.43
+d2_c_yk_02-10 12_24.txt,GPT_complex,Choosing a Major,everyday,3806,1039,142,51,195,7.32,0.36,1.37
+d2_c_ok_10-16 15_15.txt,GPT_complex,Choosing a Major,everyday,1165,1037,148,44,207,7.01,0.30,1.40
+a5_c_as_10-09 14_10.txt,GPT_complex,Journalism,academic,3467,1032,124,43,199,8.32,0.35,1.60
+d4_c_yk_02-26 12_34.txt,GPT_complex,US Culture Discussion,everyday,2053,1028,98,61,199,10.49,0.62,2.03
+d2_c_bb_03-31 15_04.txt,GPT_complex,Choosing a Major,everyday,1675,1020,148,56,207,6.89,0.38,1.40
+d3_c_ga_10-07 14_08.txt,GPT_complex,Buying a Car,everyday,839,1020,133,50,207,7.67,0.38,1.56
+a1_c_rw_10-04 10_34.txt,GPT_complex,Environmental Science,academic,1630,1015,116,38,226,8.75,0.33,1.95
+d4_c_ck_02-12 14_27.txt,GPT_complex,US Culture Discussion,everyday,1404,1009,112,64,178,9.01,0.57,1.59
+d2_c_mm_11-14 13_56.txt,GPT_complex,Choosing a Major,everyday,1653,1007,123,55,189,8.19,0.45,1.54
+d3_c_rw_10-29 17_46.txt,GPT_complex,Buying a Car,everyday,758,1004,143,51,186,7.02,0.36,1.30
+d3_s_vv_10-29 15_31.txt,GPT_simple,Buying a Car,everyday,2192,1001,167,42,165,5.99,0.25,0.99
+d2_s_yn_09-25 14_33.txt,USER_simple,Choose a Major ,everyday,5165,998,169,25,165,5.91,0.15,0.98
+d3_c_aa_10-12 09_54.txt,GPT_complex,Buying a Car,everyday,3528,996,126,44,178,7.90,0.35,1.41
+d2_c_ap_02-20 11_59.txt,GPT_complex,Choosing a Major,everyday,1779,994,133,48,193,7.47,0.36,1.45
+a1_c_bb_03-10 13_59.txt,GPT_complex,Environmental Science,academic,3626,990,126,34,228,7.86,0.27,1.81
+a3_c_es_10-02 14_28.txt,GPT_complex,Business Management,academic,1472,990,117,29,191,8.46,0.25,1.63
+a2_c_nn_09-30 14_15.txt,GPT_complex,Health ,academic,3285,987,116,47,204,8.51,0.41,1.76
+d3_c_ar_10-26 09_09.txt,GPT_complex,Buying a Car,everyday,1898,984,127,51,177,7.75,0.40,1.39
+d2_c_rc_03-03 15_11.txt,GPT_complex,Choosing a Major,everyday,727,983,126,61,213,7.80,0.48,1.69
+d5_c_ar_11-09 09_48.txt,GPT_complex,Travel Agent,everyday,1468,981,126,61,173,7.79,0.48,1.37
+d5_c_aa_02-27 11_35.txt,GPT_complex,Travel Agent,everyday,1201,976,128,45,200,7.63,0.35,1.56
+d3_c_ki_02-05 15_00.txt,GPT_complex,Buying a Car,everyday,1182,968,155,42,167,6.25,0.27,1.08
+a5_s_qn_10-09 14_07.txt,GPT_simple,Journalism,academic,1386,964,166,36,177,5.81,0.22,1.07
+d4_c_va_02-03 15_20.txt,GPT_complex,US Culture Discussion,everyday,2087,962,76,75,181,12.66,0.99,2.38
+d4_c_aa_10-26 09_27.txt,GPT_complex,US Culture Discussion,everyday,6528,956,85,78,164,11.25,0.92,1.93
+d2_c_yv_11-20 12_24.txt,GPT_complex,Choosing a Major,everyday,3744,955,145,41,191,6.59,0.28,1.32
+d1_c_un_10-07 14_48.txt,GPT_complex,Job Interview - accountant,everyday,1056,950,114,40,174,8.33,0.35,1.53
+a5_c_ok_10-25 12_32.txt,GPT_complex,Journalism,academic,2728,941,124,36,187,7.59,0.29,1.51
+a4_c_bb_04-07 14_28.txt,GPT_complex,Economics,academic,2425,935,129,41,179,7.25,0.32,1.39
+d4_s_vv_11-22 12_10.txt,USER_simple,US Culture Discussion,everyday,5253,934,122,42,154,7.66,0.34,1.26
+d5_c_ts_10-09 14_15.txt,GPT_complex,Travel Agent,everyday,1005,933,119,36,179,7.84,0.30,1.50
+d5_c_va_02-05 14_09.txt,GPT_complex,Travel Agent,everyday,2121,932,119,52,204,7.83,0.44,1.71
+d4_s_dk_11-15 10_54.txt,USER_simple,US Culture Discussion,everyday,3659,926,139,37,134,6.66,0.27,0.96
+d4_c_nn_10-15 14_25.txt,GPT_complex,US Culture Discussion,everyday,1313,919,100,60,159,9.19,0.60,1.59
+d4_c_ek_03-11 14_26.txt,GPT_complex,US Culture Discussion,everyday,3752,915,86,55,160,10.64,0.64,1.86
+d4_c_fm_10-18 12_18.txt,GPT_complex,US Culture Discussion,everyday,3118,914,103,62,158,8.87,0.60,1.53
+d3_s_fr_10-19 09_06.txt,GPT_simple,Buying a Car,everyday,3467,911,153,39,145,5.95,0.25,0.95
+d4_c_bb_03-10 15_07.txt,GPT_complex,US Culture Discussion,everyday,2033,907,92,55,151,9.86,0.60,1.64
+d3_s_qn_10-07 14_12.txt,GPT_simple,Buying a Car,everyday,881,906,130,30,161,6.97,0.23,1.24
+d3_s_fr_10-19 09_06.txt,USER_simple,Buying a Car,everyday,3467,904,158,28,170,5.72,0.18,1.08
+a4_c_do_10-18 13_49.txt,GPT_complex,Economics,academic,3510,904,143,35,178,6.32,0.24,1.24
+a3_c_un_10-15 14_46.txt,GPT_complex,Business Management,academic,2151,904,123,45,165,7.35,0.37,1.34
+a5_c_ga_10-09 14_10.txt,GPT_complex,Journalism,academic,1847,904,117,29,177,7.73,0.25,1.51
+a4_c_ki_02-05 14_04.txt,GPT_complex,Economics,academic,2860,901,132,32,169,6.83,0.24,1.28
+d4_c_ts_10-02 14_13.txt,GPT_complex,US Culture Discussion,everyday,1435,899,106,35,177,8.48,0.33,1.67
+a3_c_ts_10-11 12_07.txt,GPT_complex,Business Management,academic,1913,897,118,37,164,7.60,0.31,1.39
+a5_c_rw_11-12 17_15.txt,GPT_complex,Journalism,academic,1884,896,122,38,158,7.34,0.31,1.30
+d1_c_as_10-11 12_11.txt,USER_complex,Job Interview - marketing specialist,everyday,4568,893,126,33,151,7.09,0.26,1.20
+d4_c_ss_10-25 11_24.txt,GPT_complex,US Culture Discussion,everyday,4650,884,79,67,159,11.19,0.85,2.01
+d4_s_hj_02-17 13_57.txt,USER_simple,US Culture Discussion,everyday,3360,883,124,42,169,7.12,0.34,1.36
+a1_c_np_10-30 12_41.txt,GPT_complex,Environmental Science,academic,2483,883,121,34,186,7.30,0.28,1.54
+d3_c_mg_10-26 09_27.txt,GPT_complex,Buying a Car,everyday,4399,883,116,51,170,7.61,0.44,1.47
+d1_s_bl_03-10 12_35.txt,GPT_simple,Job Interview - interpreter,everyday,2912,882,129,38,158,6.84,0.29,1.22
+a4_c_ga_10-07 14_26.txt,GPT_complex,Economics,academic,1658,881,116,31,164,7.59,0.27,1.41
+d2_s_ap_01-29 14_04.txt,GPT_simple,Choosing a Major,everyday,3706,878,166,34,179,5.29,0.20,1.08
+d4_c_mm_10-31 15_16.txt,GPT_complex,US Culture Discussion,everyday,1520,878,89,47,154,9.87,0.53,1.73
+d3_s_ca_10-30 13_25.txt,GPT_simple,Buying a Car,everyday,1845,877,137,46,139,6.40,0.34,1.01
+d2_c_ss_10-16 14_24.txt,USER_complex,Choosing a Major,everyday,7406,873,136,29,171,6.42,0.21,1.26
+a5_c_ki_02-12 13_57.txt,GPT_complex,Journalism,academic,1946,872,127,26,156,6.87,0.20,1.23
+a2_c_ms_09-21 10_19.txt,GPT_complex,Health ,academic,3614,871,105,36,178,8.30,0.34,1.70
+d2_c_mg_10-30 12_40.txt,GPT_complex,Choosing a Major,everyday,2821,870,124,43,178,7.02,0.35,1.44
+d3_s_sd_04-08 14_48.txt,GPT_simple,Buying a Car,everyday,939,869,134,27,126,6.49,0.20,0.94
+a1_c_mg_10-19 09_07.txt,GPT_complex,Environmental Science,academic,6499,867,109,24,188,7.95,0.22,1.72
+d5_c_ss_11-08 09_58.txt,GPT_complex,Travel Agent,everyday,3169,867,107,48,176,8.10,0.45,1.64
+a2_c_ok_11-15 12_07.txt,GPT_complex,Health,academic,1455,866,116,37,179,7.47,0.32,1.54
+d4_c_ba_11-02 09_47.txt,GPT_complex,US Culture Discussion,everyday,2829,863,87,55,163,9.92,0.63,1.87
+a5_c_un_10-09 15_02.txt,GPT_complex,Journalism,academic,1834,862,109,27,158,7.91,0.25,1.45
+d1_c_ar_11-08 09_08.txt,USER_complex,Job Interview - marketing specialist,everyday,3573,861,141,39,129,6.11,0.28,0.91
+d4_c_ek_03-11 14_26.txt,USER_complex,US Culture Discussion,everyday,3752,860,98,45,111,8.78,0.46,1.13
+a1_s_za_10-07 14_52.txt,GPT_simple,Environmental Science,academic,1303,858,140,23,149,6.13,0.16,1.06
+d3_c_mm_11-13 10_24.txt,GPT_complex,Buying a Car,everyday,1515,858,116,46,177,7.40,0.40,1.53
+d5_c_do_11-14 14_03.txt,GPT_complex,Travel Agent,everyday,1181,858,109,49,175,7.87,0.45,1.61
+a3_c_va_01-31 13_42.txt,GPT_complex,Business Management,academic,3089,858,108,35,164,7.94,0.32,1.52
+a2_c_ba_09-20 08_22.txt,USER_complex,Health ,academic,9192,857,112,31,143,7.65,0.28,1.28
+a3_c_bb_02-24 15_14.txt,GPT_complex,Business Management,academic,1903,853,131,36,147,6.51,0.27,1.12
+d1_c_mm_11-20 13_04.txt,GPT_complex,Job Interview - interpreter,everyday,1203,853,107,37,154,7.97,0.35,1.44
+a2_c_ga_09-30 14_07.txt,GPT_complex,Health ,academic,1898,853,105,23,188,8.12,0.22,1.79
+a5_s_tn_10-09 14_52.txt,GPT_simple,Journalism,academic,1670,852,149,20,162,5.72,0.13,1.09
+a5_c_bb_03-31 14_03.txt,GPT_complex,Journalism,academic,3206,852,121,34,161,7.04,0.28,1.33
+d2_c_ss_10-16 14_24.txt,GPT_complex,Choosing a Major,everyday,7406,852,113,37,165,7.54,0.33,1.46
+d3_c_ap_02-17 12_31.txt,GPT_complex,Buying a Car,everyday,1570,849,102,39,157,8.32,0.38,1.54
+a3_c_aa_10-12 11_02.txt,GPT_complex,Business Management,academic,4241,849,98,39,164,8.66,0.40,1.67
+d1_c_ar_11-08 09_08.txt,GPT_complex,Job Interview - marketing specialist,everyday,3573,848,107,36,162,7.93,0.34,1.51
+d5_c_un_10-15 14_23.txt,GPT_complex,Travel Agent,everyday,1221,847,106,52,172,7.99,0.49,1.62
+d2_s_as_02-27 10_43.txt,GPT_simple,Choosing a Major,everyday,2195,844,155,35,136,5.45,0.23,0.88
+a3_s_fr_10-12 10_01.txt,USER_simple,Business Management,academic,3920,843,122,25,138,6.91,0.20,1.13
+d3_c_np_10-25 09_13.txt,GPT_complex,Buying a Car,everyday,4532,843,111,41,165,7.59,0.37,1.49
+d1_c_ap_02-10 12_34.txt,GPT_complex,Job Interview - sales specialist,everyday,3235,842,99,40,162,8.51,0.40,1.64
+d5_c_yk_02-19 12_53.txt,GPT_complex,Travel Agent,everyday,1380,842,86,53,172,9.79,0.62,2.00
+a4_c_rc_02-24 14_46.txt,GPT_complex,Economics,academic,1566,841,118,38,146,7.13,0.32,1.24
+d1_c_as_10-11 12_11.txt,GPT_complex,Job Interview - marketing specialist,everyday,4568,841,105,41,162,8.01,0.39,1.54
+a3_c_as_10-02 14_18.txt,GPT_complex,Business Management,academic,2938,841,101,32,162,8.33,0.32,1.60
+d5_s_dk_11-15 12_00.txt,GPT_simple,Travel Agent,everyday,1532,835,148,42,151,5.64,0.28,1.02
+d3_c_yv_12-04 12_26.txt,GPT_complex,Buying a Car,everyday,2048,834,107,41,155,7.79,0.38,1.45
+d4_c_aa_04-03 10_50.txt,GPT_complex,US Culture Discussion,everyday,1480,834,93,62,131,8.97,0.67,1.41
+d1_c_fm_10-25 13_08.txt,GPT_complex,Job Interview - interpreter,everyday,3318,833,104,35,153,8.01,0.34,1.47
+a1_c_aa_10-05 09_48.txt,GPT_complex,Environmental Science,academic,3984,828,94,30,176,8.81,0.32,1.87
+a1_c_ap_02-10 13_33.txt,GPT_complex,Environmental Science,academic,2411,827,104,28,161,7.95,0.27,1.55
+d5_c_nn_10-24 14_24.txt,GPT_complex,Travel Agent,everyday,1258,826,109,49,162,7.58,0.45,1.49
+a2_c_ss_11-02 09_19.txt,GPT_complex,Health,academic,5513,826,101,37,164,8.18,0.37,1.62
+d2_c_ki_02-17 13_58.txt,GPT_complex,Choosing a Major,everyday,1321,824,127,43,169,6.49,0.34,1.33
+d1_c_nn_10-02 14_15.txt,GPT_complex,Job Interview - nurse,everyday,1721,824,99,37,173,8.32,0.37,1.75
+a2_c_aa_02-26 13_07.txt,GPT_complex,Health,academic,1268,823,111,43,149,7.41,0.39,1.34
+a5_c_mg_10-30 13_31.txt,GPT_complex,Journalism,academic,3506,823,109,34,153,7.55,0.31,1.40
+d4_s_fr_10-26 09_59.txt,USER_simple,US Culture Discussion,everyday,3211,822,107,36,121,7.68,0.34,1.13
+a2_c_un_10-07 14_10.txt,GPT_complex,Health,academic,2015,822,101,33,178,8.14,0.33,1.76
+d5_c_as_10-02 15_18.txt,GPT_complex,Travel Agent,everyday,1059,821,101,42,178,8.13,0.42,1.76
+d5_c_bb_03-24 14_04.txt,GPT_complex,Travel Agent,everyday,2693,820,113,52,165,7.26,0.46,1.46
+a3_c_fm_10-29 14_49.txt,GPT_complex,Business Management,academic,2135,820,106,32,151,7.74,0.30,1.42
+d2_c_ba_09-20 11_16.txt,USER_complex,Choose a Major ,everyday,4412,819,102,32,121,8.03,0.31,1.19
+d4_c_ar_11-15 09_16.txt,GPT_complex,US Culture Discussion,everyday,1965,816,99,45,146,8.24,0.45,1.47
+a1_c_yv_11-15 10_40.txt,GPT_complex,Environmental Science,academic,6005,815,105,30,173,7.76,0.29,1.65
+a1_c_es_10-30 14_07.txt,GPT_complex,Environmental Science,academic,1061,815,95,33,166,8.58,0.35,1.75
+a5_s_mk_10-09 15_02.txt,GPT_simple,Journalism,academic,3699,814,124,32,148,6.56,0.26,1.19
+d4_s_ap_02-12 15_24.txt,USER_simple,US Culture Discussion,everyday,2859,813,128,26,111,6.35,0.20,0.87
+a4_c_ck_02-10 14_22.txt,GPT_complex,Economics,academic,1431,813,120,34,159,6.78,0.28,1.33
+a4_c_aa_03-06 10_46.txt,GPT_complex,Economics,academic,1744,813,115,31,143,7.07,0.27,1.24
+a1_c_un_10-11 12_21.txt,GPT_complex,Environmental Science,academic,1965,813,108,26,165,7.53,0.24,1.53
+a2_c_do_10-25 13_09.txt,GPT_complex,Health,academic,936,813,92,27,172,8.84,0.29,1.87
+a1_c_aa_10-05 09_10.txt,GPT_complex,Environmental Science,academic,6422,811,86,29,173,9.43,0.34,2.01
+d3_c_ck_02-03 14_05.txt,GPT_complex,Buying a Car,everyday,1210,809,106,48,156,7.63,0.45,1.47
+d5_c_ba_11-08 10_24.txt,GPT_complex,Travel Agent,everyday,1341,808,97,40,170,8.33,0.41,1.75
+a5_c_fm_10-18 13_13.txt,GPT_complex,Journalism,academic,1989,807,116,24,150,6.96,0.21,1.29
+a4_c_fm_10-25 12_16.txt,GPT_complex,Economics,academic,2712,807,116,40,148,6.96,0.34,1.28
+a5_c_es_10-09 15_00.txt,GPT_complex,Journalism,academic,697,807,115,26,163,7.02,0.23,1.42
+d4_c_aa_10-26 09_27.txt,USER_complex,US Culture Discussion,everyday,6528,807,88,53,105,9.17,0.60,1.19
+d3_s_ss_11-22 09_21.txt,GPT_simple,Buying a Car,everyday,2637,806,156,18,131,5.17,0.12,0.84
+d2_s_ef_10-16 15_25.txt,GPT_simple,Choosing a Major,everyday,1672,805,137,29,130,5.88,0.21,0.95
+a3_s_fr_10-12 10_01.txt,GPT_simple,Business Management,academic,3920,803,131,25,132,6.13,0.19,1.01
+a4_c_ar_11-09 09_06.txt,GPT_complex,Economics,academic,2054,803,130,30,156,6.18,0.23,1.20
+d1_s_dk_11-01 10_48.txt,USER_simple,Job Interview - primary school teacher,everyday,4358,801,136,23,114,5.89,0.17,0.84
+a1_c_nn_10-02 14_47.txt,GPT_complex,Environmental Science,academic,1266,800,101,25,156,7.92,0.25,1.54
+d1_c_ss_11-02 11_04.txt,GPT_complex,Job Interview - nurse,everyday,5786,800,101,40,147,7.92,0.40,1.46
+d2_s_rt_10-31 13_59.txt,GPT_simple,Choosing a Major,everyday,1922,798,140,23,146,5.70,0.16,1.04
+a4_c_np_11-06 12_31.txt,GPT_complex,Economics,academic,3188,798,121,25,145,6.60,0.21,1.20
+a1_s_dn_09-30 14_12.txt,GPT_simple,Environmental Science ,academic,1573,797,121,20,148,6.59,0.17,1.22
+d4_c_yv_11-22 12_26.txt,USER_complex,US Culture Discussion,everyday,5813,797,101,30,138,7.89,0.30,1.37
+d5_c_aa_10-26 11_21.txt,GPT_complex,Travel Agent,everyday,3996,796,101,49,173,7.88,0.49,1.71
+a3_c_ga_10-04 12_03.txt,GPT_complex,Business Management,academic,1857,795,89,32,158,8.93,0.36,1.78
+a5_c_aa_04-03 11_17.txt,GPT_complex,Journalism,academic,2766,792,121,28,141,6.55,0.23,1.17
+a3_c_ar_11-01 09_42.txt,GPT_complex,Business Management,academic,2160,791,101,31,164,7.83,0.31,1.62
+a3_c_np_10-19 08_54.txt,GPT_complex,Business Management,academic,6517,790,103,33,154,7.67,0.32,1.50
+d5_c_mm_11-05 12_39.txt,GPT_complex,Travel Agent,everyday,1928,789,93,39,154,8.48,0.42,1.66
+a1_s_yn_10-16 14_44.txt,GPT_simple,Environmental Science,academic,2281,788,131,22,133,6.02,0.17,1.02
+d3_s_bl_04-15 11_39.txt,GPT_simple,Buying a Car,everyday,1740,786,140,35,107,5.61,0.25,0.76
+d2_c_aa_09-20 08_21.txt,GPT_complex,Choose a Major ,everyday,5351,786,101,43,169,7.78,0.43,1.67
+a3_c_ok_10-16 14_23.txt,GPT_complex,Business Management,academic,2607,784,100,33,142,7.84,0.33,1.42
+d4_c_mg_11-06 12_24.txt,GPT_complex,US Culture Discussion,everyday,4872,784,75,69,132,10.45,0.92,1.76
+d2_s_bl_04-07 13_10.txt,GPT_simple,Choosing a Major,everyday,1941,782,142,18,135,5.51,0.13,0.95
+a1_c_do_11-14 14_27.txt,GPT_complex,Environmental Science,academic,1994,781,109,23,172,7.17,0.21,1.58
+d3_s_bo_12-04 13_07.txt,GPT_simple,Buying a Car,everyday,1739,780,142,27,123,5.49,0.19,0.87
+d1_s_td_03-31 14_03.txt,GPT_simple,Job Interview - nurse,everyday,2731,780,120,38,139,6.50,0.32,1.16
+a5_c_ar_11-15 09_52.txt,GPT_complex,Journalism,academic,1380,780,118,30,143,6.61,0.25,1.21
+a2_c_rc_03-05 14_32.txt,GPT_complex,Health,academic,1618,779,97,38,150,8.03,0.39,1.55
+a3_s_rd_10-05 09_22.txt,GPT_simple,Business Management,academic,2388,778,133,31,140,5.85,0.23,1.05
+a1_c_nn_10-16 14_55.txt,GPT_complex,Environmental Science,academic,2340,778,116,25,163,6.71,0.22,1.41
+d2_c_ek_03-24 15_03.txt,GPT_complex,Choosing a Major,everyday,2527,774,110,44,150,7.04,0.40,1.36
+a3_s_ef_10-16 14_08.txt,GPT_simple,Business Management,academic,3988,773,125,27,126,6.18,0.22,1.01
+a3_c_nn_10-09 14_39.txt,GPT_complex,Business Management,academic,1199,772,98,26,161,7.88,0.27,1.64
+a5_c_nn_10-09 14_51.txt,GPT_complex,Journalism,academic,2337,771,100,29,143,7.71,0.29,1.43
+d1_c_yv_10-11 10_41.txt,GPT_complex,Job Interview - sales specialist,everyday,6132,771,94,40,154,8.20,0.43,1.64
+a1_c_ba_10-04 10_50.txt,GPT_complex,Environmental Science,academic,4251,771,89,25,152,8.66,0.28,1.71
+d2_c_ms_09-21 09_25.txt,GPT_complex,Choose a Major ,everyday,2140,770,108,32,170,7.13,0.30,1.57
+a5_c_nn_10-23 15_03.txt,GPT_complex,Journalism,academic,1276,769,114,25,140,6.75,0.22,1.23
+a5_c_yk_02-24 12_22.txt,GPT_complex,Journalism,academic,1820,768,114,24,159,6.74,0.21,1.39
+a5_c_yv_11-20 13_32.txt,GPT_complex,Journalism,academic,3348,767,107,28,146,7.17,0.26,1.36
+a1_c_fm_10-16 14_22.txt,GPT_complex,Environmental Science,academic,1826,767,105,30,160,7.30,0.29,1.52
+d1_s_vv_10-25 12_10.txt,USER_simple,Job Interview - English teacher,everyday,5402,766,106,28,139,7.23,0.26,1.31
+a2_c_fm_10-11 13_00.txt,GPT_complex,Health,academic,1690,766,99,32,165,7.74,0.32,1.67
+d3_s_bb_03-12 14_36.txt,GPT_simple,Buying a Car,everyday,3002,765,142,37,112,5.39,0.26,0.79
+a5_c_aa_11-02 09_51.txt,GPT_complex,Journalism,academic,6995,765,99,29,151,7.73,0.29,1.53
+d4_c_ap_02-24 12_32.txt,GPT_complex,US Culture Discussion,everyday,1912,764,81,62,142,9.43,0.77,1.75
+a4_s_za_09-23 14_20.txt,GPT_simple,Economics ,academic,1908,761,118,31,130,6.45,0.26,1.10
+a4_c_aa_10-04 09_09.txt,GPT_complex,Economics,academic,3536,761,97,27,139,7.85,0.28,1.43
+d4_c_ba_11-02 09_47.txt,USER_complex,US Culture Discussion,everyday,2829,761,95,31,114,8.01,0.33,1.20
+d2_s_dk_11-13 09_17.txt,GPT_simple,Choosing a Major,everyday,2504,760,128,38,130,5.94,0.30,1.02
+a3_c_rw_10-29 17_13.txt,GPT_complex,Business Management,academic,1407,757,105,30,141,7.21,0.29,1.34
+a1_c_ek_03-24 14_05.txt,GPT_complex,Environmental Science,academic,3283,757,100,24,157,7.57,0.24,1.57
+d3_s_dk_11-08 11_51.txt,GPT_simple,Buying a Car,everyday,2503,754,134,34,115,5.63,0.25,0.86
+a2_c_ba_09-20 08_22.txt,GPT_complex,Health ,academic,9192,754,101,27,151,7.47,0.27,1.50
+d1_c_rc_02-24 14_12.txt,GPT_complex,Job Interview - marketing specialist,everyday,1957,754,98,40,146,7.69,0.41,1.49
+d1_c_rw_11-12 17_53.txt,GPT_complex,Job Interview - accountant,everyday,971,753,93,36,137,8.10,0.39,1.47
+d1_c_es_10-30 14_30.txt,GPT_complex,Job Interview - accountant,everyday,911,753,90,39,128,8.37,0.43,1.42
+d4_s_bb_03-27 10_58.txt,USER_simple,US Culture Discussion,everyday,5772,751,103,39,120,7.29,0.38,1.17
+d2_s_dn_09-30 14_45.txt,GPT_simple,Choose a Major ,everyday,568,749,145,28,135,5.17,0.19,0.93
+a2_s_ms_09-21 09_35.txt,GPT_simple,Health ,academic,4641,749,122,21,145,6.14,0.17,1.19
+a2_c_np_11-01 09_40.txt,GPT_complex,Health,academic,3175,748,101,28,138,7.41,0.28,1.37
+a1_c_aa_03-11 11_18.txt,GPT_complex,Environmental Science,academic,1110,748,94,25,157,7.96,0.27,1.67
+d1_c_nn_09-25 14_33.txt,GPT_complex,Job Interview primary school teacher,everyday,1776,748,92,23,141,8.13,0.25,1.53
+a3_c_aa_02-27 10_49.txt,GPT_complex,Business Management,academic,2232,746,110,31,147,6.78,0.28,1.34
+a1_c_yk_02-12 13_13.txt,GPT_complex,Environmental Science,academic,1439,745,111,25,145,6.71,0.23,1.31
+d2_c_ts_10-11 12_47.txt,GPT_complex,Choosing a Major,everyday,905,744,96,33,168,7.75,0.34,1.75
+d4_s_dk_11-15 10_54.txt,GPT_simple,US Culture Discussion,everyday,3659,743,120,39,95,6.19,0.33,0.79
+d4_c_rc_03-05 14_02.txt,GPT_complex,US Culture Discussion,everyday,1697,743,81,36,137,9.17,0.44,1.69
+d1_s_fr_11-02 09_13.txt,USER_simple,Job Interview - computer scientist,everyday,2836,742,119,23,121,6.24,0.19,1.02
+a2_c_yv_10-11 12_28.txt,GPT_complex,Health,academic,2782,742,91,35,146,8.15,0.38,1.60
+d4_c_nn_10-11 13_17.txt,GPT_complex,US Culture Discussion,everyday,1240,742,80,31,148,9.28,0.39,1.85
+d5_c_ek_04-09 14_52.txt,GPT_complex,Travel Agent,everyday,1227,741,98,37,144,7.56,0.38,1.47
+a5_c_ms_10-26 10_58.txt,GPT_complex,Journalism,academic,2638,741,97,31,143,7.64,0.32,1.47
+d4_c_np_10-19 11_03.txt,GPT_complex,US Culture Discussion,everyday,3381,741,75,53,134,9.88,0.71,1.79
+d3_s_si_02-05 14_16.txt,GPT_simple,Buying a Car,everyday,2261,740,127,28,122,5.83,0.22,0.96
+a5_c_ss_10-12 10_15.txt,GPT_complex,Journalism,academic,7373,740,113,23,136,6.55,0.20,1.20
+d3_c_un_10-09 14_37.txt,GPT_complex,Buying a Car,everyday,1365,740,101,38,150,7.33,0.38,1.49
+d1_s_fr_11-02 09_13.txt,GPT_simple,Job Interview - computer scientist,everyday,2836,739,123,35,127,6.01,0.28,1.03
+a5_c_np_10-25 10_34.txt,GPT_complex,Journalism,academic,4560,738,106,31,139,6.96,0.29,1.31
+a4_s_dn_09-25 15_35.txt,GPT_simple,Economics ,academic,1433,737,120,19,132,6.14,0.16,1.10
+a5_c_aa_10-16 14_33.txt,GPT_complex,Journalism,academic,3762,737,99,27,134,7.44,0.27,1.35
+d4_s_hj_02-17 13_57.txt,GPT_simple,US Culture Discussion,everyday,3360,736,104,39,121,7.08,0.38,1.16
+d3_s_zm_02-26 13_00.txt,GPT_simple,Buying a Car,everyday,785,734,121,30,117,6.07,0.25,0.97
+a1_c_ok_11-13 14_31.txt,GPT_complex,Environmental Science,academic,1107,734,108,24,153,6.80,0.22,1.42
+d3_c_rc_02-19 14_34.txt,GPT_complex,Buying a Car,everyday,664,734,97,42,134,7.57,0.43,1.38
+a3_c_mg_11-08 09_37.txt,GPT_complex,Business Management,academic,4594,734,88,30,139,8.34,0.34,1.58
+d4_c_ki_02-10 14_00.txt,GPT_complex,US Culture Discussion,everyday,1653,733,77,50,124,9.52,0.65,1.61
+a3_c_yk_02-19 13_19.txt,GPT_complex,Business Management,academic,1365,731,102,28,121,7.17,0.27,1.19
+a3_c_ms_10-12 09_05.txt,GPT_complex,Business Management,academic,3323,731,101,37,134,7.24,0.37,1.33
+a4_c_ms_10-26 10_06.txt,GPT_complex,Economics,academic,2743,730,109,26,118,6.70,0.24,1.08
+a3_c_aa_10-09 15_02.txt,GPT_complex,Business Management,academic,3875,730,96,20,140,7.60,0.21,1.46
+d1_c_ok_10-25 13_24.txt,GPT_complex,Job Interview - accountant,everyday,1847,730,87,40,144,8.39,0.46,1.66
+d2_s_nd_03-03 13_58.txt,GPT_simple,Choosing a Major,everyday,1506,729,126,37,113,5.79,0.29,0.90
+a5_c_va_02-05 14_47.txt,GPT_complex,Journalism,academic,2689,729,95,34,134,7.67,0.36,1.41
+d1_c_ck_02-05 14_28.txt,GPT_complex,Job Interview - English teacher,everyday,1386,728,90,43,141,8.09,0.48,1.57
+d3_s_hj_02-26 14_07.txt,GPT_simple,Buying a Car,everyday,1265,727,131,34,109,5.55,0.26,0.83
+a1_c_rc_02-19 13_58.txt,GPT_complex,Environmental Science,academic,1688,726,102,26,137,7.12,0.25,1.34
+d2_s_mk_09-20 08_33.txt,USER_simple,Choose a Major ,everyday,7019,724,107,22,105,6.77,0.21,0.98
+a3_c_ss_11-15 09_35.txt,GPT_complex,Business Management,academic,5618,724,91,32,138,7.96,0.35,1.52
+d3_s_nd_02-24 14_30.txt,GPT_simple,Buying a Car,everyday,1138,723,119,34,119,6.08,0.29,1.00
+d1_c_ck_02-05 14_28.txt,USER_complex,Job Interview - English teacher,everyday,1386,721,137,21,98,5.26,0.15,0.72
+d2_s_vv_11-15 12_09.txt,GPT_simple,Choosing a Major,everyday,1715,720,106,42,134,6.79,0.40,1.26
+d1_c_np_11-06 13_31.txt,GPT_complex,Job Interview - English teacher,everyday,2492,720,93,24,139,7.74,0.26,1.49
+a4_s_tn_09-25 14_47.txt,GPT_simple,Economics ,academic,2865,719,125,23,130,5.75,0.18,1.04
+a3_c_do_10-29 14_46.txt,GPT_complex,Business Management,academic,3153,719,97,37,142,7.41,0.38,1.46
+a2_c_bb_03-24 14_53.txt,GPT_complex,Health,academic,2010,718,90,38,150,7.98,0.42,1.67
+a3_c_bl_01-31 12_05.txt,GPT_complex,Business Management,academic,2093,717,107,26,129,6.70,0.24,1.21
+a4_c_as_09-23 14_27.txt,GPT_complex,Economics ,academic,2861,717,95,20,136,7.55,0.21,1.43
+a1_c_va_02-10 14_15.txt,GPT_complex,Environmental Science,academic,2886,716,92,17,149,7.78,0.18,1.62
+a5_c_ap_02-24 13_07.txt,GPT_complex,Journalism,academic,2446,714,94,30,140,7.60,0.32,1.49
+d3_s_rt_10-29 14_48.txt,GPT_simple,Buying a Car,everyday,1252,713,122,35,102,5.84,0.29,0.84
+d5_c_ms_10-26 09_32.txt,GPT_complex,Travel Agent,everyday,1772,713,94,36,152,7.59,0.38,1.62
+a3_c_ap_02-13 11_08.txt,GPT_complex,Business Management,academic,2809,713,92,34,136,7.75,0.37,1.48
+a3_c_rc_03-03 14_47.txt,GPT_complex,Business Management,academic,1247,712,104,23,143,6.85,0.22,1.38
+d2_s_hj_02-24 14_27.txt,GPT_simple,Choosing a Major,everyday,1110,709,134,29,99,5.29,0.22,0.74
+d1_s_hj_02-05 14_04.txt,USER_simple,Job Interview - nurse,everyday,3507,709,111,26,136,6.39,0.23,1.23
+d4_s_sd_04-01 14_56.txt,USER_simple,US Culture Discussion,everyday,1598,707,99,34,123,7.14,0.34,1.24
+a3_c_yv_12-04 13_04.txt,GPT_complex,Business Management,academic,3605,707,95,27,147,7.44,0.28,1.55
+a3_s_yn_10-09 14_22.txt,GPT_simple,Business Management,academic,2188,705,108,25,123,6.53,0.23,1.14
+a4_c_ss_11-08 11_04.txt,GPT_complex,Economics,academic,4412,705,104,31,123,6.78,0.30,1.18
+a3_s_za_10-09 14_09.txt,GPT_simple,Business Management,academic,1771,704,125,20,118,5.63,0.16,0.94
+a5_s_bl_04-15 10_56.txt,GPT_simple,Journalism,academic,2153,704,123,27,124,5.72,0.22,1.01
+a5_c_aa_11-02 09_51.txt,USER_complex,Journalism,academic,6995,704,92,33,117,7.65,0.36,1.27
+d5_s_mk_10-16 14_14.txt,GPT_simple,Travel Agent,everyday,2931,703,115,35,117,6.11,0.30,1.02
+d5_c_aa_10-16 14_04.txt,GPT_complex,Travel Agent,everyday,1552,703,84,37,138,8.37,0.44,1.64
+d3_s_sm_12-02 13_27.txt,GPT_simple,Buying a Car,everyday,1680,702,133,29,108,5.28,0.22,0.81
+a3_c_ba_10-26 09_53.txt,GPT_complex,Business Management,academic,4732,702,100,30,149,7.02,0.30,1.49
+a5_c_do_11-01 12_06.txt,GPT_complex,Journalism,academic,2459,702,98,26,131,7.16,0.27,1.34
+a1_c_bl_02-05 14_09.txt,GPT_complex,Environmental Science,academic,1189,701,90,24,138,7.79,0.27,1.53
+a3_c_mm_11-05 13_16.txt,GPT_complex,Business Management,academic,2028,700,88,22,138,7.95,0.25,1.57
+d5_s_s0_02.txt,GPT_simple,Travel Agent,everyday,1135,699,97,48,120,7.21,0.49,1.24
+a3_c_ek_03-11 15_32.txt,GPT_complex,Business Management,academic,2709,699,94,21,132,7.44,0.22,1.40
+a3_s_ls_10-31 14_07.txt,GPT_simple,Business Management,academic,3641,698,108,20,126,6.46,0.19,1.17
+d2_s_bb_04-09 14_00.txt,GPT_simple,Choosing a Major,everyday,1943,696,118,36,133,5.90,0.31,1.13
+d1_c_va_01-31 12_26.txt,GPT_complex,Job Interview - software engineer,everyday,2052,696,85,35,145,8.19,0.41,1.71
+d5_c_va_02-05 14_09.txt,USER_complex,Travel Agent,everyday,2121,695,93,26,107,7.47,0.28,1.15
+a1_s_rd_10-04 10_18.txt,GPT_simple,Environmental Science,academic,2373,694,122,16,123,5.69,0.13,1.01
+a4_c_ba_11-02 10_37.txt,GPT_complex,Economics,academic,4198,694,93,37,142,7.46,0.40,1.53
+a1_c_mm_10-31 14_03.txt,GPT_complex,Environmental Science,academic,4208,694,86,29,144,8.07,0.34,1.67
+a1_c_ms_10-05 09_55.txt,GPT_complex,Environmental Science,academic,2532,694,80,22,131,8.68,0.28,1.64
+d5_c_rw_11-07 17_08.txt,GPT_complex,Travel Agent,everyday,739,693,94,48,124,7.37,0.51,1.32
+d4_c_bl_02-10 14_09.txt,GPT_complex,US Culture Discussion,everyday,1269,693,71,42,119,9.76,0.59,1.68
+a1_c_ts_10-09 14_39.txt,GPT_complex,Environmental Science,academic,1196,692,82,20,139,8.44,0.24,1.70
+a2_c_ar_11-08 10_10.txt,GPT_complex,Health,academic,1618,691,96,30,138,7.20,0.31,1.44
+a4_s_rd_10-11 09_01.txt,GPT_simple,Economics,academic,3052,690,134,17,105,5.15,0.13,0.78
+d5_s_qn_10-09 14_38.txt,GPT_simple,Travel Agent,everyday,549,690,116,36,122,5.95,0.31,1.05
+d4_s_ms_10-12 09_06.txt,GPT_simple,US Culture Discussion,everyday,4115,690,99,36,106,6.97,0.36,1.07
+d3_s_ef_10-30 13_44.txt,GPT_simple,Buying a Car,everyday,1696,689,118,24,112,5.84,0.20,0.95
+a3_c_ki_02-10 14_31.txt,GPT_complex,Business Management,academic,1936,689,78,30,133,8.83,0.38,1.71
+d2_s_sm_11-20 12_44.txt,GPT_simple,Choosing a Major,everyday,2068,688,127,23,112,5.42,0.18,0.88
+a2_c_ts_10-02 14_41.txt,GPT_complex,Health,academic,1476,687,84,27,135,8.18,0.32,1.61
+d1_c_mg_11-08 11_03.txt,GPT_complex,Job Interview - sales specialist,everyday,2927,686,86,35,138,7.98,0.41,1.60
+d2_c_va_02-10 15_10.txt,GPT_complex,Choosing a Major,everyday,1502,685,103,33,144,6.65,0.32,1.40
+d2_s_rd_09-21 09_15.txt,GPT_simple,Choose a Major ,everyday,1597,684,120,25,139,5.70,0.21,1.16
+a1_c_ki_02-17 14_27.txt,GPT_complex,Environmental Science,academic,1159,684,93,25,133,7.35,0.27,1.43
+a1_s_bl_04-14 11_20.txt,GPT_simple,Environmental Science,academic,1731,682,117,16,123,5.83,0.14,1.05
+a2_c_aa_09-20 09_57.txt,GPT_complex,Health ,academic,3635,682,84,22,152,8.12,0.26,1.81
+a1_s_qn_10-04 12_08.txt,GPT_simple,Environmental Science,academic,1893,679,117,19,123,5.80,0.16,1.05
+d2_c_as_10-04 13_00.txt,GPT_complex,Choosing a Major,everyday,1610,678,91,36,154,7.45,0.40,1.69
+d5_c_es_11-06 14_02.txt,GPT_complex,Travel Agent,everyday,824,678,79,49,128,8.58,0.62,1.62
+d4_c_un_10-11 13_02.txt,GPT_complex,US Culture Discussion,everyday,1089,678,77,25,144,8.81,0.32,1.87
+d3_c_va_01-31 13_07.txt,GPT_complex,Buying a Car,everyday,1836,677,85,45,146,7.96,0.53,1.72
+d1_c_ki_02-24 13_58.txt,GPT_complex,Job Interview - accountant,everyday,1225,676,90,34,123,7.51,0.38,1.37
+d5_c_np_11-01 09_18.txt,GPT_complex,Travel Agent,everyday,1166,676,87,34,139,7.77,0.39,1.60
+d1_c_bl_01-31 12_47.txt,GPT_complex,Job Interview - cybersecurity analyst,everyday,1748,676,84,34,117,8.05,0.40,1.39
+d1_s_bb_04-03 10_52.txt,GPT_simple,Job Interview - interpreter,everyday,5345,675,99,30,118,6.82,0.30,1.19
+d2_s_mk_09-20 08_33.txt,GPT_simple,Choose a Major ,everyday,7019,673,113,29,127,5.96,0.26,1.12
+d1_s_sd_03-26 14_57.txt,GPT_simple,Job Interview - accountant,everyday,1806,673,101,33,105,6.66,0.33,1.04
+d2_s_fr_10-12 11_18.txt,GPT_simple,Choosing a Major,everyday,1578,673,97,33,116,6.94,0.34,1.20
+d4_s_fs_11-11 13_37.txt,GPT_simple,US Culture Discussion,everyday,2325,672,111,32,95,6.05,0.29,0.86
+a2_s_tn_10-02 14_39.txt,GPT_simple,Health,academic,1697,672,107,21,111,6.28,0.20,1.04
+a4_c_r1_45.txt,GPT_complex,Economics,academic,1285,672,105,29,122,6.40,0.28,1.16
+d5_s_hj_02-10 14_24.txt,GPT_simple,Travel Agent,everyday,1185,670,112,39,110,5.98,0.35,0.98
+a3_s_qn_10-15 14_46.txt,GPT_simple,Business Management,academic,1072,669,113,22,104,5.92,0.19,0.92
+d3_c_ok_12-05 13_31.txt,GPT_complex,Buying a Car,everyday,910,669,86,42,138,7.78,0.49,1.60
+a3_s_td_04-07 14_42.txt,GPT_simple,Business Management,academic,1772,668,109,19,112,6.13,0.17,1.03
+a2_c_es_10-09 14_17.txt,GPT_complex,Health,academic,1243,667,84,24,138,7.94,0.29,1.64
+a4_c_va_02-03 14_11.txt,GPT_complex,Economics,academic,3646,666,91,30,127,7.32,0.33,1.40
+d3_c_aa_10-09 16_14.txt,GPT_complex,Buying a Car,everyday,1790,666,90,35,135,7.40,0.39,1.50
+a4_c_aa_10-19 09_15.txt,USER_complex,Economics,academic,7670,666,84,30,113,7.93,0.36,1.35
+a4_s_yn_10-02 14_11.txt,GPT_simple,Economics,academic,2264,664,115,23,108,5.77,0.20,0.94
+a1_s_ef_10-18 10_29.txt,GPT_simple,Environmental Science,academic,2204,663,126,21,117,5.26,0.17,0.93
+a2_c_mg_11-01 09_20.txt,GPT_complex,Health,academic,5583,663,90,28,136,7.37,0.31,1.51
+d1_c_yk_02-24 12_58.txt,GPT_complex,Job Interview - chef,everyday,1447,663,88,34,120,7.53,0.39,1.36
+d3_s_ms_10-26 10_34.txt,GPT_simple,Buying a Car,everyday,1377,661,128,20,96,5.16,0.16,0.75
+d3_c_as_09-25 14_35.txt,GPT_complex,Buy a Car ,everyday,1070,661,88,26,110,7.51,0.30,1.25
+d1_c_aa_02-26 12_30.txt,GPT_complex,Job Interview - computer scientist,everyday,1976,660,89,34,124,7.42,0.38,1.39
+d5_c_ms_10-12 10_10.txt,GPT_complex,Travel Agent,everyday,1650,660,88,44,135,7.50,0.50,1.53
+d3_c_bb_04-07 14_08.txt,GPT_complex,Buying a Car,everyday,1027,659,85,40,123,7.75,0.47,1.45
+d2_s_na_02-12 14_33.txt,GPT_simple,Choosing a Major,everyday,1655,658,116,27,104,5.67,0.23,0.90
+d1_s_dn_09-25 14_33.txt,USER_simple,Job Interview sales specialist,everyday,3491,658,115,31,124,5.72,0.27,1.08
+d3_s_na_02-19 13_59.txt,GPT_simple,Buying a Car,everyday,1245,658,111,32,100,5.93,0.29,0.90
+d4_c_va_02-03 15_20.txt,USER_complex,US Culture Discussion,everyday,2087,658,87,29,91,7.56,0.33,1.05
+a3_s_vv_11-05 14_34.txt,USER_simple,Business Management,academic,4813,658,81,24,102,8.12,0.30,1.26
+a1_s_as_02-27 11_24.txt,GPT_simple,Environmental Science,academic,1720,657,112,28,124,5.87,0.25,1.11
+d4_c_ss_10-25 11_24.txt,USER_complex,US Culture Discussion,everyday,4650,657,84,30,108,7.82,0.36,1.29
+d5_s_mo_11-08 10_31.txt,GPT_simple,Travel Agent,everyday,1585,656,110,34,114,5.96,0.31,1.04
+d1_s_dk_11-01 10_48.txt,GPT_simple,Job Interview - primary school teacher,everyday,4358,656,96,27,107,6.83,0.28,1.11
+a5_s_nd_03-03 14_28.txt,GPT_simple,Journalism,academic,2019,655,119,26,108,5.50,0.22,0.91
+d3_c_es_10-02 14_14.txt,GPT_complex,Buying a Car,everyday,468,655,83,20,120,7.89,0.24,1.45
+a4_c_mg_11-06 13_48.txt,GPT_complex,Economics,academic,3103,654,85,34,117,7.69,0.40,1.38
+d4_c_as_09-23 15_24.txt,GPT_complex,US Culture Discussion ,everyday,1313,654,70,29,128,9.34,0.41,1.83
+d3_s_ls_11-05 14_53.txt,GPT_simple,Buying a Car,everyday,1887,653,116,22,92,5.63,0.19,0.79
+d1_c_bb_02-24 14_03.txt,GPT_complex,Job Interview - computer scientist,everyday,3962,653,82,34,120,7.96,0.41,1.46
+d2_s_bo_12-04 13_38.txt,GPT_simple,Choosing a Major,everyday,1310,652,132,21,112,4.94,0.16,0.85
+a1_s_bb_03-27 12_40.txt,GPT_simple,Environmental Science,academic,4090,652,117,20,127,5.57,0.17,1.09
+d1_c_fm_10-25 13_08.txt,USER_complex,Job Interview - interpreter,everyday,3318,651,116,18,115,5.61,0.16,0.99
+a3_s_f1_19.txt,GPT_simple,Business Management,academic,4213,649,103,18,103,6.30,0.17,1.00
+a2_c_yk_02-26 13_10.txt,GPT_complex,Health,academic,1479,649,94,32,124,6.90,0.34,1.32
+d3_c_ba_10-26 11_23.txt,GPT_complex,Buying a Car,everyday,1566,648,90,34,122,7.20,0.38,1.36
+d4_s_na_02-24 14_39.txt,GPT_simple,US Culture Discussion,everyday,1513,647,96,37,93,6.74,0.39,0.97
+a3_s_as_02-19 13_39.txt,GPT_simple,Business Management,academic,1602,646,116,18,107,5.57,0.16,0.92
+a2_c_ap_02-20 10_51.txt,GPT_complex,Health,academic,2776,646,88,34,114,7.34,0.39,1.30
+d3_c_e0_07.txt,GPT_complex,Buying a Car,everyday,1867,645,97,23,111,6.65,0.24,1.14
+a4_s_mk_10-05 09_51.txt,USER_simple,Economics,academic,3249,644,94,22,87,6.85,0.23,0.93
+d5_s_vv_10-22 15_38.txt,GPT_simple,Travel Agent,everyday,2577,643,118,28,120,5.45,0.24,1.02
+a5_c_ck_02-12 14_00.txt,GPT_complex,Journalism,academic,1430,643,100,21,122,6.43,0.21,1.22
+d2_s_mo_11-11 12_24.txt,GPT_simple,Choosing a Major,everyday,1474,642,136,15,122,4.72,0.11,0.90
+d4_c_ck_02-12 14_27.txt,USER_complex,US Culture Discussion,everyday,1404,642,108,19,81,5.94,0.18,0.75
+d4_s_mo_11-01 09_36.txt,GPT_simple,US Culture Discussion,everyday,3520,642,101,34,86,6.36,0.34,0.85
+d1_c_ek_02-26 15_43.txt,GPT_complex,Job Interview - accountant,everyday,1566,642,89,31,108,7.21,0.35,1.21
+a3_s_dn_10-09 14_12.txt,GPT_simple,Business Management,academic,1480,641,96,23,114,6.68,0.24,1.19
+d2_c_nn_10-02 14_59.txt,GPT_complex,Choosing a Major,everyday,1460,640,78,37,128,8.21,0.47,1.64
+a1_c_va_02-10 14_15.txt,USER_complex,Environmental Science,academic,2886,640,78,12,100,8.21,0.15,1.28
+a4_s_qn_10-07 14_32.txt,GPT_simple,Economics,academic,1230,639,112,14,98,5.71,0.13,0.88
+d4_s_nd_02-12 14_41.txt,USER_simple,US Culture Discussion,everyday,1877,639,101,28,84,6.33,0.28,0.83
+d3_s_yn_10-16 14_22.txt,GPT_simple,Buying a Car,everyday,1196,638,108,26,97,5.91,0.24,0.90
+d4_s_ap_02-12 15_24.txt,GPT_simple,US Culture Discussion,everyday,2859,638,103,35,99,6.19,0.34,0.96
+d5_s_td_04-08 14_39.txt,GPT_simple,Travel Agent,everyday,765,637,100,33,108,6.37,0.33,1.08
+a3_s_rt_10-31 14_35.txt,GPT_simple,Business Management,academic,1610,636,96,27,104,6.63,0.28,1.08
+a3_c_aa_10-09 15_02.txt,USER_complex,Business Management,academic,3875,636,83,25,99,7.66,0.30,1.19
+a4_s_bo_12-02 13_02.txt,GPT_simple,Economics,academic,1543,635,125,20,92,5.08,0.16,0.74
+d5_s_ca_11-06 13_14.txt,GPT_simple,Travel Agent,everyday,1197,634,118,22,100,5.37,0.19,0.85
+d2_c_ck_02-10 13_56.txt,USER_complex,Choosing a Major,everyday,1388,634,116,17,100,5.47,0.15,0.86
+d4_c_ms_10-05 09_08.txt,GPT_complex,US Culture Discussion,everyday,2562,634,66,26,121,9.61,0.39,1.83
+d2_s_sd_03-31 14_05.txt,GPT_simple,Choosing a Major,everyday,1194,632,114,24,103,5.54,0.21,0.90
+d4_s_bb_03-27 10_58.txt,GPT_simple,US Culture Discussion,everyday,5772,632,97,32,94,6.52,0.33,0.97
+d5_s_ef_11-06 14_48.txt,GPT_simple,Travel Agent,everyday,994,630,111,33,111,5.68,0.30,1.00
+d4_s_mo_11-01 09_36.txt,USER_simple,US Culture Discussion,everyday,3520,630,96,35,110,6.56,0.36,1.15
+a2_c_mm_11-14 14_31.txt,GPT_complex,Health,academic,1887,630,82,27,127,7.68,0.33,1.55
+a4_c_es_11-06 14_18.txt,GPT_complex,Economics,academic,1167,629,103,19,112,6.11,0.18,1.09
+d4_s_fr_10-26 09_59.txt,GPT_simple,US Culture Discussion,everyday,3211,629,98,33,77,6.42,0.34,0.79
+d4_s_ef_10-18 09_10.txt,USER_simple,US Culture Discussion,everyday,4529,629,73,43,88,8.62,0.59,1.21
+d1_s_ap_02-26 14_01.txt,GPT_simple,Job Interview - dental hygienist,everyday,3176,628,103,21,102,6.10,0.20,0.99
+a2_c_aa_09-21 10_48.txt,GPT_complex,Health ,academic,4182,628,69,25,122,9.10,0.36,1.77
+d1_s_bb_04-03 10_52.txt,USER_simple,Job Interview - interpreter,everyday,5345,627,111,26,110,5.65,0.23,0.99
+d5_s_ap_02-05 14_08.txt,GPT_simple,Travel Agent,everyday,2644,627,96,35,104,6.53,0.36,1.08
+d4_c_fm_10-18 12_18.txt,USER_complex,US Culture Discussion,everyday,3118,627,88,26,99,7.13,0.30,1.13
+d1_c_rc_02-24 14_12.txt,USER_complex,Job Interview - marketing specialist,everyday,1957,627,86,23,98,7.29,0.27,1.14
+a2_c_va_01-27 14_04.txt,GPT_complex,Health,academic,2352,627,77,26,131,8.14,0.34,1.70
+d1_s_f1_19.txt,GPT_simple,Job Interview - accountant,everyday,3274,626,111,31,91,5.64,0.28,0.82
+a4_c_aa_10-19 09_15.txt,GPT_complex,Economics,academic,7670,626,84,21,128,7.45,0.25,1.52
+a5_s_zm_02-26 12_34.txt,GPT_simple,Journalism,academic,1289,624,128,22,118,4.88,0.17,0.92
+d1_s_nd_02-10 14_02.txt,USER_simple,Job Interview - chef,everyday,2485,623,119,13,111,5.24,0.11,0.93
+d4_s_nd_02-12 14_41.txt,GPT_simple,US Culture Discussion,everyday,1877,623,101,34,92,6.17,0.34,0.91
+d2_s_zm_02-12 13_37.txt,GPT_simple,Choosing a Major,everyday,1074,622,114,14,93,5.46,0.12,0.82
+d1_s_ef_10-25 10_22.txt,GPT_simple,Job Interview - accountant,everyday,3230,622,106,24,97,5.87,0.23,0.92
+a3_s_tn_10-07 14_10.txt,GPT_simple,Business Management,academic,1415,622,105,22,101,5.92,0.21,0.96
+d4_s_ef_10-18 09_10.txt,GPT_simple,US Culture Discussion,everyday,4529,622,93,36,91,6.69,0.39,0.98
+a5_c_e0_44.txt,GPT_complex,Journalism,academic,3044,622,80,18,116,7.78,0.23,1.45
+d1_c_va_01-31 12_26.txt,USER_complex,Job Interview - software engineer,everyday,2052,620,83,16,113,7.47,0.19,1.36
+a3_s_bo_12-06 10_06.txt,GPT_simple,Business Management,academic,1882,619,103,22,94,6.01,0.21,0.91
+a5_c_as_10-09 14_10.txt,USER_complex,Journalism,academic,3467,618,92,23,111,6.72,0.25,1.21
+a1_s_na_02-12 13_56.txt,GPT_simple,Environmental Science,academic,1824,617,108,14,105,5.71,0.13,0.97
+a1_s_mk_10-16 15_09.txt,USER_simple,Environmental Science,academic,3287,616,89,21,104,6.92,0.24,1.17
+d4_s_si_02-10 12_31.txt,USER_simple,US Culture Discussion,everyday,4113,616,89,23,103,6.92,0.26,1.16
+a1_c_ss_10-25 09_24.txt,GPT_complex,Environmental Science,academic,5908,616,80,20,132,7.70,0.25,1.65
+a4_c_va_02-03 14_11.txt,USER_complex,Economics,academic,3646,616,63,25,98,9.78,0.40,1.56
+d1_s_dn_09-25 14_33.txt,GPT_simple,Job Interview sales specialist,everyday,3491,615,108,16,105,5.69,0.15,0.97
+d4_c_mg_11-06 12_24.txt,USER_complex,US Culture Discussion,everyday,4872,615,66,31,104,9.32,0.47,1.58
+d5_c_ap_02-13 12_02.txt,GPT_complex,Travel Agent,everyday,940,614,89,31,122,6.90,0.35,1.37
+d3_s_fs_11-20 13_20.txt,GPT_simple,Buying a Car,everyday,1785,613,117,15,85,5.24,0.13,0.73
+a5_s_ef_11-06 13_59.txt,GPT_simple,Journalism,academic,2504,613,112,26,105,5.47,0.23,0.94
+a1_s_nd_02-10 14_48.txt,GPT_simple,Environmental Science,academic,1627,613,112,13,109,5.47,0.12,0.97
+a1_s_rt_11-12 14_37.txt,GPT_simple,Environmental Science,academic,1482,613,106,22,98,5.78,0.21,0.92
+d4_s_vv_11-22 12_10.txt,GPT_simple,US Culture Discussion,everyday,5253,613,96,31,84,6.39,0.32,0.88
+a1_s_ms_10-05 09_02.txt,GPT_simple,Environmental Science,academic,2903,613,93,13,106,6.59,0.14,1.14
+a5_s_na_02-10 14_43.txt,GPT_simple,Journalism,academic,2953,612,122,17,116,5.02,0.14,0.95
+a2_s_nd_02-12 14_05.txt,GPT_simple,Health,academic,1851,612,102,29,100,6.00,0.28,0.98
+d1_s_bl_03-10 12_35.txt,USER_simple,Job Interview - interpreter,everyday,2912,612,94,18,110,6.51,0.19,1.17
+d1_s_ap_02-26 14_01.txt,USER_simple,Job Interview - dental hygienist,everyday,3176,612,91,32,102,6.73,0.35,1.12
+a3_c_ck_02-03 14_27.txt,GPT_complex,Business Management,academic,1532,612,81,23,115,7.56,0.28,1.42
+d5_c_ok_11-13 14_16.txt,GPT_complex,Travel Agent,everyday,738,612,67,35,126,9.13,0.52,1.88
+a4_s_hj_02-05 15_09.txt,GPT_simple,Economics,academic,1985,611,132,11,107,4.63,0.08,0.81
+a4_c_ap_02-17 13_01.txt,GPT_complex,Economics,academic,2786,611,94,21,112,6.50,0.22,1.19
+a5_s_vv_10-29 14_03.txt,USER_simple,Journalism,academic,4653,611,68,30,130,8.99,0.44,1.91
+a5_s_ms_10-12 10_18.txt,GPT_simple,Journalism,academic,2135,610,124,15,105,4.92,0.12,0.85
+a4_s_sm_11-13 12_36.txt,GPT_simple,Economics,academic,2619,610,116,16,101,5.26,0.14,0.87
+a4_s_nd_02-24 13_58.txt,GPT_simple,Economics,academic,1504,610,111,21,96,5.50,0.19,0.86
+a3_s_bl_04-21 11_17.txt,GPT_simple,Business Management,academic,2750,610,110,26,104,5.55,0.24,0.95
+d1_c_ap_02-10 12_34.txt,USER_complex,Job Interview - sales specialist,everyday,3235,610,76,19,103,8.03,0.25,1.36
+d5_s_fr_11-12 17_56.txt,GPT_simple,Travel Agent,everyday,972,609,90,29,107,6.77,0.32,1.19
+d5_s_na_02-10 13_59.txt,GPT_simple,Travel Agent,everyday,2420,608,102,26,111,5.96,0.25,1.09
+d5_c_ki_02-12 14_34.txt,GPT_complex,Travel Agent,everyday,894,608,75,41,129,8.11,0.55,1.72
+d1_c_aa_10-05 11_15.txt,GPT_complex,Job Interview - dental hygienist,everyday,2438,608,70,22,121,8.69,0.31,1.73
+a4_s_fr_10-19 10_09.txt,GPT_simple,Economics,academic,2230,606,136,12,90,4.46,0.09,0.66
+a5_c_mm_11-20 12_15.txt,GPT_complex,Journalism,academic,2429,606,89,18,117,6.81,0.20,1.31
+d1_s_hj_02-05 14_04.txt,GPT_simple,Job Interview - nurse,everyday,3507,605,95,27,109,6.37,0.28,1.15
+a2_s_bb_04-03 12_27.txt,GPT_simple,Health,academic,3465,604,113,26,96,5.35,0.23,0.85
+d4_s_ls_10-29 13_59.txt,GPT_simple,US Culture Discussion,everyday,3658,604,92,35,80,6.57,0.38,0.87
+d4_s_ca_10-26 08_57.txt,GPT_simple,US Culture Discussion,everyday,2163,604,86,38,82,7.02,0.44,0.95
+a4_s_mo_10-30 12_38.txt,GPT_simple,Economics,academic,3406,603,120,23,101,5.03,0.19,0.84
+a1_s_mk_10-16 15_09.txt,GPT_simple,Environmental Science,academic,3287,602,103,18,108,5.84,0.17,1.05
+a5_s_mk_10-09 15_02.txt,USER_simple,Journalism,academic,3699,602,89,25,107,6.76,0.28,1.20
+a2_c_nn_10-02 14_16.txt,GPT_complex,Health,academic,1995,602,78,19,118,7.72,0.24,1.51
+a5_s_ap_02-05 14_58.txt,GPT_simple,Journalism,academic,3314,601,118,22,92,5.09,0.19,0.78
+d5_s_tn_10-16 15_03.txt,GPT_simple,Travel Agent,everyday,994,600,103,32,99,5.83,0.31,0.96
+a2_s_qn_09-30 15_06.txt,GPT_simple,Health ,academic,1616,600,95,21,101,6.32,0.22,1.06
+d4_s_sd_04-01 14_56.txt,GPT_simple,US Culture Discussion,everyday,1598,600,90,33,83,6.67,0.37,0.92
+a3_c_va_01-31 13_42.txt,USER_complex,Business Management,academic,3089,600,72,20,105,8.33,0.28,1.46
+a3_s_vv_11-05 14_34.txt,GPT_simple,Business Management,academic,4813,599,103,26,97,5.82,0.25,0.94
+d5_s_ms_10-26 10_14.txt,GPT_simple,Travel Agent,everyday,1040,597,95,24,107,6.28,0.25,1.13
+d4_s_zm_02-19 13_23.txt,GPT_simple,US Culture Discussion,everyday,1152,597,91,31,86,6.56,0.34,0.95
+d1_c_ms_11-02 09_16.txt,GPT_complex,Job Interview - software engineer,everyday,2536,596,76,27,115,7.84,0.36,1.51
+d5_s_bl_04-21 10_54.txt,GPT_simple,Travel Agent,everyday,1153,594,91,32,110,6.53,0.35,1.21
+a4_c_ek_04-09 14_05.txt,GPT_complex,Economics,academic,2625,594,88,23,105,6.75,0.26,1.19
+d1_c_ok_10-25 13_24.txt,USER_complex,Job Interview - accountant,everyday,1847,594,85,25,109,6.99,0.29,1.28
+a4_c_mm_11-13 09_30.txt,GPT_complex,Economics,academic,2893,593,70,22,112,8.47,0.31,1.60
+d4_s_as_02-19 12_52.txt,GPT_simple,US Culture Discussion,everyday,2537,592,98,34,90,6.04,0.35,0.92
+d4_s_bl_04-14 10_52.txt,GPT_simple,US Culture Discussion,everyday,1417,592,95,30,100,6.23,0.32,1.05
+a4_c_nn_10-11 12_22.txt,GPT_complex,Economics,academic,2873,592,89,17,115,6.65,0.19,1.29
+d5_s_qt_09-30 15_02.txt,GPT_simple,Travel Agent ,everyday,1176,592,83,31,129,7.13,0.37,1.55
+a2_c_bl_01-27 14_30.txt,GPT_complex,Health,academic,1823,592,70,26,130,8.46,0.37,1.86
+d5_s_za_10-15 14_38.txt,GPT_simple,Travel Agent,everyday,471,590,93,27,97,6.34,0.29,1.04
+a2_s_dn_10-15 14_41.txt,GPT_simple,Health,academic,1836,589,107,27,96,5.50,0.25,0.90
+d1_c_yv_10-11 10_41.txt,USER_complex,Job Interview - sales specialist,everyday,6132,589,91,24,102,6.47,0.26,1.12
+d2_s_ca_10-25 10_18.txt,GPT_simple,Choosing a Major,everyday,1826,588,108,23,90,5.44,0.21,0.83
+a1_s_dk_11-15 09_57.txt,GPT_simple,Environmental Science,academic,2875,588,105,17,115,5.60,0.16,1.10
+a2_c_do_10-25 13_09.txt,USER_complex,Health,academic,936,588,79,23,97,7.44,0.29,1.23
+a1_s_fs_11-11 12_26.txt,GPT_simple,Environmental Science,academic,3119,587,106,18,108,5.54,0.17,1.02
+a1_s_td_04-02 14_01.txt,GPT_simple,Environmental Science,academic,2534,587,102,18,97,5.75,0.18,0.95
+d1_s_si_02-17 12_33.txt,GPT_simple,Job Interview - chef,everyday,2372,587,96,22,92,6.11,0.23,0.96
+a5_c_bl_02-03 14_37.txt,GPT_complex,Journalism,academic,1442,587,80,20,111,7.34,0.25,1.39
+a3_s_bb_03-12 12_58.txt,GPT_simple,Business Management,academic,5063,586,103,26,101,5.69,0.25,0.98
+d2_s_fs_12-02 12_27.txt,GPT_simple,Choosing a Major,everyday,2289,585,117,17,93,5.00,0.15,0.79
+d1_s_sm_11-06 13_55.txt,GPT_simple,Job Interview - nurse,everyday,2279,584,105,21,78,5.56,0.20,0.74
+a2_c_ek_02-26 14_50.txt,GPT_complex,Health,academic,2665,584,73,23,116,8.00,0.32,1.59
+d1_s_na_02-05 15_10.txt,GPT_simple,Job Interview - chef,everyday,2032,583,95,19,81,6.14,0.20,0.85
+a5_s_bo_12-04 12_31.txt,GPT_simple,Journalism,academic,1646,582,118,12,96,4.93,0.10,0.81
+d4_s_td_04-07 14_08.txt,GPT_simple,US Culture Discussion,everyday,1904,582,93,29,79,6.26,0.31,0.85
+a3_s_mk_10-04 09_10.txt,USER_simple,Business Management,academic,3940,582,78,20,100,7.46,0.26,1.28
+a4_s_sd_04-04 13_22.txt,GPT_simple,Economics,academic,1831,581,127,13,86,4.57,0.10,0.68
+d3_s_dk_11-08 11_51.txt,USER_simple,Buying a Car,everyday,2503,581,102,21,73,5.70,0.21,0.72
+d2_s_td_03-24 14_55.txt,GPT_simple,Choosing a Major,everyday,1353,581,101,21,108,5.75,0.21,1.07
+a4_s_ef_10-30 14_16.txt,GPT_simple,Economics,academic,2457,579,123,21,80,4.71,0.17,0.65
+d3_c_ck_02-03 14_05.txt,USER_complex,Buying a Car,everyday,1210,579,118,10,78,4.91,0.08,0.66
+a5_s_ca_11-06 12_28.txt,GPT_simple,Journalism,academic,2243,577,98,24,100,5.89,0.24,1.02
+a5_c_ts_10-18 12_43.txt,GPT_complex,Journalism,academic,1911,577,88,21,114,6.56,0.24,1.30
+a5_c_ba_11-08 09_35.txt,GPT_complex,Journalism,academic,2613,577,85,20,108,6.79,0.24,1.27
+a2_c_ck_02-17 14_07.txt,GPT_complex,Health,academic,1240,577,76,24,106,7.59,0.32,1.39
+a4_s_as_03-10 12_30.txt,GPT_simple,Economics,academic,1581,576,120,19,94,4.80,0.16,0.78
+d5_s_si_02-13 12_21.txt,GPT_simple,Travel Agent,everyday,1748,575,91,37,105,6.32,0.41,1.15
+a4_s_bb_03-06 10_44.txt,GPT_simple,Economics,academic,6492,574,117,21,90,4.91,0.18,0.77
+d1_c_bl_01-31 12_47.txt,USER_complex,Job Interview - cybersecurity analyst,everyday,1748,574,104,17,97,5.52,0.16,0.93
+d4_s_rd_10-18 09_04.txt,GPT_simple,US Culture Discussion,everyday,2151,574,102,28,70,5.63,0.27,0.69
+a2_s_rd_09-21 09_54.txt,GPT_simple,Health ,academic,3056,574,96,26,110,5.98,0.27,1.15
+d1_s_zm_02-13 11_07.txt,GPT_simple,Job Interview - nurse,everyday,1351,574,87,27,99,6.60,0.31,1.14
+a5_s_rd_10-18 09_42.txt,GPT_simple,Journalism,academic,2288,573,110,18,96,5.21,0.16,0.87
+d5_s_yn_10-09 15_02.txt,GPT_simple,Travel Agent,everyday,1055,572,92,30,95,6.22,0.33,1.03
+a3_s_ca_11-01 10_03.txt,GPT_simple,Business Management,academic,2512,572,88,21,84,6.50,0.24,0.95
+d1_s_td_03-31 14_03.txt,USER_simple,Job Interview - nurse,everyday,2731,572,87,13,107,6.57,0.15,1.23
+a5_s_vv_10-29 14_03.txt,GPT_simple,Journalism,academic,4653,571,106,23,113,5.39,0.22,1.07
+a3_s_ms_11-02 09_16.txt,GPT_simple,Business Management,academic,2667,571,100,19,92,5.71,0.19,0.92
+a1_c_as_09-25 14_56.txt,GPT_complex,Environmental Science ,academic,1521,568,70,10,123,8.11,0.14,1.76
+a4_s_zm_02-20 11_01.txt,GPT_simple,Economics,academic,1499,567,112,19,87,5.06,0.17,0.78
+a1_s_sm_11-06 12_32.txt,GPT_simple,Environmental Science,academic,3908,567,101,17,99,5.61,0.17,0.98
+d5_s_fs_11-06 12_28.txt,GPT_simple,Travel Agent,everyday,2944,567,101,17,97,5.61,0.17,0.96
+a3_c_nn_09-25 15_06.txt,GPT_complex,Business Management ,academic,1658,567,79,13,107,7.18,0.16,1.35
+a4_s_na_02-05 14_06.txt,GPT_simple,Economics,academic,3261,566,115,16,89,4.92,0.14,0.77
+a5_s_za_10-15 14_52.txt,GPT_simple,Journalism,academic,1805,566,104,19,92,5.44,0.18,0.88
+a1_s_hj_02-10 13_58.txt,GPT_simple,Environmental Science,academic,1278,565,95,18,103,5.95,0.19,1.08
+a1_c_ar_10-26 09_45.txt,GPT_complex,Environmental Science,academic,2017,565,72,19,115,7.85,0.26,1.60
+a5_s_ls_11-08 12_45.txt,GPT_simple,Journalism,academic,2203,564,112,16,101,5.04,0.14,0.90
+a5_s_dn_10-16 14_22.txt,GPT_simple,Journalism,academic,1647,564,103,21,103,5.48,0.20,1.00
+a2_c_ki_02-19 13_56.txt,GPT_complex,Health,academic,1693,564,68,21,114,8.29,0.31,1.68
+d3_s_mk_10-05 09_01.txt,GPT_simple,Buying a Car,everyday,2501,563,90,17,78,6.26,0.19,0.87
+a3_s_mo_11-13 12_24.txt,GPT_simple,Business Management,academic,2280,563,87,16,98,6.47,0.18,1.13
+a3_s_na_02-19 14_23.txt,GPT_simple,Business Management,academic,1587,562,103,16,97,5.46,0.16,0.94
+d1_s_nd_02-10 14_02.txt,GPT_simple,Job Interview - chef,everyday,2485,562,95,22,94,5.92,0.23,0.99
+a3_s_zm_02-19 12_57.txt,GPT_simple,Business Management,academic,1298,562,92,15,95,6.11,0.16,1.03
+a1_c_aa_10-05 09_48.txt,USER_complex,Environmental Science,academic,3984,562,84,19,82,6.69,0.23,0.98
+d5_c_ck_02-17 13_55.txt,GPT_complex,Travel Agent,everyday,615,562,81,35,127,6.94,0.43,1.57
+d1_c_es_10-30 14_30.txt,USER_complex,Job Interview - accountant,everyday,911,561,105,24,98,5.34,0.23,0.93
+a4_s_rt_11-14 14_31.txt,GPT_simple,Economics,academic,1567,560,114,15,93,4.91,0.13,0.82
+a4_s_mk_10-05 09_51.txt,GPT_simple,Economics,academic,3249,560,101,17,90,5.54,0.17,0.89
+d2_s_qt_10-15 14_51.txt,GPT_simple,Choosing a Major,everyday,756,560,98,18,107,5.71,0.18,1.09
+d1_c_do_10-18 12_18.txt,GPT_complex,Job Interview - sales specialist,everyday,4862,560,64,27,102,8.75,0.42,1.59
+d4_s_dn_10-09 14_43.txt,GPT_simple,US Culture Discussion,everyday,1387,559,85,17,81,6.58,0.20,0.95
+d4_c_do_11-01 13_06.txt,USER_complex,US Culture Discussion,everyday,3253,559,71,27,89,7.87,0.38,1.25
+a2_s_ms_09-21 09_35.txt,USER_simple,Health ,academic,4641,559,65,28,103,8.60,0.43,1.58
+d1_c_aa_10-05 09_01.txt,GPT_complex,Job Interview - cybersecurity analyst,everyday,2544,559,64,17,109,8.73,0.27,1.70
+d1_s_mo_10-30 13_46.txt,GPT_simple,Job Interview - accountant,everyday,2262,558,96,20,87,5.81,0.21,0.91
+a1_c_ck_02-05 14_03.txt,GPT_complex,Environmental Science,academic,1233,558,70,20,115,7.97,0.29,1.64
+d5_c_rc_03-11 14_46.txt,GPT_complex,Travel Agent,everyday,890,558,58,44,100,9.62,0.76,1.72
+a4_s_ca_10-26 09_37.txt,GPT_simple,Economics,academic,3069,557,107,24,76,5.21,0.22,0.71
+a2_s_fs_11-06 13_26.txt,GPT_simple,Health,academic,2862,557,106,23,92,5.25,0.22,0.87
+a1_s_tn_10-16 14_40.txt,GPT_simple,Environmental Science,academic,1207,557,100,20,105,5.57,0.20,1.05
+a5_c_ss_10-12 10_15.txt,USER_complex,Journalism,academic,7373,557,94,26,110,5.93,0.28,1.17
+a4_c_yv_11-22 10_46.txt,GPT_complex,Economics,academic,5083,557,85,17,102,6.55,0.20,1.20
+a5_s_rt_10-29 14_06.txt,GPT_simple,Journalism,academic,1902,556,112,26,96,4.96,0.23,0.86
+a2_s_as_02-24 12_21.txt,GPT_simple,Health,academic,1588,556,99,23,92,5.62,0.23,0.93
+a2_s_hj_02-26 14_32.txt,GPT_simple,Health,academic,1505,556,94,21,96,5.91,0.22,1.02
+a2_s_td_04-08 14_10.txt,GPT_simple,Health,academic,1466,556,86,24,93,6.47,0.28,1.08
+d5_s_sm_11-11 12_31.txt,GPT_simple,Travel Agent,everyday,2851,556,81,41,108,6.86,0.51,1.33
+a4_s_vv_10-25 13_43.txt,GPT_simple,Economics,academic,3111,555,117,16,89,4.74,0.14,0.76
+d5_s_dn_10-15 14_22.txt,GPT_simple,Travel Agent,everyday,948,555,100,29,81,5.55,0.29,0.81
+a1_s_zm_02-12 13_02.txt,GPT_simple,Environmental Science,academic,1849,555,95,17,99,5.84,0.18,1.04
+a1_s_ls_11-01 12_28.txt,GPT_simple,Environmental Science,academic,2344,554,97,18,101,5.71,0.19,1.04
+a3_s_nd_02-17 14_25.txt,GPT_simple,Business Management,academic,1519,554,85,24,86,6.52,0.28,1.01
+a5_s_mo_11-01 10_39.txt,GPT_simple,Journalism,academic,2321,553,105,20,92,5.27,0.19,0.88
+d3_s_nn_10-09 14_31.txt,GPT_simple,Buying a Car,everyday,1049,552,91,23,85,6.07,0.25,0.93
+a1_s_sd_04-08 14_21.txt,GPT_simple,Environmental Science,academic,1296,551,98,17,86,5.62,0.17,0.88
+a1_s_fr_11-12 17_09.txt,GPT_simple,Environmental Science,academic,1895,550,99,19,99,5.56,0.19,1.00
+d1_s_qn_10-15 14_29.txt,GPT_simple,Job Interview - chef,everyday,823,550,95,18,90,5.79,0.19,0.95
+d1_s_rt_11-05 14_55.txt,GPT_simple,Job Interview - accountant,everyday,1672,549,83,24,81,6.61,0.29,0.98
+d2_s_ls_11-08 12_17.txt,GPT_simple,Choosing a Major,everyday,1439,547,96,17,95,5.70,0.18,0.99
+a2_s_na_02-24 13_57.txt,USER_simple,Health,academic,2228,547,80,21,86,6.84,0.26,1.08
+d3_c_va_01-31 13_07.txt,USER_complex,Buying a Car,everyday,1836,547,74,11,80,7.39,0.15,1.08
+d1_s_rd_10-04 11_09.txt,GPT_simple,Job Interview - IT specialist,everyday,1439,544,91,14,100,5.98,0.15,1.10
+d1_s_tn_10-02 14_16.txt,GPT_simple,Job Interview - nurse,everyday,1219,544,88,19,89,6.18,0.22,1.01
+a2_s_bo_11-11 12_50.txt,GPT_simple,Health,academic,1295,542,102,22,88,5.31,0.22,0.86
+a5_c_aa_10-16 14_33.txt,USER_complex,Journalism,academic,3762,542,74,22,80,7.32,0.30,1.08
+d2_s_ms_09-21 11_13.txt,GPT_simple,Choose a Major ,everyday,1651,540,105,13,111,5.14,0.12,1.06
+d1_c_mg_11-08 11_03.txt,USER_complex,Job Interview - sales specialist,everyday,2927,540,50,22,108,10.80,0.44,2.16
+a2_s_fr_11-02 10_04.txt,GPT_simple,Health,academic,2296,539,107,22,85,5.04,0.21,0.79
+a4_s_yk_02-10 13_37.txt,GPT_simple,Economics,academic,1773,539,95,15,70,5.67,0.16,0.74
+d5_s_rd_10-05 09_00.txt,GPT_simple,Travel Agent,everyday,1096,539,79,25,84,6.82,0.32,1.06
+a1_s_bo_11-13 12_24.txt,GPT_simple,Environmental Science,academic,1290,538,101,17,93,5.33,0.17,0.92
+d1_c_ga_10-09 14_50.txt,GPT_complex,Job Interview - chef,everyday,799,538,65,22,116,8.28,0.34,1.78
+a4_s_bl_03-10 13_30.txt,GPT_simple,Economics,academic,1681,537,112,12,82,4.79,0.11,0.73
+a4_s_td_03-24 14_10.txt,GPT_simple,Economics,academic,2491,537,102,19,100,5.26,0.19,0.98
+a4_c_bl_02-10 14_35.txt,GPT_complex,Economics,academic,601,537,87,16,91,6.17,0.18,1.05
+a2_s_za_10-11 12_33.txt,GPT_simple,Health,academic,1939,537,86,24,92,6.24,0.28,1.07
+d5_s_nd_02-17 13_56.txt,GPT_simple,Travel Agent,everyday,1200,537,83,30,95,6.47,0.36,1.14
+d1_s_as_03-10 13_05.txt,GPT_simple,Job Interview - accountant,everyday,1263,536,96,18,94,5.58,0.19,0.98
+d2_c_es_10-09 14_53.txt,GPT_complex,Choosing a Major,everyday,328,536,70,24,112,7.66,0.34,1.60
+a5_s_yn_10-18 12_29.txt,GPT_simple,Journalism,academic,1971,535,103,13,94,5.19,0.13,0.91
+a3_s_si_02-19 12_56.txt,GPT_simple,Business Management,academic,2576,535,83,18,85,6.45,0.22,1.02
+d4_s_rt_11-19 14_10.txt,GPT_simple,US Culture Discussion,everyday,1578,535,80,27,82,6.69,0.34,1.03
+a5_s_sd_03-31 14_28.txt,GPT_simple,Journalism,academic,2012,533,100,12,95,5.33,0.12,0.95
+a2_s_sd_03-26 14_11.txt,GPT_simple,Health,academic,2346,533,98,20,104,5.44,0.20,1.06
+d1_s_bo_12-02 12_31.txt,GPT_simple,Job Interview - accountant,everyday,1582,533,95,18,82,5.61,0.19,0.86
+d4_s_za_09-23 15_05.txt,GPT_simple,US Culture Discussion ,everyday,806,533,91,21,80,5.86,0.23,0.88
+d3_s_vv_10-29 15_31.txt,USER_simple,Buying a Car,everyday,2192,533,84,11,66,6.35,0.13,0.79
+d1_c_do_10-18 12_18.txt,USER_complex,Job Interview - sales specialist,everyday,4862,533,78,20,85,6.83,0.26,1.09
+d3_s_za_10-09 14_44.txt,GPT_simple,Buying a Car,everyday,576,532,93,19,92,5.72,0.20,0.99
+a1_s_ca_10-25 09_14.txt,GPT_simple,Environmental Science,academic,2841,532,93,17,92,5.72,0.18,0.99
+d1_c_ts_10-07 14_47.txt,GPT_complex,Job Interview - marketing specialist,everyday,649,532,63,20,102,8.44,0.32,1.62
+a1_c_aa_10-05 09_10.txt,USER_complex,Environmental Science,academic,6422,532,54,34,96,9.85,0.63,1.78
+a2_s_zm_02-13 11_32.txt,GPT_simple,Health,academic,1379,530,94,17,82,5.64,0.18,0.87
+d1_s_vv_10-25 12_10.txt,GPT_simple,Job Interview - English teacher,everyday,5402,530,91,23,89,5.82,0.25,0.98
+a5_s_fs_11-20 12_25.txt,GPT_simple,Journalism,academic,2885,529,102,17,85,5.19,0.17,0.83
+d5_s_zm_02-20 10_46.txt,GPT_simple,Travel Agent,everyday,729,529,95,27,96,5.57,0.28,1.01
+d1_s_ef_10-25 10_22.txt,USER_simple,Job Interview - accountant,everyday,3230,529,76,30,78,6.96,0.39,1.03
+a3_s_mk_10-04 09_10.txt,GPT_simple,Business Management,academic,3940,528,80,19,88,6.60,0.24,1.10
+d3_c_np_10-25 09_13.txt,USER_complex,Buying a Car,everyday,4532,528,65,13,99,8.12,0.20,1.52
+d4_c_aa_10-04 10_31.txt,GPT_complex,US Culture Discussion,everyday,3042,528,61,16,101,8.66,0.26,1.66
+a1_s_vv_11-01 12_48.txt,GPT_simple,Environmental Science,academic,3081,526,94,13,96,5.60,0.14,1.02
+d4_s_ms_10-12 09_06.txt,USER_simple,US Culture Discussion,everyday,4115,525,53,28,87,9.91,0.53,1.64
+a5_s_sm_11-11 13_22.txt,GPT_simple,Journalism,academic,2343,523,103,19,95,5.08,0.18,0.92
+d5_s_bb_03-06 13_02.txt,USER_simple,Travel Agent,everyday,4253,523,81,26,72,6.46,0.32,0.89
+a1_s_mo_11-08 09_42.txt,GPT_simple,Environmental Science,academic,2586,522,92,15,103,5.67,0.16,1.12
+d2_s_qn_09-30 14_09.txt,USER_simple,Choose a Major ,everyday,3244,521,88,14,101,5.92,0.16,1.15
+d4_c_ar_11-15 09_16.txt,USER_complex,US Culture Discussion,everyday,1965,521,84,21,77,6.20,0.25,0.92
+a3_s_sm_11-20 13_23.txt,GPT_simple,Business Management,academic,1982,520,89,11,83,5.84,0.12,0.93
+d3_s_mk_10-05 09_01.txt,USER_simple,Buying a Car,everyday,2501,520,80,14,79,6.50,0.18,0.99
+d1_c_ss_11-02 11_04.txt,USER_complex,Job Interview - nurse,everyday,5786,519,102,17,85,5.09,0.17,0.83
+d4_s_si_02-10 12_31.txt,GPT_simple,US Culture Discussion,everyday,4113,518,91,22,70,5.69,0.24,0.77
+d4_s_sm_11-13 13_27.txt,GPT_simple,US Culture Discussion,everyday,2255,518,85,28,65,6.09,0.33,0.76
+a4_s_bb_03-06 10_44.txt,USER_simple,Economics,academic,6492,517,70,27,88,7.39,0.39,1.26
+d5_c_bl_01-27 14_04.txt,GPT_complex,Travel Agent,everyday,1166,517,68,32,91,7.60,0.47,1.34
+a5_s_as_02-13 11_00.txt,GPT_simple,Journalism,academic,2453,511,96,24,95,5.32,0.25,0.99
+a3_s_hj_02-17 14_59.txt,GPT_simple,Business Management,academic,1840,511,94,11,96,5.44,0.12,1.02
+a3_s_dk_11-13 10_05.txt,GPT_simple,Business Management,academic,2489,510,91,16,84,5.60,0.18,0.92
+a2_c_mg_11-01 09_20.txt,USER_complex,Health,academic,5583,510,57,23,92,8.95,0.40,1.61
+d5_s_vv_10-22 15_38.txt,USER_simple,Travel Agent,everyday,2577,509,74,36,69,6.88,0.49,0.93
+d3_s_ap_01-31 13_50.txt,GPT_simple,Buying a Car,everyday,843,508,90,22,64,5.64,0.24,0.71
+d3_s_mo_11-13 13_09.txt,GPT_simple,Buying a Car,everyday,1202,507,85,23,70,5.96,0.27,0.82
+a3_c_aa_10-12 11_02.txt,USER_complex,Business Management,academic,4241,507,57,29,97,8.89,0.51,1.70
+a4_s_ms_10-26 09_32.txt,GPT_simple,Economics,academic,2200,505,99,17,77,5.10,0.17,0.78
+a5_s_bb_04-09 12_53.txt,GPT_simple,Journalism,academic,3252,505,98,17,96,5.15,0.17,0.98
+d2_s_ap_01-29 14_04.txt,USER_simple,Choosing a Major,everyday,3706,505,84,19,90,6.01,0.23,1.07
+a2_s_rt_11-05 14_20.txt,GPT_simple,Health,academic,1461,505,83,21,92,6.08,0.25,1.11
+a5_c_va_02-05 14_47.txt,USER_complex,Journalism,academic,2689,505,53,19,90,9.53,0.36,1.70
+a4_s_fs_12-02 13_11.txt,GPT_simple,Economics,academic,2248,504,97,16,70,5.20,0.16,0.72
+d1_s_ca_11-01 09_18.txt,GPT_simple,Job Interview - dental hygienist,everyday,2258,504,84,18,81,6.00,0.21,0.96
+d4_s_td_04-07 14_08.txt,USER_simple,US Culture Discussion,everyday,1904,504,67,22,82,7.52,0.33,1.22
+d4_c_ok_10-18 12_30.txt,USER_complex,US Culture Discussion,everyday,1741,504,66,25,75,7.64,0.38,1.14
+d5_c_mg_11-01 11_00.txt,GPT_complex,Travel Agent,everyday,1382,504,54,32,99,9.33,0.59,1.83
+a3_s_ap_01-31 12_11.txt,GPT_simple,Business Management,academic,5525,503,80,23,87,6.29,0.29,1.09
+a4_s_ls_10-29 15_12.txt,GPT_simple,Economics,academic,2742,501,103,15,84,4.86,0.15,0.82
+a2_s_vv_10-22 14_28.txt,GPT_simple,Health,academic,3357,501,99,18,83,5.06,0.18,0.84
+a4_c_ck_02-10 14_22.txt,USER_complex,Economics,academic,1431,501,86,11,81,5.83,0.13,0.94
+a2_s_fr_11-02 10_04.txt,USER_simple,Health,academic,2296,501,84,18,86,5.96,0.21,1.02
+d4_s_tn_09-25 15_43.txt,GPT_simple,US Culture Discussion ,everyday,1158,499,90,11,67,5.54,0.12,0.74
+a5_s_fr_10-26 09_09.txt,GPT_simple,Journalism,academic,2404,499,89,21,85,5.61,0.24,0.96
+d2_s_za_10-11 12_06.txt,GPT_simple,Choosing a Major,everyday,1327,498,89,16,94,5.60,0.18,1.06
+a5_s_dk_11-08 10_48.txt,USER_simple,Journalism,academic,3075,496,81,11,84,6.12,0.14,1.04
+d5_s_rt_11-12 14_12.txt,GPT_simple,Travel Agent,everyday,1267,493,92,22,90,5.36,0.24,0.98
+d1_s_ls_10-31 15_18.txt,GPT_simple,Job Interview - sales specialist,everyday,2042,493,86,15,86,5.73,0.17,1.00
+a1_s_ap_02-19 14_27.txt,GPT_simple,Environmental Science,academic,2968,493,85,15,85,5.80,0.18,1.00
+a2_s_yn_10-11 12_58.txt,GPT_simple,Health,academic,1959,493,77,19,88,6.40,0.25,1.14
+d4_s_bo_11-11 12_28.txt,GPT_simple,US Culture Discussion,everyday,1058,493,77,29,68,6.40,0.38,0.88
+d1_c_ba_10-04 10_09.txt,GPT_complex,Job Interview - nurse,everyday,2117,493,67,18,91,7.36,0.27,1.36
+d1_s_sd_03-26 14_57.txt,USER_simple,Job Interview - accountant,everyday,1806,492,73,22,86,6.74,0.30,1.18
+d5_s_mk_10-16 14_14.txt,USER_simple,Travel Agent,everyday,2931,491,66,38,84,7.44,0.58,1.27
+d4_s_yn_10-11 12_20.txt,USER_simple,US Culture Discussion,everyday,1966,491,62,19,60,7.92,0.31,0.97
+d2_c_ek_03-24 15_03.txt,USER_complex,Choosing a Major,everyday,2527,491,54,19,66,9.09,0.35,1.22
+a2_c_as_10-04 13_33.txt,GPT_complex,Health,academic,2527,490,55,19,98,8.91,0.35,1.78
+d2_s_tn_10-07 14_41.txt,GPT_simple,Choosing a Major,everyday,611,489,82,23,75,5.96,0.28,0.91
+a1_s_vv_11-01 12_48.txt,USER_simple,Environmental Science,academic,3081,489,67,21,87,7.30,0.31,1.30
+a2_c_va_01-27 14_04.txt,USER_complex,Health,academic,2352,489,56,20,74,8.73,0.36,1.32
+a1_s_qt_09-30 14_15.txt,GPT_simple,Environmental Science ,academic,2252,488,82,10,87,5.95,0.12,1.06
+a4_c_ba_11-02 10_37.txt,USER_complex,Economics,academic,4198,488,70,29,96,6.97,0.41,1.37
+d4_s_qn_10-04 12_47.txt,GPT_simple,US Culture Discussion,everyday,940,486,83,13,69,5.86,0.16,0.83
+d4_s_yn_10-11 12_20.txt,GPT_simple,US Culture Discussion,everyday,1966,485,71,22,59,6.83,0.31,0.83
+d4_s_as_02-19 12_52.txt,USER_simple,US Culture Discussion,everyday,2537,485,59,30,48,8.22,0.51,0.81
+a4_s_dk_11-01 12_08.txt,GPT_simple,Economics,academic,2426,484,91,11,88,5.32,0.12,0.97
+d3_s_td_04-02 14_51.txt,GPT_simple,Buying a Car,everyday,916,484,75,27,72,6.45,0.36,0.96
+d2_c_yk_02-10 12_24.txt,USER_complex,Choosing a Major,everyday,3806,483,90,14,76,5.37,0.16,0.84
+d3_s_bb_03-12 14_36.txt,USER_simple,Buying a Car,everyday,3002,483,81,16,70,5.96,0.20,0.86
+a3_c_ba_10-26 09_53.txt,USER_complex,Business Management,academic,4732,483,66,42,105,7.32,0.64,1.59
+a2_c_aa_09-20 09_57.txt,USER_complex,Health ,academic,3635,483,64,22,67,7.55,0.34,1.05
+a4_s_qt_10-04 12_46.txt,GPT_simple,Economics,academic,1851,481,85,13,74,5.66,0.15,0.87
+d3_s_dn_10-02 14_14.txt,GPT_simple,Buying a Car,everyday,401,481,83,14,68,5.80,0.17,0.82
+a1_s_si_02-10 13_50.txt,GPT_simple,Environmental Science,academic,2584,481,76,19,82,6.33,0.25,1.08
+d2_c_aa_09-21 09_10.txt,USER_complex,Choose a Major ,everyday,4259,481,69,23,77,6.97,0.33,1.12
+a3_s_ap_01-31 12_11.txt,USER_simple,Business Management,academic,5525,481,50,27,100,9.62,0.54,2.00
+a2_s_mo_11-11 12_51.txt,GPT_simple,Health,academic,1955,480,84,20,88,5.71,0.24,1.05
+a1_s_yn_10-16 14_44.txt,USER_simple,Environmental Science,academic,2281,480,73,10,71,6.58,0.14,0.97
+d3_c_e0_07.txt,USER_complex,Buying a Car,everyday,1867,480,65,16,76,7.38,0.25,1.17
+a2_s_si_02-05 13_07.txt,GPT_simple,Health,academic,3178,479,83,17,70,5.77,0.20,0.84
+a2_c_rw_09-21 09_11.txt,USER_complex,Health ,academic,3430,478,73,20,80,6.55,0.27,1.10
+d4_c_es_10-09 14_41.txt,GPT_complex,US Culture Discussion,everyday,388,477,46,17,87,10.37,0.37,1.89
+d1_s_ms_10-05 10_00.txt,GPT_simple,Job Interview - primary school teacher,everyday,1233,476,76,12,75,6.26,0.16,0.99
+d4_s_na_02-24 14_39.txt,USER_simple,US Culture Discussion,everyday,1513,476,66,18,82,7.21,0.27,1.24
+d2_s_si_02-19 13_50.txt,GPT_simple,Choosing a Major,everyday,1511,475,91,13,79,5.22,0.14,0.87
+a5_s_hj_02-24 13_58.txt,GPT_simple,Journalism,academic,1431,473,89,22,77,5.31,0.25,0.87
+d4_s_ls_10-29 13_59.txt,USER_simple,US Culture Discussion,everyday,3658,473,67,22,88,7.06,0.33,1.31
+a3_c_np_10-19 08_54.txt,USER_complex,Business Management,academic,6517,473,61,14,80,7.75,0.23,1.31
+d4_c_ms_10-05 09_08.txt,USER_complex,US Culture Discussion,everyday,2562,473,56,21,67,8.45,0.38,1.20
+a5_s_td_03-31 14_52.txt,GPT_simple,Journalism,academic,1415,472,93,16,90,5.08,0.17,0.97
+a5_s_si_02-13 11_01.txt,GPT_simple,Journalism,academic,3752,471,98,10,86,4.81,0.10,0.88
+d5_s_ap_02-05 14_08.txt,USER_simple,Travel Agent,everyday,2644,469,74,19,70,6.34,0.26,0.95
+a2_s_sd_03-26 14_11.txt,USER_simple,Health,academic,2346,469,64,23,77,7.33,0.36,1.20
+d2_s_dk_11-13 09_17.txt,USER_simple,Choosing a Major,everyday,2504,468,90,15,81,5.20,0.17,0.90
+d2_c_rw_09-21 10_25.txt,USER_complex,Choose a Major ,everyday,3194,468,72,11,87,6.50,0.15,1.21
+d4_c_rw_10-04 10_01.txt,GPT_complex,US Culture Discussion,everyday,1730,468,43,16,88,10.88,0.37,2.05
+d1_s_rt_11-05 14_55.txt,USER_simple,Job Interview - accountant,everyday,1672,467,78,22,65,5.99,0.28,0.83
+a3_s_dk_11-13 10_05.txt,USER_simple,Business Management,academic,2489,467,62,24,82,7.53,0.39,1.32
+a1_c_ek_03-24 14_05.txt,USER_complex,Environmental Science,academic,3283,467,58,14,69,8.05,0.24,1.19
+d5_c_yv_11-22 10_02.txt,GPT_complex,Travel Agent,everyday,2304,466,61,20,88,7.64,0.33,1.44
+d5_s_bb_03-06 13_02.txt,GPT_simple,Travel Agent,everyday,4253,465,83,25,80,5.60,0.30,0.96
+a4_s_si_02-17 13_21.txt,GPT_simple,Economics,academic,2520,462,102,13,58,4.53,0.13,0.57
+a1_c_ba_10-04 10_50.txt,USER_complex,Environmental Science,academic,4251,462,68,20,95,6.79,0.29,1.40
+d5_c_aa_10-26 11_21.txt,USER_complex,Travel Agent,everyday,3996,461,69,28,65,6.68,0.41,0.94
+d1_c_ms_11-02 09_16.txt,USER_complex,Job Interview - software engineer,everyday,2536,460,62,19,69,7.42,0.31,1.11
+a2_c_ms_09-21 10_19.txt,USER_complex,Health ,academic,3614,460,51,23,75,9.02,0.45,1.47
+a2_s_vv_10-22 14_28.txt,USER_simple,Health,academic,3357,458,60,16,81,7.63,0.27,1.35
+a5_s_dk_11-08 10_48.txt,GPT_simple,Journalism,academic,3075,457,83,12,77,5.51,0.14,0.93
+a2_s_mk_09-20 10_45.txt,GPT_simple,Health ,academic,2757,457,78,19,81,5.86,0.24,1.04
+d2_s_na_02-12 14_33.txt,USER_simple,Choosing a Major,everyday,1655,456,69,19,76,6.61,0.28,1.10
+a3_s_sd_04-01 14_16.txt,GPT_simple,Business Management,academic,2017,455,83,17,78,5.48,0.20,0.94
+a2_c_ss_11-02 09_19.txt,USER_complex,Health,academic,5513,455,73,17,77,6.23,0.23,1.05
+a4_c_aa_10-04 09_09.txt,USER_complex,Economics,academic,3536,454,63,16,71,7.21,0.25,1.13
+a4_c_mm_11-13 09_30.txt,USER_complex,Economics,academic,2893,454,62,10,91,7.32,0.16,1.47
+a2_s_ef_10-25 09_28.txt,GPT_simple,Health,academic,2841,453,79,18,65,5.73,0.23,0.82
+d1_s_yn_10-02 14_58.txt,GPT_simple,Job Interview - accountant,everyday,1453,451,75,14,73,6.01,0.19,0.97
+a4_c_np_11-06 12_31.txt,USER_complex,Economics,academic,3188,450,58,9,73,7.76,0.16,1.26
+d3_s_as_02-24 13_03.txt,GPT_simple,Buying a Car,everyday,488,449,86,15,71,5.22,0.17,0.83
+d5_s_za_10-15 14_38.txt,USER_simple,Travel Agent,everyday,471,448,64,24,60,7.00,0.38,0.94
+d5_s_bo_11-13 12_52.txt,GPT_simple,Travel Agent,everyday,945,446,82,19,73,5.44,0.23,0.89
+a2_s_ap_01-29 15_13.txt,USER_simple,Health,academic,3605,446,49,28,83,9.10,0.57,1.69
+a1_c_ss_10-25 09_24.txt,USER_complex,Environmental Science,academic,5908,444,71,21,64,6.25,0.30,0.90
+d4_s_ca_10-26 08_57.txt,USER_simple,US Culture Discussion,everyday,2163,444,66,22,49,6.73,0.33,0.74
+a4_s_ap_02-12 14_04.txt,USER_simple,Economics,academic,4432,443,68,16,81,6.51,0.24,1.19
+a1_c_mm_10-31 14_03.txt,USER_complex,Environmental Science,academic,4208,442,51,14,79,8.67,0.27,1.55
+a4_s_mo_10-30 12_38.txt,USER_simple,Economics,academic,3406,441,60,18,87,7.35,0.30,1.45
+a4_c_nn_10-15 14_52.txt,GPT_complex,Economics,academic,1239,439,80,15,71,5.49,0.19,0.89
+d1_s_za_10-07 14_32.txt,GPT_simple,Job Interview - chef,everyday,1022,438,75,18,67,5.84,0.24,0.89
+a3_s_bb_03-12 12_58.txt,USER_simple,Business Management,academic,5063,438,60,24,75,7.30,0.40,1.25
+a1_s_dk_11-15 09_57.txt,USER_simple,Environmental Science,academic,2875,437,71,18,75,6.15,0.25,1.06
+d2_c_fm_10-11 12_09.txt,USER_complex,Choosing a Major,everyday,2653,437,70,20,60,6.24,0.29,0.86
+d1_s_mk_10-09 16_17.txt,GPT_simple,Job Interview - English teacher,everyday,1837,435,74,14,81,5.88,0.19,1.09
+a1_c_mg_10-19 09_07.txt,USER_complex,Environmental Science,academic,6499,435,48,11,79,9.06,0.23,1.65
+d1_s_mo_10-30 13_46.txt,USER_simple,Job Interview - accountant,everyday,2262,434,71,10,72,6.11,0.14,1.01
+a2_c_aa_09-21 10_48.txt,USER_complex,Health ,academic,4182,434,56,25,64,7.75,0.45,1.14
+a4_s_ap_02-12 14_04.txt,GPT_simple,Economics,academic,4432,433,88,19,71,4.92,0.22,0.81
+a5_s_si_02-13 11_01.txt,USER_simple,Journalism,academic,3752,433,79,14,70,5.48,0.18,0.89
+d3_s_ss_11-22 09_21.txt,USER_simple,Buying a Car,everyday,2637,433,76,13,58,5.70,0.17,0.76
+d2_c_aa_09-20 08_21.txt,USER_complex,Choose a Major ,everyday,5351,433,68,19,65,6.37,0.28,0.96
+a2_s_dk_11-22 09_50.txt,GPT_simple,Health,academic,2031,431,73,16,66,5.90,0.22,0.90
+a3_s_za_10-09 14_09.txt,USER_simple,Business Management,academic,1771,431,60,12,61,7.18,0.20,1.02
+d1_s_ca_11-01 09_18.txt,USER_simple,Job Interview - dental hygienist,everyday,2258,430,69,16,76,6.23,0.23,1.10
+d4_s_mk_10-04 10_34.txt,USER_simple,US Culture Discussion,everyday,2462,430,60,11,59,7.17,0.18,0.98
+d2_c_bl_02-03 14_09.txt,USER_complex,Choosing a Major,everyday,1494,429,75,18,70,5.72,0.24,0.93
+a2_s_si_02-05 13_07.txt,USER_simple,Health,academic,3178,429,68,16,74,6.31,0.24,1.09
+d1_s_f1_19.txt,USER_simple,Job Interview - accountant,everyday,3274,428,72,12,61,5.94,0.17,0.85
+a4_c_as_09-23 14_27.txt,USER_complex,Economics ,academic,2861,428,69,12,58,6.20,0.17,0.84
+d4_c_aa_10-04 10_31.txt,USER_complex,US Culture Discussion,everyday,3042,428,56,14,59,7.64,0.25,1.05
+a3_c_ck_02-03 14_27.txt,USER_complex,Business Management,academic,1532,427,70,13,68,6.10,0.19,0.97
+a5_c_ck_02-12 14_00.txt,USER_complex,Journalism,academic,1430,427,68,15,65,6.28,0.22,0.96
+d1_c_ba_10-04 10_09.txt,USER_complex,Job Interview - nurse,everyday,2117,427,67,21,67,6.37,0.31,1.00
+a2_s_ap_01-29 15_13.txt,GPT_simple,Health,academic,3605,425,74,16,75,5.74,0.22,1.01
+d4_s_sm_11-13 13_27.txt,USER_simple,US Culture Discussion,everyday,2255,425,66,12,37,6.44,0.18,0.56
+a3_c_es_10-02 14_28.txt,USER_complex,Business Management,academic,1472,424,66,19,76,6.42,0.29,1.15
+d2_s_za_10-11 12_06.txt,USER_simple,Choosing a Major,everyday,1327,424,63,17,69,6.73,0.27,1.10
+d4_c_rc_03-05 14_02.txt,USER_complex,US Culture Discussion,everyday,1697,423,53,19,64,7.98,0.36,1.21
+a5_c_rc_03-11 14_12.txt,GPT_complex,Journalism,academic,1639,421,63,12,81,6.68,0.19,1.29
+a5_c_ok_10-25 12_32.txt,USER_complex,Journalism,academic,2728,420,61,15,75,6.89,0.25,1.23
+a1_s_bb_03-27 12_40.txt,USER_simple,Environmental Science,academic,4090,418,62,16,81,6.74,0.26,1.31
+a2_s_na_02-24 13_57.txt,GPT_simple,Health,academic,2228,417,78,20,65,5.35,0.26,0.83
+d4_s_ga_10-02 14_12.txt,GPT_simple,US Culture Discussion,everyday,918,417,65,12,69,6.42,0.18,1.06
+a3_c_do_10-29 14_46.txt,USER_complex,Business Management,academic,3153,417,54,22,72,7.72,0.41,1.33
+d1_s_mk_10-09 16_17.txt,USER_simple,Job Interview - English teacher,everyday,1837,415,63,24,66,6.59,0.38,1.05
+a2_s_sm_12-02 12_34.txt,GPT_simple,Health,academic,2637,414,73,13,67,5.67,0.18,0.92
+a4_s_tn_09-25 14_47.txt,USER_simple,Economics ,academic,2865,414,56,13,63,7.39,0.23,1.13
+a1_c_ck_02-05 14_03.txt,USER_complex,Environmental Science,academic,1233,413,71,11,46,5.82,0.15,0.65
+d4_s_qt_10-07 14_46.txt,GPT_simple,US Culture Discussion,everyday,746,412,74,9,67,5.57,0.12,0.91
+a3_c_as_10-02 14_18.txt,USER_complex,Business Management,academic,2938,411,63,12,70,6.52,0.19,1.11
+a2_s_mk_09-20 10_45.txt,USER_simple,Health ,academic,2757,409,68,12,55,6.01,0.18,0.81
+d5_s_as_02-13 11_51.txt,GPT_simple,Travel Agent,everyday,1319,408,78,25,64,5.23,0.32,0.82
+a5_s_za_10-15 14_52.txt,USER_simple,Journalism,academic,1805,408,62,13,67,6.58,0.21,1.08
+d1_c_np_11-06 13_31.txt,USER_complex,Job Interview - English teacher,everyday,2492,407,72,9,66,5.65,0.13,0.92
+d2_s_nd_03-03 13_58.txt,USER_simple,Choosing a Major,everyday,1506,407,67,14,55,6.07,0.21,0.82
+d5_c_ar_11-09 09_48.txt,USER_complex,Travel Agent,everyday,1468,406,74,17,63,5.49,0.23,0.85
+d1_s_zm_02-13 11_07.txt,USER_simple,Job Interview - nurse,everyday,1351,406,70,13,58,5.80,0.19,0.83
+a4_c_ki_02-05 14_04.txt,USER_complex,Economics,academic,2860,404,70,6,58,5.77,0.09,0.83
+a2_s_bb_04-03 12_27.txt,USER_simple,Health,academic,3465,404,66,26,63,6.12,0.39,0.95
+a2_s_bl_04-07 12_31.txt,GPT_simple,Health,academic,1826,403,67,18,66,6.01,0.27,0.99
+d4_c_ki_02-10 14_00.txt,USER_complex,US Culture Discussion,everyday,1653,401,66,16,51,6.08,0.24,0.77
+a5_s_fr_10-26 09_09.txt,USER_simple,Journalism,academic,2404,401,62,17,64,6.47,0.27,1.03
+d2_s_fr_10-12 11_18.txt,USER_simple,Choosing a Major,everyday,1578,398,69,6,63,5.77,0.09,0.91
+a5_s_ap_02-05 14_58.txt,USER_simple,Journalism,academic,3314,398,62,22,62,6.42,0.35,1.00
+a2_s_nd_02-12 14_05.txt,USER_simple,Health,academic,1851,397,66,14,63,6.02,0.21,0.95
+a2_c_bl_01-27 14_30.txt,USER_complex,Health,academic,1823,396,69,16,74,5.74,0.23,1.07
+a2_s_ca_10-30 12_41.txt,GPT_simple,Health,academic,2205,396,67,16,71,5.91,0.24,1.06
+d5_s_ls_11-01 12_06.txt,GPT_simple,Travel Agent,everyday,1050,395,65,19,67,6.08,0.29,1.03
+d1_s_na_02-05 15_10.txt,USER_simple,Job Interview - chef,everyday,2032,395,59,13,66,6.69,0.22,1.12
+a4_s_fr_10-19 10_09.txt,USER_simple,Economics,academic,2230,394,68,10,59,5.79,0.15,0.87
+a2_s_rd_09-21 09_54.txt,USER_simple,Health ,academic,3056,394,63,18,74,6.25,0.29,1.17
+d3_c_mg_10-26 09_27.txt,USER_complex,Buying a Car,everyday,4399,393,47,20,56,8.36,0.43,1.19
+a5_c_np_10-25 10_34.txt,USER_complex,Journalism,academic,4560,392,51,17,64,7.69,0.33,1.25
+a4_s_rd_10-11 09_01.txt,USER_simple,Economics,academic,3052,389,70,8,61,5.56,0.11,0.87
+d4_s_mk_10-04 10_34.txt,GPT_simple,US Culture Discussion,everyday,2462,389,58,12,51,6.71,0.21,0.88
+d5_c_mm_11-05 12_39.txt,USER_complex,Travel Agent,everyday,1928,388,56,16,69,6.93,0.29,1.23
+d2_c_ar_11-01 10_25.txt,USER_complex,Choosing a Major,everyday,1763,387,71,11,60,5.45,0.15,0.85
+d3_c_aa_10-12 09_54.txt,USER_complex,Buying a Car,everyday,3528,387,59,9,63,6.56,0.15,1.07
+a3_c_ap_02-13 11_08.txt,USER_complex,Business Management,academic,2809,387,55,18,76,7.04,0.33,1.38
+d2_s_sd_03-31 14_05.txt,USER_simple,Choosing a Major,everyday,1194,387,52,22,74,7.44,0.42,1.42
+d3_c_bl_02-05 14_33.txt,USER_complex,Buying a Car,everyday,1243,386,63,9,53,6.13,0.14,0.84
+d3_s_rd_10-11 10_00.txt,GPT_simple,Buying a Car,everyday,967,386,61,36,63,6.33,0.59,1.03
+d1_s_si_02-17 12_33.txt,USER_simple,Job Interview - chef,everyday,2372,385,76,10,61,5.07,0.13,0.80
+a5_c_ms_10-26 10_58.txt,USER_complex,Journalism,academic,2638,385,53,14,62,7.26,0.26,1.17
+a3_s_sd_04-01 14_16.txt,USER_simple,Business Management,academic,2017,385,43,11,58,8.95,0.26,1.35
+d5_s_tn_10-16 15_03.txt,USER_simple,Travel Agent,everyday,994,384,59,19,59,6.51,0.32,1.00
+a4_c_mg_11-06 13_48.txt,USER_complex,Economics,academic,3103,384,44,19,59,8.73,0.43,1.34
+d4_s_rd_10-18 09_04.txt,USER_simple,US Culture Discussion,everyday,2151,381,72,5,51,5.29,0.07,0.71
+d4_s_fs_11-11 13_37.txt,USER_simple,US Culture Discussion,everyday,2325,381,58,16,50,6.57,0.28,0.86
+a3_c_ss_11-15 09_35.txt,USER_complex,Business Management,academic,5618,381,56,19,66,6.80,0.34,1.18
+d2_c_va_02-10 15_10.txt,USER_complex,Choosing a Major,everyday,1502,381,49,15,64,7.78,0.31,1.31
+d5_s_nd_02-17 13_56.txt,USER_simple,Travel Agent,everyday,1200,379,66,10,60,5.74,0.15,0.91
+a2_c_ek_02-26 14_50.txt,USER_complex,Health,academic,2665,379,58,11,62,6.53,0.19,1.07
+a5_c_e0_44.txt,USER_complex,Journalism,academic,3044,379,58,10,73,6.53,0.17,1.26
+d4_c_np_10-19 11_03.txt,USER_complex,US Culture Discussion,everyday,3381,379,43,10,59,8.81,0.23,1.37
+d3_s_ca_10-30 13_25.txt,USER_simple,Buying a Car,everyday,1845,378,54,18,74,7.00,0.33,1.37
+d5_s_s0_02.txt,USER_simple,Travel Agent,everyday,1135,378,47,20,63,8.04,0.43,1.34
+a3_s_ef_10-16 14_08.txt,USER_simple,Business Management,academic,3988,377,52,23,67,7.25,0.44,1.29
+a2_s_tn_10-02 14_39.txt,USER_simple,Health,academic,1697,376,59,18,60,6.37,0.31,1.02
+a4_c_ms_10-26 10_06.txt,USER_complex,Economics,academic,2743,376,53,8,60,7.09,0.15,1.13
+d5_c_nn_10-16 14_23.txt,USER_complex,Travel Agent,everyday,1813,376,52,21,61,7.23,0.40,1.17
+d4_c_ap_02-24 12_32.txt,USER_complex,US Culture Discussion,everyday,1912,376,50,15,67,7.52,0.30,1.34
+a2_s_ls_11-05 14_07.txt,GPT_simple,Health,academic,2009,375,68,12,66,5.51,0.18,0.97
+a3_s_qt_10-09 14_18.txt,GPT_simple,Business Management,academic,1418,375,55,12,63,6.82,0.22,1.15
+d5_c_ba_11-08 10_24.txt,USER_complex,Travel Agent,everyday,1341,375,51,19,62,7.35,0.37,1.22
+d1_c_aa_10-05 09_01.txt,USER_complex,Job Interview - cybersecurity analyst,everyday,2544,374,57,14,57,6.56,0.25,1.00
+a2_c_ga_09-30 14_07.txt,USER_complex,Health ,academic,1898,374,38,22,71,9.84,0.58,1.87
+d4_c_yk_02-26 12_34.txt,USER_complex,US Culture Discussion,everyday,2053,373,64,8,71,5.83,0.13,1.11
+d4_s_dn_10-09 14_43.txt,USER_simple,US Culture Discussion,everyday,1387,373,45,15,76,8.29,0.33,1.69
+a4_c_rc_02-24 14_46.txt,USER_complex,Economics,academic,1566,372,57,10,57,6.53,0.18,1.00
+d5_s_na_02-10 13_59.txt,USER_simple,Travel Agent,everyday,2420,372,56,20,55,6.64,0.36,0.98
+d2_s_vv_11-15 12_09.txt,USER_simple,Choosing a Major,everyday,1715,371,55,11,65,6.75,0.20,1.18
+a1_c_yv_11-15 10_40.txt,USER_complex,Environmental Science,academic,6005,370,45,14,82,8.22,0.31,1.82
+a5_s_nd_03-03 14_28.txt,USER_simple,Journalism,academic,2019,369,58,10,58,6.36,0.17,1.00
+d5_c_bb_03-24 14_04.txt,USER_complex,Travel Agent,everyday,2693,369,55,21,52,6.71,0.38,0.95
+d5_s_sm_11-11 12_31.txt,USER_simple,Travel Agent,everyday,2851,369,53,15,60,6.96,0.28,1.13
+a5_c_ap_02-24 13_07.txt,USER_complex,Journalism,academic,2446,368,62,20,89,5.94,0.32,1.44
+d3_s_tn_10-09 14_21.txt,USER_simple,Buying a Car,everyday,1483,368,59,10,51,6.24,0.17,0.86
+a4_c_ap_02-17 13_01.txt,USER_complex,Economics,academic,2786,368,51,17,70,7.22,0.33,1.37
+d5_c_fm_10-29 14_18.txt,USER_complex,Travel Agent,everyday,1584,367,63,18,52,5.83,0.29,0.83
+d2_c_np_10-30 13_28.txt,USER_complex,Choosing a Major,everyday,2854,367,49,15,63,7.49,0.31,1.29
+d3_s_nd_02-24 14_30.txt,USER_simple,Buying a Car,everyday,1138,363,60,8,45,6.05,0.13,0.75
+d5_c_ss_11-08 09_58.txt,USER_complex,Travel Agent,everyday,3169,361,66,15,67,5.47,0.23,1.02
+a2_c_ck_02-17 14_07.txt,USER_complex,Health,academic,1240,361,58,15,47,6.22,0.26,0.81
+a2_c_ap_02-20 10_51.txt,USER_complex,Health,academic,2776,361,43,23,54,8.40,0.53,1.26
+a5_s_yn_10-18 12_29.txt,USER_simple,Journalism,academic,1971,360,64,5,73,5.63,0.08,1.14
+a3_c_ok_10-16 14_23.txt,USER_complex,Business Management,academic,2607,360,45,16,67,8.00,0.36,1.49
+a3_c_mg_11-08 09_37.txt,USER_complex,Business Management,academic,4594,360,29,19,70,12.41,0.66,2.41
+d2_c_ki_02-17 13_58.txt,USER_complex,Choosing a Major,everyday,1321,359,71,11,58,5.06,0.15,0.82
+d2_c_mm_11-14 13_56.txt,USER_complex,Choosing a Major,everyday,1653,359,64,10,73,5.61,0.16,1.14
+d2_c_do_10-29 14_03.txt,USER_complex,Choosing a Major,everyday,2224,359,61,13,72,5.89,0.21,1.18
+d1_s_yn_10-02 14_58.txt,USER_simple,Job Interview - accountant,everyday,1453,359,55,17,53,6.53,0.31,0.96
+a4_s_vv_10-25 13_43.txt,USER_simple,Economics,academic,3111,359,54,17,58,6.65,0.31,1.07
+a5_s_tn_10-09 14_52.txt,USER_simple,Journalism,academic,1670,358,63,10,57,5.68,0.16,0.90
+a3_c_ts_10-11 12_07.txt,USER_complex,Business Management,academic,1913,358,57,8,57,6.28,0.14,1.00
+d4_s_zm_02-19 13_23.txt,USER_simple,US Culture Discussion,everyday,1152,357,64,11,52,5.58,0.17,0.81
+d1_c_ki_02-24 13_58.txt,USER_complex,Job Interview - accountant,everyday,1225,357,60,12,48,5.95,0.20,0.80
+d3_c_mm_11-13 10_24.txt,USER_complex,Buying a Car,everyday,1515,356,60,8,63,5.93,0.13,1.05
+d2_c_yv_11-20 12_24.txt,USER_complex,Choosing a Major,everyday,3744,355,57,12,65,6.23,0.21,1.14
+d1_s_qt_10-04 12_08.txt,GPT_simple,Job Interview - architect,everyday,1977,354,64,8,61,5.53,0.13,0.95
+a1_c_es_10-30 14_07.txt,USER_complex,Environmental Science,academic,1061,354,46,13,60,7.70,0.28,1.30
+a4_c_ek_04-09 14_05.txt,USER_complex,Economics,academic,2625,354,45,13,53,7.87,0.29,1.18
+a5_s_na_02-10 14_43.txt,USER_simple,Journalism,academic,2953,353,49,19,50,7.20,0.39,1.02
+d4_c_mm_10-31 15_16.txt,USER_complex,US Culture Discussion,everyday,1520,353,48,8,54,7.35,0.17,1.13
+a4_s_dk_11-01 12_08.txt,USER_simple,Economics,academic,2426,352,60,8,65,5.87,0.13,1.08
+d4_s_bl_04-14 10_52.txt,USER_simple,US Culture Discussion,everyday,1417,352,44,13,53,8.00,0.30,1.20
+d3_s_ls_11-05 14_53.txt,USER_simple,Buying a Car,everyday,1887,351,63,12,51,5.57,0.19,0.81
+d1_c_ek_02-26 15_43.txt,USER_complex,Job Interview - accountant,everyday,1566,351,46,11,46,7.63,0.24,1.00
+a4_c_ok_10-18 13_03.txt,USER_complex,Economics,academic,1901,350,57,12,62,6.14,0.21,1.09
+a3_c_yv_12-04 13_04.txt,USER_complex,Business Management,academic,3605,350,44,11,75,7.95,0.25,1.70
+a3_c_ms_10-12 09_05.txt,USER_complex,Business Management,academic,3323,350,37,16,60,9.46,0.43,1.62
+a3_c_ar_11-01 09_42.txt,USER_complex,Business Management,academic,2160,349,64,9,46,5.45,0.14,0.72
+d2_s_bl_04-07 13_10.txt,USER_simple,Choosing a Major,everyday,1941,349,43,17,64,8.12,0.40,1.49
+d2_c_aa_03-06 11_22.txt,USER_complex,Choosing a Major,everyday,2046,348,56,23,62,6.21,0.41,1.11
+a4_s_za_09-23 14_20.txt,USER_simple,Economics ,academic,1908,347,47,12,56,7.38,0.26,1.19
+a3_c_fm_10-29 14_49.txt,USER_complex,Business Management,academic,2135,346,44,12,53,7.86,0.27,1.20
+a4_s_ca_10-26 09_37.txt,USER_simple,Economics,academic,3069,343,53,15,51,6.47,0.28,0.96
+a2_s_dk_11-22 09_50.txt,USER_simple,Health,academic,2031,342,51,19,48,6.71,0.37,0.94
+a4_c_do_10-18 13_49.txt,USER_complex,Economics,academic,3510,342,38,13,61,9.00,0.34,1.61
+d1_s_tn_10-02 14_16.txt,USER_simple,Job Interview - nurse,everyday,1219,341,58,9,51,5.88,0.16,0.88
+d2_s_ca_10-25 10_18.txt,USER_simple,Choosing a Major,everyday,1826,341,52,14,59,6.56,0.27,1.13
+d3_s_si_02-05 14_16.txt,USER_simple,Buying a Car,everyday,2261,340,55,10,55,6.18,0.18,1.00
+d5_s_dk_11-15 12_00.txt,USER_simple,Travel Agent,everyday,1532,339,57,10,53,5.95,0.18,0.93
+a1_s_ap_02-19 14_27.txt,USER_simple,Environmental Science,academic,2968,339,52,13,62,6.52,0.25,1.19
+a3_c_bl_01-31 12_05.txt,USER_complex,Business Management,academic,2093,338,61,4,55,5.54,0.07,0.90
+a3_s_nd_02-17 14_25.txt,USER_simple,Business Management,academic,1519,338,50,10,42,6.76,0.20,0.84
+d2_c_ap_02-20 11_59.txt,USER_complex,Choosing a Major,everyday,1779,337,40,16,67,8.43,0.40,1.68
+a4_s_sd_04-04 13_22.txt,USER_simple,Economics,academic,1831,335,58,12,69,5.78,0.21,1.19
+a4_s_yn_10-02 14_11.txt,USER_simple,Economics,academic,2264,335,49,10,65,6.84,0.20,1.33
+a4_s_td_03-24 14_10.txt,USER_simple,Economics,academic,2491,332,40,19,72,8.30,0.48,1.80
+a3_s_yn_10-09 14_22.txt,USER_simple,Business Management,academic,2188,329,50,13,55,6.58,0.26,1.10
+d3_c_ar_10-26 09_09.txt,USER_complex,Buying a Car,everyday,1898,328,64,8,51,5.13,0.13,0.80
+d3_c_do_10-25 13_38.txt,USER_complex,Buying a Car,everyday,2426,328,50,16,54,6.56,0.32,1.08
+a5_s_sd_03-31 14_28.txt,USER_simple,Journalism,academic,2012,328,50,10,68,6.56,0.20,1.36
+a5_c_mm_11-20 12_15.txt,USER_complex,Journalism,academic,2429,327,45,7,60,7.27,0.16,1.33
+a3_s_ca_11-01 10_03.txt,USER_simple,Business Management,academic,2512,327,38,17,50,8.61,0.45,1.32
+d2_s_fs_12-02 12_27.txt,USER_simple,Choosing a Major,everyday,2289,326,53,8,49,6.15,0.15,0.92
+d3_c_ba_10-26 11_23.txt,USER_complex,Buying a Car,everyday,1566,326,45,8,64,7.24,0.18,1.42
+a5_c_ts_10-18 12_43.txt,USER_complex,Journalism,academic,1911,326,43,17,51,7.58,0.40,1.19
+d2_c_ga_09-30 14_44.txt,USER_complex,Choose a Major ,everyday,1405,326,40,10,64,8.15,0.25,1.60
+d5_c_ga_10-04 12_38.txt,USER_complex,Travel Agent,everyday,1593,325,56,11,61,5.80,0.20,1.09
+d4_s_rt_11-19 14_10.txt,USER_simple,US Culture Discussion,everyday,1578,325,36,19,47,9.03,0.53,1.31
+d4_c_nn_10-15 14_25.txt,USER_complex,US Culture Discussion,everyday,1313,324,43,9,53,7.53,0.21,1.23
+a3_c_ek_03-11 15_32.txt,USER_complex,Business Management,academic,2709,324,40,5,57,8.10,0.13,1.43
+d1_s_sm_11-06 13_55.txt,USER_simple,Job Interview - nurse,everyday,2279,323,53,14,42,6.09,0.26,0.79
+a3_s_ms_11-02 09_16.txt,USER_simple,Business Management,academic,2667,323,44,13,56,7.34,0.30,1.27
+a5_s_rd_10-18 09_42.txt,USER_simple,Journalism,academic,2288,322,57,12,35,5.65,0.21,0.61
+a1_s_fr_11-12 17_09.txt,USER_simple,Environmental Science,academic,1895,322,54,8,49,5.96,0.15,0.91
+a2_s_ca_10-30 12_41.txt,USER_simple,Health,academic,2205,321,50,16,64,6.42,0.32,1.28
+a2_s_za_10-11 12_33.txt,USER_simple,Health,academic,1939,321,46,14,48,6.98,0.30,1.04
+a4_c_fm_10-25 12_16.txt,USER_complex,Economics,academic,2712,321,35,11,49,9.17,0.31,1.40
+d1_c_yk_02-24 12_58.txt,USER_complex,Job Interview - chef,everyday,1447,320,59,8,53,5.42,0.14,0.90
+a5_s_qt_10-18 12_12.txt,GPT_simple,Journalism,academic,1657,320,55,14,54,5.82,0.25,0.98
+a5_c_ki_02-12 13_57.txt,USER_complex,Journalism,academic,1946,319,58,9,46,5.50,0.16,0.79
+d5_s_fs_11-06 12_28.txt,USER_simple,Travel Agent,everyday,2944,319,48,15,47,6.65,0.31,0.98
+d3_c_ts_09-30 15_07.txt,USER_complex,Buy a Car ,everyday,1469,319,47,20,62,6.79,0.43,1.32
+a5_c_bl_02-03 14_37.txt,USER_complex,Journalism,academic,1442,316,52,12,59,6.08,0.23,1.13
+d5_s_hj_02-10 14_24.txt,USER_simple,Travel Agent,everyday,1185,315,53,10,49,5.94,0.19,0.92
+a2_c_np_11-01 09_40.txt,USER_complex,Health,academic,3175,315,46,7,43,6.85,0.15,0.93
+a1_c_ap_02-10 13_33.txt,USER_complex,Environmental Science,academic,2411,315,42,7,57,7.50,0.17,1.36
+a5_c_mg_10-30 13_31.txt,USER_complex,Journalism,academic,3506,315,32,16,58,9.84,0.50,1.81
+a2_s_qt_10-15 14_26.txt,GPT_simple,Health,academic,1165,314,55,13,56,5.71,0.24,1.02
+a4_s_na_02-05 14_06.txt,USER_simple,Economics,academic,3261,314,38,13,51,8.26,0.34,1.34
+a1_c_ga_10-02 14_32.txt,USER_complex,Environmental Science,academic,1941,313,38,15,47,8.24,0.39,1.24
+d3_s_qt_10-09 14_07.txt,GPT_simple,Buying a Car,everyday,490,312,56,11,58,5.57,0.20,1.04
+a1_c_ms_10-05 09_55.txt,USER_complex,Environmental Science,academic,2532,312,41,14,44,7.61,0.34,1.07
+d1_c_nn_09-25 14_33.txt,USER_complex,Job Interview primary school teacher,everyday,1776,311,48,14,68,6.48,0.29,1.42
+a3_s_ls_10-31 14_07.txt,USER_simple,Business Management,academic,3641,311,48,8,59,6.48,0.17,1.23
+a2_c_yv_10-11 12_28.txt,USER_complex,Health,academic,2782,311,46,12,49,6.76,0.26,1.07
+a3_s_td_04-07 14_42.txt,USER_simple,Business Management,academic,1772,310,44,6,49,7.05,0.14,1.11
+d5_s_yn_10-09 15_02.txt,USER_simple,Travel Agent,everyday,1055,310,43,11,54,7.21,0.26,1.26
+d1_s_za_10-07 14_32.txt,USER_simple,Job Interview - chef,everyday,1022,308,51,11,52,6.04,0.22,1.02
+d3_s_sd_04-08 14_48.txt,USER_simple,Buying a Car,everyday,939,308,43,9,52,7.16,0.21,1.21
+a1_s_tn_10-16 14_40.txt,USER_simple,Environmental Science,academic,1207,307,47,17,49,6.53,0.36,1.04
+a4_c_ts_09-30 14_18.txt,USER_complex,Economics ,academic,2384,307,47,9,55,6.53,0.19,1.17
+a2_c_nn_09-30 14_15.txt,USER_complex,Health ,academic,3285,307,45,22,51,6.82,0.49,1.13
+a5_c_do_11-01 12_06.txt,USER_complex,Journalism,academic,2459,307,45,14,51,6.82,0.31,1.13
+a2_s_sm_12-02 12_34.txt,USER_simple,Health,academic,2637,307,43,15,45,7.14,0.35,1.05
+a1_s_nd_02-10 14_48.txt,USER_simple,Environmental Science,academic,1627,306,58,5,40,5.28,0.09,0.69
+d1_c_bb_02-24 14_03.txt,USER_complex,Job Interview - computer scientist,everyday,3962,306,57,14,47,5.37,0.25,0.82
+d2_s_sm_11-20 12_44.txt,USER_simple,Choosing a Major,everyday,2068,306,50,6,34,6.12,0.12,0.68
+a1_s_ms_10-05 09_02.txt,USER_simple,Environmental Science,academic,2903,306,42,8,45,7.29,0.19,1.07
+a1_c_un_10-11 12_21.txt,USER_complex,Environmental Science,academic,1965,306,39,6,54,7.85,0.15,1.38
+d2_s_td_03-24 14_55.txt,USER_simple,Choosing a Major,everyday,1353,306,36,16,67,8.50,0.44,1.86
+d3_s_yn_10-16 14_22.txt,USER_simple,Buying a Car,everyday,1196,305,53,4,45,5.75,0.08,0.85
+a5_s_ca_11-06 12_28.txt,USER_simple,Journalism,academic,2243,305,47,15,50,6.49,0.32,1.06
+a5_s_bb_04-09 12_53.txt,USER_simple,Journalism,academic,3252,304,57,13,57,5.33,0.23,1.00
+d3_s_ef_10-30 13_44.txt,USER_simple,Buying a Car,everyday,1696,304,46,15,40,6.61,0.33,0.87
+d5_c_ek_04-09 14_52.txt,USER_complex,Travel Agent,everyday,1227,304,41,9,46,7.41,0.22,1.12
+d3_s_hj_02-26 14_07.txt,USER_simple,Buying a Car,everyday,1265,303,54,20,54,5.61,0.37,1.00
+a1_s_dn_09-30 14_12.txt,USER_simple,Environmental Science ,academic,1573,303,44,11,56,6.89,0.25,1.27
+a2_c_ki_02-19 13_56.txt,USER_complex,Health,academic,1693,302,52,7,46,5.81,0.13,0.88
+a2_c_as_10-04 13_33.txt,USER_complex,Health,academic,2527,302,47,12,56,6.43,0.26,1.19
+d2_c_ms_09-21 09_25.txt,USER_complex,Choose a Major ,everyday,2140,302,45,13,53,6.71,0.29,1.18
+d4_c_rw_10-04 10_01.txt,USER_complex,US Culture Discussion,everyday,1730,302,34,15,54,8.88,0.44,1.59
+a5_c_fm_10-18 13_13.txt,USER_complex,Journalism,academic,1989,301,59,3,51,5.10,0.05,0.86
+d2_s_hj_02-24 14_27.txt,USER_simple,Choosing a Major,everyday,1110,301,50,17,48,6.02,0.34,0.96
+a4_s_ef_10-30 14_16.txt,USER_simple,Economics,academic,2457,301,37,20,33,8.14,0.54,0.89
+a2_s_ef_10-25 09_28.txt,USER_simple,Health,academic,2841,300,49,16,48,6.12,0.33,0.98
+a3_s_hj_02-17 14_59.txt,USER_simple,Business Management,academic,1840,300,41,12,54,7.32,0.29,1.32
+d4_c_nn_10-11 13_17.txt,USER_complex,US Culture Discussion,everyday,1240,300,40,11,51,7.50,0.28,1.28
+d3_s_na_02-19 13_59.txt,USER_simple,Buying a Car,everyday,1245,299,58,5,52,5.16,0.09,0.90
+a3_c_mm_11-05 13_16.txt,USER_complex,Business Management,academic,2028,299,40,7,64,7.48,0.18,1.60
+a1_c_bb_03-10 13_59.txt,USER_complex,Environmental Science,academic,3626,298,41,11,65,7.27,0.27,1.59
+a5_s_mo_11-01 10_39.txt,USER_simple,Journalism,academic,2321,297,48,14,52,6.19,0.29,1.08
+d3_s_bl_04-15 11_39.txt,USER_simple,Buying a Car,everyday,1740,297,35,16,34,8.49,0.46,0.97
+a1_c_fm_10-16 14_22.txt,USER_complex,Environmental Science,academic,1826,296,54,10,55,5.48,0.19,1.02
+d2_s_as_02-27 10_43.txt,USER_simple,Choosing a Major,everyday,2195,296,40,22,50,7.40,0.55,1.25
+d5_c_ms_10-12 10_10.txt,USER_complex,Travel Agent,everyday,1650,296,37,15,45,8.00,0.41,1.22
+a3_s_mo_11-13 12_24.txt,USER_simple,Business Management,academic,2280,295,34,10,57,8.68,0.29,1.68
+d2_s_rt_10-31 13_59.txt,USER_simple,Choosing a Major,everyday,1922,293,51,12,54,5.75,0.24,1.06
+a5_s_fs_11-20 12_25.txt,USER_simple,Journalism,academic,2885,293,50,10,49,5.86,0.20,0.98
+a1_s_sm_11-06 12_32.txt,USER_simple,Environmental Science,academic,3908,293,49,10,49,5.98,0.20,1.00
+a1_s_rd_10-04 10_18.txt,USER_simple,Environmental Science,academic,2373,293,48,9,46,6.10,0.19,0.96
+d5_s_fr_11-12 17_56.txt,USER_simple,Travel Agent,everyday,972,293,48,9,42,6.10,0.19,0.88
+a2_c_mm_11-14 14_31.txt,USER_complex,Health,academic,1887,293,40,10,50,7.33,0.25,1.25
+a2_c_es_10-09 14_17.txt,USER_complex,Health,academic,1243,292,47,15,51,6.21,0.32,1.09
+a3_s_dn_10-09 14_12.txt,USER_simple,Business Management,academic,1480,292,39,14,62,7.49,0.36,1.59
+a3_s_si_02-19 12_56.txt,USER_simple,Business Management,academic,2576,291,51,10,50,5.71,0.20,0.98
+d2_s_si_02-19 13_50.txt,USER_simple,Choosing a Major,everyday,1511,291,50,8,50,5.82,0.16,1.00
+a3_s_bl_04-21 11_17.txt,USER_simple,Business Management,academic,2750,291,44,9,51,6.61,0.20,1.16
+d2_c_ts_10-11 12_47.txt,USER_complex,Choosing a Major,everyday,905,291,43,14,54,6.77,0.33,1.26
+a1_s_si_02-10 13_50.txt,USER_simple,Environmental Science,academic,2584,291,43,10,53,6.77,0.23,1.23
+a3_s_rt_10-31 14_35.txt,USER_simple,Business Management,academic,1610,291,39,10,47,7.46,0.26,1.21
+d5_s_si_02-13 12_21.txt,USER_simple,Travel Agent,everyday,1748,290,51,17,51,5.69,0.33,1.00
+a5_s_hj_02-24 13_58.txt,USER_simple,Journalism,academic,1431,290,46,9,60,6.30,0.20,1.30
+a2_s_yn_10-11 12_58.txt,USER_simple,Health,academic,1959,290,40,9,47,7.25,0.23,1.18
+a2_s_rt_11-05 14_20.txt,USER_simple,Health,academic,1461,290,36,7,42,8.06,0.19,1.17
+d4_c_bb_03-10 15_07.txt,USER_complex,US Culture Discussion,everyday,2033,289,56,8,46,5.16,0.14,0.82
+d2_s_bb_04-09 14_00.txt,USER_simple,Choosing a Major,everyday,1943,289,53,9,52,5.45,0.17,0.98
+d3_c_aa_10-09 16_14.txt,USER_complex,Buying a Car,everyday,1790,289,47,11,39,6.15,0.23,0.83
+d3_c_yv_12-04 12_26.txt,USER_complex,Buying a Car,everyday,2048,287,47,10,38,6.11,0.21,0.81
+d4_c_bl_02-10 14_09.txt,USER_complex,US Culture Discussion,everyday,1269,287,39,13,32,7.36,0.33,0.82
+a1_s_zm_02-12 13_02.txt,USER_simple,Environmental Science,academic,1849,286,51,7,44,5.61,0.14,0.86
+d2_c_nn_09-30 15_16.txt,GPT_complex,Choose a Major ,everyday,132,285,46,14,47,6.20,0.30,1.02
+d2_s_mo_11-11 12_24.txt,USER_simple,Choosing a Major,everyday,1474,285,46,7,61,6.20,0.15,1.33
+a1_s_td_04-02 14_01.txt,USER_simple,Environmental Science,academic,2534,285,42,9,51,6.79,0.21,1.21
+a3_c_aa_02-27 10_49.txt,USER_complex,Business Management,academic,2232,285,39,14,39,7.31,0.36,1.00
+d3_s_bo_12-04 13_07.txt,USER_simple,Buying a Car,everyday,1739,285,37,15,53,7.70,0.41,1.43
+a2_s_mo_11-11 12_51.txt,USER_simple,Health,academic,1955,283,43,11,49,6.58,0.26,1.14
+d5_c_ck_02-17 13_55.txt,USER_complex,Travel Agent,everyday,615,282,53,9,48,5.32,0.17,0.91
+a1_s_ca_10-25 09_14.txt,USER_simple,Environmental Science,academic,2841,280,46,8,53,6.09,0.17,1.15
+a2_s_ls_11-05 14_07.txt,USER_simple,Health,academic,2009,278,47,10,41,5.91,0.21,0.87
+d5_c_bl_01-27 14_04.txt,USER_complex,Travel Agent,everyday,1166,278,47,11,51,5.91,0.23,1.09
+d5_s_ca_11-06 13_14.txt,USER_simple,Travel Agent,everyday,1197,278,45,15,46,6.18,0.33,1.02
+d1_c_mm_11-20 13_04.txt,USER_complex,Job Interview - interpreter,everyday,1203,276,43,8,41,6.42,0.19,0.95
+a3_c_ga_10-04 12_03.txt,USER_complex,Business Management,academic,1857,276,26,14,53,10.62,0.54,2.04
+a1_c_as_09-25 14_56.txt,USER_complex,Environmental Science ,academic,1521,275,44,11,43,6.25,0.25,0.98
+d5_c_ki_02-12 14_34.txt,USER_complex,Travel Agent,everyday,894,275,43,12,32,6.40,0.28,0.74
+a5_c_bb_03-31 14_03.txt,USER_complex,Journalism,academic,3206,275,41,6,48,6.71,0.15,1.17
+d5_c_ms_10-26 09_32.txt,USER_complex,Travel Agent,everyday,1772,274,45,11,48,6.09,0.24,1.07
+a2_c_un_10-07 14_10.txt,USER_complex,Health,academic,2015,274,31,13,55,8.84,0.42,1.77
+a4_c_ss_11-08 11_04.txt,USER_complex,Economics,academic,4412,273,42,14,42,6.50,0.33,1.00
+d4_c_as_09-23 15_24.txt,USER_complex,US Culture Discussion ,everyday,1313,273,41,15,33,6.66,0.37,0.80
+d4_c_aa_04-03 10_50.txt,USER_complex,US Culture Discussion,everyday,1480,273,35,13,51,7.80,0.37,1.46
+a3_c_un_10-15 14_46.txt,USER_complex,Business Management,academic,2151,273,33,14,59,8.27,0.42,1.79
+a2_c_yk_02-26 13_10.txt,USER_complex,Health,academic,1479,272,50,10,42,5.44,0.20,0.84
+a3_s_tn_10-07 14_10.txt,USER_simple,Business Management,academic,1415,272,40,10,38,6.80,0.25,0.95
+d1_s_as_03-10 13_05.txt,USER_simple,Job Interview - accountant,everyday,1263,272,37,12,40,7.35,0.32,1.08
+a3_c_ki_02-10 14_31.txt,USER_complex,Business Management,academic,1936,271,46,7,41,5.89,0.15,0.89
+d3_c_yk_02-12 13_42.txt,USER_complex,Buying a Car,everyday,1319,270,51,2,35,5.29,0.04,0.69
+a2_s_hj_02-26 14_32.txt,USER_simple,Health,academic,1505,270,45,11,45,6.00,0.24,1.00
+d4_c_ts_10-02 14_13.txt,USER_complex,US Culture Discussion,everyday,1435,270,40,9,46,6.75,0.23,1.15
+a4_c_yv_11-22 10_46.txt,USER_complex,Economics,academic,5083,270,40,11,58,6.75,0.28,1.45
+d3_c_ok_12-05 13_31.txt,USER_complex,Buying a Car,everyday,910,268,48,12,45,5.58,0.25,0.94
+d2_c_nn_10-02 14_59.txt,USER_complex,Choosing a Major,everyday,1460,268,46,9,42,5.83,0.20,0.91
+a4_s_dn_09-25 15_35.txt,USER_simple,Economics ,academic,1433,268,33,24,61,8.12,0.73,1.85
+a1_s_ls_11-01 12_28.txt,USER_simple,Environmental Science,academic,2344,267,53,7,40,5.04,0.13,0.75
+d1_c_aa_02-26 12_30.txt,USER_complex,Job Interview - computer scientist,everyday,1976,267,39,11,45,6.85,0.28,1.15
+a5_c_ba_11-08 09_35.txt,USER_complex,Journalism,academic,2613,267,35,22,54,7.63,0.63,1.54
+a3_s_rd_10-05 09_22.txt,USER_simple,Business Management,academic,2388,266,55,9,36,4.84,0.16,0.65
+a5_s_ef_11-06 13_59.txt,USER_simple,Journalism,academic,2504,266,40,17,47,6.65,0.43,1.18
+a1_c_rw_10-04 10_34.txt,USER_complex,Environmental Science,academic,1630,266,37,5,48,7.19,0.14,1.30
+d2_c_ok_10-16 15_15.txt,USER_complex,Choosing a Major,everyday,1165,266,34,16,57,7.82,0.47,1.68
+d2_s_ms_09-21 11_13.txt,USER_simple,Choose a Major ,everyday,1651,265,41,10,57,6.46,0.24,1.39
+a3_s_f1_19.txt,USER_simple,Business Management,academic,4213,265,38,9,46,6.97,0.24,1.21
+a4_s_nd_02-24 13_58.txt,USER_simple,Economics,academic,1504,264,48,5,38,5.50,0.10,0.79
+d3_s_fs_11-20 13_20.txt,USER_simple,Buying a Car,everyday,1785,264,46,6,39,5.74,0.13,0.85
+a4_s_si_02-17 13_21.txt,USER_simple,Economics,academic,2520,264,41,11,52,6.44,0.27,1.27
+d4_s_za_09-23 15_05.txt,USER_simple,US Culture Discussion ,everyday,806,264,38,11,38,6.95,0.29,1.00
+a1_s_mo_11-08 09_42.txt,USER_simple,Environmental Science,academic,2586,263,42,6,42,6.26,0.14,1.00
+a5_c_ga_10-09 14_10.txt,USER_complex,Journalism,academic,1847,262,33,21,54,7.94,0.64,1.64
+d5_c_yv_11-22 10_02.txt,USER_complex,Travel Agent,everyday,2304,261,45,9,46,5.80,0.20,1.02
+d3_c_un_10-09 14_37.txt,USER_complex,Buying a Car,everyday,1365,261,31,7,48,8.42,0.23,1.55
+d5_c_ts_10-09 14_15.txt,USER_complex,Travel Agent,everyday,1005,260,41,10,53,6.34,0.24,1.29
+a1_s_sd_04-08 14_21.txt,USER_simple,Environmental Science,academic,1296,260,40,10,46,6.50,0.25,1.15
+a1_c_rc_02-19 13_58.txt,USER_complex,Environmental Science,academic,1688,260,37,10,45,7.03,0.27,1.22
+d1_c_nn_10-02 14_15.txt,USER_complex,Job Interview - nurse,everyday,1721,259,49,10,48,5.29,0.20,0.98
+d5_c_nn_10-24 14_24.txt,USER_complex,Travel Agent,everyday,1258,259,38,16,41,6.82,0.42,1.08
+a2_c_ok_11-15 12_07.txt,USER_complex,Health,academic,1455,258,40,11,43,6.45,0.28,1.08
+d3_s_sm_12-02 13_27.txt,USER_simple,Buying a Car,everyday,1680,257,49,6,45,5.24,0.12,0.92
+d5_c_aa_10-16 14_04.txt,USER_complex,Travel Agent,everyday,1552,257,38,14,29,6.76,0.37,0.76
+d3_c_ki_02-05 15_00.txt,USER_complex,Buying a Car,everyday,1182,256,55,5,38,4.65,0.09,0.69
+a4_c_bb_04-07 14_28.txt,USER_complex,Economics,academic,2425,256,40,13,58,6.40,0.33,1.45
+a2_c_fm_10-11 13_00.txt,USER_complex,Health,academic,1690,255,51,11,50,5.00,0.22,0.98
+a1_s_ef_10-18 10_29.txt,USER_simple,Environmental Science,academic,2204,255,32,16,44,7.97,0.50,1.38
+a4_s_ls_10-29 15_12.txt,USER_simple,Economics,academic,2742,253,44,8,43,5.75,0.18,0.98
+d3_s_ap_01-31 13_50.txt,USER_simple,Buying a Car,everyday,843,253,42,6,39,6.02,0.14,0.93
+a4_s_zm_02-20 11_01.txt,USER_simple,Economics,academic,1499,252,44,9,39,5.73,0.20,0.89
+a4_s_ms_10-26 09_32.txt,USER_simple,Economics,academic,2200,252,36,13,38,7.00,0.36,1.06
+a2_s_bl_04-07 12_31.txt,USER_simple,Health,academic,1826,252,28,15,32,9.00,0.54,1.14
+d5_s_qt_09-30 15_02.txt,USER_simple,Travel Agent ,everyday,1176,251,44,7,47,5.70,0.16,1.07
+d5_s_bl_04-21 10_54.txt,USER_simple,Travel Agent,everyday,1153,251,38,13,35,6.61,0.34,0.92
+a5_s_dn_10-16 14_22.txt,USER_simple,Journalism,academic,1647,250,44,10,55,5.68,0.23,1.25
+d5_s_dn_10-15 14_22.txt,USER_simple,Travel Agent,everyday,948,250,42,16,46,5.95,0.38,1.10
+a1_s_qt_09-30 14_15.txt,USER_simple,Environmental Science ,academic,2252,250,35,7,39,7.14,0.20,1.11
+a1_s_na_02-12 13_56.txt,USER_simple,Environmental Science,academic,1824,249,38,8,38,6.55,0.21,1.00
+a1_s_fs_11-11 12_26.txt,USER_simple,Environmental Science,academic,3119,249,37,10,41,6.73,0.27,1.11
+a5_s_bl_04-15 10_56.txt,USER_simple,Journalism,academic,2153,249,33,13,31,7.55,0.39,0.94
+d1_s_qn_10-15 14_29.txt,USER_simple,Job Interview - chef,everyday,823,248,45,9,43,5.51,0.20,0.96
+d2_c_mg_10-30 12_40.txt,USER_complex,Choosing a Major,everyday,2821,248,38,7,42,6.53,0.18,1.11
+a2_c_rc_03-05 14_32.txt,USER_complex,Health,academic,1618,248,29,10,46,8.55,0.34,1.59
+a5_s_ls_11-08 12_45.txt,USER_simple,Journalism,academic,2203,247,49,9,47,5.04,0.18,0.96
+a2_s_zm_02-13 11_32.txt,USER_simple,Health,academic,1379,247,44,8,34,5.61,0.18,0.77
+a1_c_do_11-14 14_27.txt,USER_complex,Environmental Science,academic,1994,247,27,19,40,9.15,0.70,1.48
+d5_c_yk_02-19 12_53.txt,USER_complex,Travel Agent,everyday,1380,246,45,6,37,5.47,0.13,0.82
+a4_s_hj_02-05 15_09.txt,USER_simple,Economics,academic,1985,245,41,7,47,5.98,0.17,1.15
+a2_s_qn_09-30 15_06.txt,USER_simple,Health ,academic,1616,244,38,18,42,6.42,0.47,1.11
+a2_s_td_04-08 14_10.txt,USER_simple,Health,academic,1466,243,34,15,44,7.15,0.44,1.29
+d1_s_rd_10-04 11_09.txt,USER_simple,Job Interview - IT specialist,everyday,1439,242,41,5,36,5.90,0.12,0.88
+a3_c_rc_03-03 14_47.txt,USER_complex,Business Management,academic,1247,242,37,6,38,6.54,0.16,1.03
+d3_s_mo_11-13 13_09.txt,USER_simple,Buying a Car,everyday,1202,240,36,7,34,6.67,0.19,0.94
+a4_s_sm_11-13 12_36.txt,USER_simple,Economics,academic,2619,238,41,8,34,5.80,0.20,0.83
+a4_c_es_11-06 14_18.txt,USER_complex,Economics,academic,1167,238,39,10,32,6.10,0.26,0.82
+a5_c_nn_10-09 14_51.txt,USER_complex,Journalism,academic,2337,237,35,11,49,6.77,0.31,1.40
+d2_s_ls_11-08 12_17.txt,USER_simple,Choosing a Major,everyday,1439,236,49,7,43,4.82,0.14,0.88
+a1_c_ar_10-26 09_45.txt,USER_complex,Environmental Science,academic,2017,236,41,7,36,5.76,0.17,0.88
+d1_s_bo_12-02 12_31.txt,USER_simple,Job Interview - accountant,everyday,1582,236,35,15,39,6.74,0.43,1.11
+d1_c_aa_10-05 11_15.txt,USER_complex,Job Interview - dental hygienist,everyday,2438,236,27,5,44,8.74,0.19,1.63
+a5_s_zm_02-26 12_34.txt,USER_simple,Journalism,academic,1289,235,40,6,43,5.88,0.15,1.08
+d1_s_ls_10-31 15_18.txt,USER_simple,Job Interview - sales specialist,everyday,2042,234,43,13,32,5.44,0.30,0.74
+d3_c_aa_03-11 10_53.txt,USER_complex,Buying a Car,everyday,1337,234,42,8,40,5.57,0.19,0.95
+d3_s_rt_10-29 14_48.txt,USER_simple,Buying a Car,everyday,1252,234,41,6,26,5.71,0.15,0.63
+a2_s_dn_10-15 14_41.txt,USER_simple,Health,academic,1836,234,38,12,44,6.16,0.32,1.16
+d3_c_ap_02-17 12_31.txt,USER_complex,Buying a Car,everyday,1570,234,29,8,48,8.07,0.28,1.66
+d2_s_rd_09-21 09_15.txt,USER_simple,Choose a Major ,everyday,1597,233,43,6,43,5.42,0.14,1.00
+d1_c_ga_10-09 14_50.txt,USER_complex,Job Interview - chef,everyday,799,233,31,12,46,7.52,0.39,1.48
+a2_c_nn_10-02 14_16.txt,USER_complex,Health,academic,1995,231,36,11,41,6.42,0.31,1.14
+a3_s_na_02-19 14_23.txt,USER_simple,Business Management,academic,1587,230,37,7,44,6.22,0.19,1.19
+d4_s_tn_09-25 15_43.txt,USER_simple,US Culture Discussion ,everyday,1158,230,29,9,35,7.93,0.31,1.21
+d5_c_aa_02-27 11_35.txt,USER_complex,Travel Agent,everyday,1201,228,31,15,39,7.35,0.48,1.26
+d2_s_zm_02-12 13_37.txt,USER_simple,Choosing a Major,everyday,1074,227,41,8,39,5.54,0.20,0.95
+a2_s_fs_11-06 13_26.txt,USER_simple,Health,academic,2862,226,37,10,43,6.11,0.27,1.16
+a2_s_as_02-24 12_21.txt,USER_simple,Health,academic,1588,225,32,19,33,7.03,0.59,1.03
+d2_s_bo_12-04 13_38.txt,USER_simple,Choosing a Major,everyday,1310,225,24,20,38,9.38,0.83,1.58
+a5_s_as_02-13 11_00.txt,USER_simple,Journalism,academic,2453,224,38,15,39,5.89,0.39,1.03
+a4_s_fs_12-02 13_11.txt,USER_simple,Economics,academic,2248,224,33,10,36,6.79,0.30,1.09
+a1_c_np_10-30 12_41.txt,USER_complex,Environmental Science,academic,2483,224,30,8,36,7.47,0.27,1.20
+a4_s_as_03-10 12_30.txt,USER_simple,Economics,academic,1581,224,30,13,36,7.47,0.43,1.20
+d5_c_do_11-14 14_03.txt,USER_complex,Travel Agent,everyday,1181,224,29,15,44,7.72,0.52,1.52
+d5_c_un_10-15 14_23.txt,USER_complex,Travel Agent,everyday,1221,223,28,9,41,7.96,0.32,1.46
+d5_s_mo_11-08 10_31.txt,USER_simple,Travel Agent,everyday,1585,222,37,10,37,6.00,0.27,1.00
+d1_c_rw_11-12 17_53.txt,USER_complex,Job Interview - accountant,everyday,971,222,30,11,34,7.40,0.37,1.13
+a5_c_yv_11-20 13_32.txt,USER_complex,Journalism,academic,3348,221,35,8,49,6.31,0.23,1.40
+d5_c_es_11-06 14_02.txt,USER_complex,Travel Agent,everyday,824,221,32,17,48,6.91,0.53,1.50
+a3_s_sm_11-20 13_23.txt,USER_simple,Business Management,academic,1982,221,31,9,25,7.13,0.29,0.81
+d4_s_ga_10-02 14_12.txt,USER_simple,US Culture Discussion,everyday,918,221,21,12,40,10.52,0.57,1.90
+a5_c_es_10-09 15_00.txt,USER_complex,Journalism,academic,697,220,36,10,43,6.11,0.28,1.19
+a1_s_bl_04-14 11_20.txt,USER_simple,Environmental Science,academic,1731,219,35,12,29,6.26,0.34,0.83
+d1_s_ms_10-05 10_00.txt,USER_simple,Job Interview - primary school teacher,everyday,1233,218,33,9,36,6.61,0.27,1.09
+d5_s_rt_11-12 14_12.txt,USER_simple,Travel Agent,everyday,1267,218,31,12,21,7.03,0.39,0.68
+d2_c_un_10-02 14_27.txt,USER_complex,Choosing a Major,everyday,2108,218,30,12,40,7.27,0.40,1.33
+d4_c_es_10-09 14_41.txt,USER_complex,US Culture Discussion,everyday,388,218,30,6,37,7.27,0.20,1.23
+d2_c_rc_03-03 15_11.txt,USER_complex,Choosing a Major,everyday,727,218,23,14,40,9.48,0.61,1.74
+d5_s_zm_02-20 10_46.txt,USER_simple,Travel Agent,everyday,729,217,36,8,30,6.03,0.22,0.83
+d3_c_fm_10-16 14_57.txt,USER_complex,Buying a Car,everyday,990,216,41,7,34,5.27,0.17,0.83
+a1_c_bl_02-05 14_09.txt,USER_complex,Environmental Science,academic,1189,216,37,7,29,5.84,0.19,0.78
+d3_s_qn_10-07 14_12.txt,USER_simple,Buying a Car,everyday,881,216,31,4,37,6.97,0.13,1.19
+a4_c_ga_10-07 14_26.txt,USER_complex,Economics,academic,1658,216,26,12,36,8.31,0.46,1.38
+a1_s_hj_02-10 13_58.txt,USER_simple,Environmental Science,academic,1278,215,40,2,37,5.38,0.05,0.93
+a5_s_sm_11-11 13_22.txt,USER_simple,Journalism,academic,2343,214,38,10,31,5.63,0.26,0.82
+a3_s_zm_02-19 12_57.txt,USER_simple,Business Management,academic,1298,214,36,6,41,5.94,0.17,1.14
+d3_s_nn_10-09 14_31.txt,USER_simple,Buying a Car,everyday,1049,214,30,4,31,7.13,0.13,1.03
+a1_s_qn_10-04 12_08.txt,USER_simple,Environmental Science,academic,1893,213,36,8,44,5.92,0.22,1.22
+d3_c_es_10-02 14_14.txt,USER_complex,Buying a Car,everyday,468,213,35,13,37,6.09,0.37,1.06
+a5_s_rt_10-29 14_06.txt,USER_simple,Journalism,academic,1902,213,34,8,29,6.26,0.24,0.85
+a1_s_as_02-27 11_24.txt,USER_simple,Environmental Science,academic,1720,213,27,13,33,7.89,0.48,1.22
+a4_c_un_10-02 15_07.txt,USER_complex,Economics,academic,1845,213,24,6,36,8.88,0.25,1.50
+a5_c_yk_02-24 12_22.txt,USER_complex,Journalism,academic,1820,211,41,2,45,5.15,0.05,1.10
+a5_s_qn_10-09 14_07.txt,USER_simple,Journalism,academic,1386,211,39,7,46,5.41,0.18,1.18
+a4_c_ar_11-09 09_06.txt,USER_complex,Economics,academic,2054,211,39,8,36,5.41,0.21,0.92
+d5_s_td_04-08 14_39.txt,USER_simple,Travel Agent,everyday,765,211,34,9,31,6.21,0.26,0.91
+d4_c_un_10-11 13_02.txt,USER_complex,US Culture Discussion,everyday,1089,210,25,12,32,8.40,0.48,1.28
+d1_s_qt_10-04 12_08.txt,USER_simple,Job Interview - architect,everyday,1977,209,29,8,46,7.21,0.28,1.59
+a4_c_nn_10-11 12_22.txt,USER_complex,Economics,academic,2873,209,27,10,33,7.74,0.37,1.22
+d3_s_zm_02-26 13_00.txt,USER_simple,Buying a Car,everyday,785,208,39,6,28,5.33,0.15,0.72
+a1_c_ki_02-17 14_27.txt,USER_complex,Environmental Science,academic,1159,208,34,4,25,6.12,0.12,0.74
+d2_s_ef_10-16 15_25.txt,USER_simple,Choosing a Major,everyday,1672,208,28,11,35,7.43,0.39,1.25
+d3_s_za_10-09 14_44.txt,USER_simple,Buying a Car,everyday,576,207,34,7,21,6.09,0.21,0.62
+d3_c_nn_10-09 14_08.txt,USER_complex,Buying a Car,everyday,1124,207,33,4,34,6.27,0.12,1.03
+a1_c_nn_10-16 14_55.txt,USER_complex,Environmental Science,academic,2340,207,23,11,36,9.00,0.48,1.57
+d5_c_mg_11-01 11_00.txt,USER_complex,Travel Agent,everyday,1382,206,20,15,38,10.30,0.75,1.90
+a5_c_ar_11-15 09_52.txt,USER_complex,Journalism,academic,1380,205,41,2,28,5.00,0.05,0.68
+a5_c_aa_04-03 11_17.txt,USER_complex,Journalism,academic,2766,203,32,6,33,6.34,0.19,1.03
+a1_s_rt_11-12 14_37.txt,USER_simple,Environmental Science,academic,1482,201,30,9,37,6.70,0.30,1.23
+d3_s_ms_10-26 10_34.txt,USER_simple,Buying a Car,everyday,1377,201,29,6,23,6.93,0.21,0.79
+a2_c_ar_11-08 10_10.txt,USER_complex,Health,academic,1618,200,35,10,33,5.71,0.29,0.94
+d5_s_ms_10-26 10_14.txt,USER_simple,Travel Agent,everyday,1040,200,33,4,29,6.06,0.12,0.88
+a1_c_ts_10-09 14_39.txt,USER_complex,Environmental Science,academic,1196,199,32,5,36,6.22,0.16,1.13
+d2_c_bb_03-31 15_04.txt,USER_complex,Choosing a Major,everyday,1675,198,41,6,37,4.83,0.15,0.90
+a5_s_ms_10-12 10_18.txt,USER_simple,Journalism,academic,2135,197,34,8,27,5.79,0.24,0.79
+a4_s_rt_11-14 14_31.txt,USER_simple,Economics,academic,1567,195,32,14,30,6.09,0.44,0.94
+a1_c_ok_11-13 14_31.txt,USER_complex,Environmental Science,academic,1107,195,30,6,29,6.50,0.20,0.97
+a1_s_za_10-07 14_52.txt,USER_simple,Environmental Science,academic,1303,194,39,2,24,4.97,0.05,0.62
+a5_c_un_10-09 15_02.txt,USER_complex,Journalism,academic,1834,194,30,10,31,6.47,0.33,1.03
+a2_c_ts_10-02 14_41.txt,USER_complex,Health,academic,1476,193,33,6,23,5.85,0.18,0.70
+d4_s_qn_10-04 12_47.txt,USER_simple,US Culture Discussion,everyday,940,193,27,8,33,7.15,0.30,1.22
+a5_c_rw_11-12 17_15.txt,USER_complex,Journalism,academic,1884,193,26,4,40,7.42,0.15,1.54
+d1_c_ts_10-07 14_47.txt,USER_complex,Job Interview - marketing specialist,everyday,649,192,25,10,42,7.68,0.40,1.68
+d5_c_ok_11-13 14_16.txt,USER_complex,Travel Agent,everyday,738,191,37,4,32,5.16,0.11,0.86
+d2_c_es_10-09 14_53.txt,USER_complex,Choosing a Major,everyday,328,191,28,10,43,6.82,0.36,1.54
+d5_s_ls_11-01 12_06.txt,USER_simple,Travel Agent,everyday,1050,190,34,8,29,5.59,0.24,0.85
+d3_c_as_09-25 14_35.txt,USER_complex,Buy a Car ,everyday,1070,188,38,7,29,4.95,0.18,0.76
+a2_c_bb_03-24 14_53.txt,USER_complex,Health,academic,2010,188,30,11,36,6.27,0.37,1.20
+d1_c_un_10-07 14_48.txt,USER_complex,Job Interview - accountant,everyday,1056,187,33,8,44,5.67,0.24,1.33
+d3_c_ga_10-07 14_08.txt,USER_complex,Buying a Car,everyday,839,186,26,7,33,7.15,0.27,1.27
+d5_c_rc_03-11 14_46.txt,USER_complex,Travel Agent,everyday,890,186,21,11,28,8.86,0.52,1.33
+d2_s_qt_10-15 14_51.txt,USER_simple,Choosing a Major,everyday,756,185,27,8,39,6.85,0.30,1.44
+d2_s_dn_09-30 14_45.txt,USER_simple,Choose a Major ,everyday,568,183,35,7,35,5.23,0.20,1.00
+d5_c_rw_11-07 17_08.txt,USER_complex,Travel Agent,everyday,739,183,30,9,24,6.10,0.30,0.80
+d5_s_ef_11-06 14_48.txt,USER_simple,Travel Agent,everyday,994,182,37,5,33,4.92,0.14,0.89
+a3_c_yk_02-19 13_19.txt,USER_complex,Business Management,academic,1365,182,36,2,24,5.06,0.06,0.67
+a5_s_td_03-31 14_52.txt,USER_simple,Journalism,academic,1415,182,26,11,27,7.00,0.42,1.04
+d2_s_tn_10-07 14_41.txt,USER_simple,Choosing a Major,everyday,611,181,37,1,28,4.89,0.03,0.76
+d3_c_rw_10-29 17_46.txt,USER_complex,Buying a Car,everyday,758,181,24,8,21,7.54,0.33,0.88
+d5_s_as_02-13 11_51.txt,USER_simple,Travel Agent,everyday,1319,180,28,11,33,6.43,0.39,1.18
+a4_s_bl_03-10 13_30.txt,USER_simple,Economics,academic,1681,176,26,10,26,6.77,0.38,1.00
+d3_c_rc_02-19 14_34.txt,USER_complex,Buying a Car,everyday,664,175,25,3,27,7.00,0.12,1.08
+a3_s_bo_12-06 10_06.txt,USER_simple,Business Management,academic,1882,175,24,10,31,7.29,0.42,1.29
+d2_c_as_10-04 13_00.txt,USER_complex,Choosing a Major,everyday,1610,174,33,7,33,5.27,0.21,1.00
+a3_s_as_02-19 13_39.txt,USER_simple,Business Management,academic,1602,174,25,9,34,6.96,0.36,1.36
+d5_c_ap_02-13 12_02.txt,USER_complex,Travel Agent,everyday,940,174,25,6,24,6.96,0.24,0.96
+a4_c_aa_03-06 10_46.txt,USER_complex,Economics,academic,1744,171,19,11,25,9.00,0.58,1.32
+a3_s_qn_10-15 14_46.txt,USER_simple,Business Management,academic,1072,170,30,7,34,5.67,0.23,1.13
+a5_c_rc_03-11 14_12.txt,USER_complex,Journalism,academic,1639,170,23,3,27,7.39,0.13,1.17
+d5_s_bo_11-13 12_52.txt,USER_simple,Travel Agent,everyday,945,169,22,14,30,7.68,0.64,1.36
+a4_c_r1_45.txt,USER_complex,Economics,academic,1285,169,18,10,31,9.39,0.56,1.72
+d4_s_qt_10-07 14_46.txt,USER_simple,US Culture Discussion,everyday,746,168,34,7,30,4.94,0.21,0.88
+a1_c_yk_02-12 13_13.txt,USER_complex,Environmental Science,academic,1439,163,33,3,25,4.94,0.09,0.76
+d3_s_rd_10-11 10_00.txt,USER_simple,Buying a Car,everyday,967,163,27,6,28,6.04,0.22,1.04
+d5_c_as_10-02 15_18.txt,USER_complex,Travel Agent,everyday,1059,163,21,9,33,7.76,0.43,1.57
+d5_s_rd_10-05 09_00.txt,USER_simple,Travel Agent,everyday,1096,162,34,5,24,4.76,0.15,0.71
+d3_s_as_02-24 13_03.txt,USER_simple,Buying a Car,everyday,488,162,24,9,23,6.75,0.38,0.96
+a5_s_qt_10-18 12_12.txt,USER_simple,Journalism,academic,1657,158,20,11,26,7.90,0.55,1.30
+a4_s_yk_02-10 13_37.txt,USER_simple,Economics,academic,1773,154,33,1,26,4.67,0.03,0.79
+d5_s_qn_10-09 14_38.txt,USER_simple,Travel Agent,everyday,549,153,27,8,27,5.67,0.30,1.00
+d5_c_np_11-01 09_18.txt,USER_complex,Travel Agent,everyday,1166,153,22,7,21,6.95,0.32,0.95
+a5_c_nn_10-23 15_03.txt,USER_complex,Journalism,academic,1276,152,24,5,28,6.33,0.21,1.17
+d3_s_td_04-02 14_51.txt,USER_simple,Buying a Car,everyday,916,151,23,9,24,6.57,0.39,1.04
+a5_s_bo_12-04 12_31.txt,USER_simple,Journalism,academic,1646,151,20,8,25,7.55,0.40,1.25
+d4_s_bo_11-11 12_28.txt,USER_simple,US Culture Discussion,everyday,1058,146,19,7,18,7.68,0.37,0.95
+a3_c_rw_10-29 17_13.txt,USER_complex,Business Management,academic,1407,145,19,9,30,7.63,0.47,1.58
+d3_c_bb_04-07 14_08.txt,USER_complex,Buying a Car,everyday,1027,136,17,8,25,8.00,0.47,1.47
+a2_s_bo_11-11 12_50.txt,USER_simple,Health,academic,1295,134,16,11,19,8.38,0.69,1.19
+a4_s_bo_12-02 13_02.txt,USER_simple,Economics,academic,1543,133,15,9,22,8.87,0.60,1.47
+a3_c_bb_02-24 15_14.txt,USER_complex,Business Management,academic,1903,131,34,3,20,3.85,0.09,0.59
+a1_c_nn_10-02 14_47.txt,USER_complex,Environmental Science,academic,1266,130,25,3,25,5.20,0.12,1.00
+a1_c_aa_03-11 11_18.txt,USER_complex,Environmental Science,academic,1110,122,16,3,14,7.63,0.19,0.88
+a3_c_nn_10-09 14_39.txt,USER_complex,Business Management,academic,1199,119,20,2,21,5.95,0.10,1.05
+a3_s_qt_10-09 14_18.txt,USER_simple,Business Management,academic,1418,119,18,12,25,6.61,0.67,1.39
+d3_s_dn_10-02 14_14.txt,USER_simple,Buying a Car,everyday,401,116,17,6,14,6.82,0.35,0.82
+a3_c_nn_09-25 15_06.txt,USER_complex,Business Management ,academic,1658,115,22,3,26,5.23,0.14,1.18
+a1_s_bo_11-13 12_24.txt,USER_simple,Environmental Science,academic,1290,111,18,3,20,6.17,0.17,1.11
+a4_s_qt_10-04 12_46.txt,USER_simple,Economics,academic,1851,110,18,2,17,6.11,0.11,0.94
+a4_c_nn_10-15 14_52.txt,USER_complex,Economics,academic,1239,108,17,5,15,6.35,0.29,0.88
+a4_c_bl_02-10 14_35.txt,USER_complex,Economics,academic,601,104,18,1,14,5.78,0.06,0.78
+a4_s_qn_10-07 14_32.txt,USER_simple,Economics,academic,1230,103,16,1,25,6.44,0.06,1.56
+d3_s_qt_10-09 14_07.txt,USER_simple,Buying a Car,everyday,490,101,18,3,16,5.61,0.17,0.89
+a2_s_qt_10-15 14_26.txt,USER_simple,Health,academic,1165,96,15,4,19,6.40,0.27,1.27
+a2_c_aa_02-26 13_07.txt,USER_complex,Health,academic,1268,93,13,8,20,7.15,0.62,1.54

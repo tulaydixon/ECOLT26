@@ -1,0 +1,366 @@
+---
+title: "DESCRIPTIVES AND DATA WRANGLING"
+format: 
+  live-html:
+    css: styles.css
+engine: knitr
+toc: true
+toc-location: left
+mainfont: Arial
+sectfont: Arial
+monofont: Arial
+fontsize: "13"
+linestretch: 1.5
+smooth-scroll: true
+highlight-style: github #breeze, cosmo
+resources:
+  - data/BEST.csv
+webr:
+  render-df: gt-interactive
+---
+
+{{< include ../ECOLT26/_extensions/r-wasm/live/_knitr.qmd >}}
+
+# 1. Getting set up 🔧
+
+We will work with the `dplyr`, `tidyr`, and **`palmerpenguins`** packages. Let's first call them into our workspace using `library()`.
+
+```{webr}
+# Load the required packages
+library(dplyr)
+library(palmerpenguins)
+library(tidyr)
+```
+
+# 2. Exploring the `penguins` dataset and its variables 🔎
+
+![Penguin species represented in the \`palmerpenguins\` dataset (Retrieved from https://www.gabemednick.com/post/penguin/)](Images/cuties.png){width="693"}
+
+You can take a look at the dataset by simply typing its name and printing it as an object (similar to an Excel file):
+
+```{webr}
+penguins
+```
+
+We can explore the variables we have in the `penguins` dataset using `summary()` and `glimpse()` .
+
+```{webr}
+# Provides a summary for all variables
+summary(penguins)
+```
+
+```{webr}
+# Lists variable types, followed by sample entries
+glimpse(penguins)
+```
+
+<br>
+
+# 3. Summarizing Numerical Variables 🔢
+
+We can calculate descriptive statistics using the **`summarize()`** function. Let's see what happens when we try to calculate the mean body mass of our penguins:
+
+```{webr}
+summarize(penguins, mean(body_mass_g))
+```
+
+We were not able to calculate the mean because there are missing values (i.e, NAs) for some of the penguins, so we need to tell `mean()` to ignore them using the `na.rm = TRUE` argument.
+
+```{webr}
+# In 'na.rm', 'rm' means remove
+summarize(penguins, mean(body_mass_g, _____________))
+```
+
+::: {.callout-tip appearance="simple"}
+**Your turn!**
+
+**Now try summarizing the mean for the `flipper_length_mm` variable without copying and pasting from the code chunk above. 🙂**
+
+```{webr}
+
+```
+:::
+
+### Workflow with the pipe `|>`
+
+We can calculate the mean using the pipe workflow, which would pass the `penguins` dataset as the first argument for `summarize()` .
+
+```{webr}
+penguins |> 
+  summarize(mean(body_mass_g, na.rm = TRUE))
+```
+
+We can also give our output a descriptive heading. Type "mean_body_mass" in the blank and see how it gets reflected in the output:
+
+```{webr}
+penguins |> 
+  summarize(
+   ____________ = mean(body_mass_g, na.rm = TRUE))
+```
+
+Now, we are ready to calculate all the other descriptive statistics, connected with a comma:
+
+```{webr}
+penguins |> 
+  summarize(
+    mean = mean(body_mass_g, na.rm = TRUE),
+    sd = sd(body_mass_g, na.rm = TRUE),
+    median = median(body_mass_g, na.rm = TRUE),
+    min = min(body_mass_g, na.rm = TRUE),
+    max = max(body_mass_g, na.rm = TRUE)
+    )
+```
+
+### Dropping NA values
+
+Instead of repeating the `na.rm = TRUE` argument over and over, we can drop all NAs before calculating descriptive statistics. To do this, we will use the `drop_na()` function:
+
+```{webr}
+penguins |> 
+  _________(body_mass_g) |> 
+  summarize(
+    mean = mean(body_mass_g),
+    sd = sd(body_mass_g),
+    median = median(body_mass_g),
+    min = min(body_mass_g),
+    max = max(body_mass_g)
+    )
+```
+
+One final statistic: sample size! The `n()` function calculates the *n* size. Unlike other functions, it doesn't take any arguments. It simply counts how many rows there are.
+
+```{webr}
+penguins |> 
+  drop_na(body_mass_g) |> 
+  summarize(
+    n = n(),
+    mean = mean(body_mass_g),
+    sd = sd(body_mass_g)
+    )
+```
+
+### Grouping by a categorical variable
+
+We often want descriptive statistics to be broken down by levels of a categorical variable, such as the mean language proficiency score broken down by L1 background. The `group_by()` function will help us with this.
+
+In the code chunk below, add `group_by` before `species` so that we can see how body mass changes across penguin species.
+
+```{webr}
+penguins |> 
+drop_na(body_mass_g) |>
+________(species) |> 
+summarize (mean = mean(body_mass_g))
+```
+
+::: {.callout-tip appearance="simple"}
+**Your turn!**
+
+**Calculate mean `flipper_length_mm` across `island`s.**
+
+```{webr}
+
+```
+:::
+
+### Grouping by multiple categorical variables
+
+We can add more variables of interest separated by a comma. Let's add the `sex` variable:
+
+```{webr}
+penguins |> 
+drop_na(body_mass_g) |>
+group_by(species, ________) |> 
+summarize (mean = mean(body_mass_g))
+```
+
+::: {.callout-tip appearance="simple"}
+**Your turn!**
+
+**Now, calculate the mean and SD for both `bill_length_mm` and `bill_depth_mm` variables broken down by the levels of `island`:**
+
+```{webr}
+
+```
+:::
+
+### Creating new variables before calculating descriptive statistics
+
+Suppose that, when summarizing the `body_mass_g` variable, we wanted to work with kilograms instead of grams. We would have to first create a new variable to make the conversion from grams to kilograms and then calculate the descriptive statistics using this new variable.
+
+`mutate()` is the function we will use to create new variables.
+
+```{webr}
+penguins |> 
+drop_na(body_mass_g) |> 
+___________(body_mass_kg = body_mass_g/1000)
+```
+
+After you create a new variable, you can use it in other functions:
+
+```{webr}
+penguins |> 
+drop_na(body_mass_g) |> 
+mutate(body_mass_kg = body_mass_g/1000) |> 
+summarize(
+  mean = mean(body_mass_kg),
+  sd = sd(body_mass_kg)
+)
+```
+
+::: {.callout-tip appearance="simple"}
+**Your turn!**
+
+**Now calculate the mean and SD for the `flipper_length_mm` variable in inches broken down by `species` variable.**
+
+**Note that 1 inch is 25.4 mm.**
+
+```{webr}
+
+```
+:::
+
+<br>
+
+# 4. Summarizing Categorical Variables (For you to look at later)
+
+### **Counts**
+
+With a categorical variable, we often would like to count how many observations fall into each level of the variable. The easiest way to count observations is to first `select()` the variable of interest and then feed that variable into `table()`.
+
+```{webr}
+penguins |> 
+select(species) |>
+table()
+```
+
+We can add more categorical variables while `select`ing:
+
+```{webr}
+penguins |> 
+select(species, sex) |>
+table()
+```
+
+### **Proportions**
+
+When examining the proportions in a contingency table, the easiest way is to use the `prop.table()` functions to turn the counts into proportions:
+
+```{webr}
+penguins |> 
+  select(species, sex) |>        
+  table() |>                     
+  prop.table()                   
+```
+
+::: callout-caution
+**What do you notice about how the proportions are calculated?**
+:::
+
+#### **Row proportions (n/row total)**
+
+If you want the denominator to be the row total, set the `margin` argument to `1`.
+
+```{webr}
+penguins |> 
+  select(species, sex) |>        
+  table() |>                     
+  prop.table(margin = _____)         
+```
+
+#### **Column proportions (n/column total)**
+
+If you want the denominator to be the column total, set the `margin` argument to `2`.
+
+```{webr}
+penguins |> 
+  select(species, sex) |>        
+  table() |>                     
+  prop.table(margin = _____)    
+```
+
+#### **Overall proportions (n/table total)**
+
+When you do not provide the `margin` argument, the default behavior is to use the table total as the denominator.
+
+```{webr}
+penguins |> 
+  select(species, sex) |>        
+  table() |>                     
+  prop.table()                   
+```
+
+::: {.callout-tip appearance="simple"}
+**Your turn!**
+
+**Of all penguins that live on the Biscoe island, what proportion of them are female?**
+
+```{webr}
+
+```
+:::
+
+<br>
+
+# 5. Application! 🏁
+
+## **Download the dataset**
+
+BEST dataset "presents data from 650 adult participants from the Basque Country who completed a series of **B**asque, **E**nglish, and **S**panish **t**ests (hence the name BEST) as a proxy for measuring their language skills" ([Bruin et al., 2017, p. 2](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00522/full))
+
+Run the following code chunk to download the `BEST` dataset:
+
+```{webr}
+#| context: setup
+csv_url <- "https://tulaydixon.github.io/ECOLT26/data/BEST.csv"
+download.file(csv_url, destfile = "BEST.csv", mode = "wb")
+
+BEST <- read.csv("BEST.csv", stringsAsFactors = TRUE)
+
+BEST
+```
+
+Let's take a look at some of the variables of interest in the `BEST` dataset:
+
+```{webr}
+summary(BEST)
+```
+
++------------------------------+-----------------------------------------------------------------------+
+| Variable                     | Definition                                                            |
++==============================+=======================================================================+
+| `AGE.IN.YEARS`               | Participant's age                                                     |
++------------------------------+-----------------------------------------------------------------------+
+| `AGE.OF.ACQUISITION.ENGLISH` | The age when English was acquired (Self-reported)                     |
++------------------------------+-----------------------------------------------------------------------+
+| `MAXIMUM.EDUCATIONAL.LEVEL`  | `High School`, `University`, `Postgraduate`, `Professional Training`  |
++------------------------------+-----------------------------------------------------------------------+
+| `INTERVIEW.MARK.ENGLISH`     | Scores ranging from `1` (lowest level) to `5` (native or native-like) |
+|                              |                                                                       |
+|                              | Performance evaluated by four linguists                               |
++------------------------------+-----------------------------------------------------------------------+
+
+## **Tasks**
+
+1.  Answer this question: "On average, how many years have the participants been using English?" Note that we know the participants' age (i.e., `AGE.IN.YEARS)` and when they acquired English (i.e., `AGE.OF.ACQUISITION.ENGLISH)`. So, we can create a new variable to answer this question.
+
+2.  Update the results so that we can see the average years of English use broken down by `MAXIMUM.EDUCATIONAL.LEVEL`.
+
+```{webr}
+
+```
+
+3.  Now, let's see whether English proficiency varies across educational levels. We can summarize `INTERVIEW.MARK.ENGLISH` across `MAXIMUM.EDUCATIONAL.LEVEL` by calculating the n, mean, SD, min, max, and median.
+
+```{webr}
+
+```
+
+::: callout-caution
+**BEFORE YOU CLOSE THIS PAGE, SAVE YOUR PROGRESS:**
+
+1.  Right-click anywhere on the page
+
+2.  Select *Print*
+
+3.  Choose *Save as PDF*
+:::

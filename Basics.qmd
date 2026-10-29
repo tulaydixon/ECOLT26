@@ -1,0 +1,308 @@
+---
+title: "FOUNDATIONAL R FUNCTIONS & TERMINOLOGY"
+format: 
+  live-html:
+    css: styles.css
+engine: knitr
+toc: true
+toc-location: left
+mainfont: Arial
+sectfont: Arial
+monofont: Arial
+fontsize: "13"
+linestretch: 1.5
+smooth-scroll: true
+highlight-style: github #breeze, cosmo
+webr:
+  render-df: gt-interactive
+---
+
+{{< include ../ECOLT26/_extensions/r-wasm/live/_knitr.qmd >}}
+
+## 1. R as a calculator
+
+Let's start with a simple command and ask R to do a calculation. Type 1+1 in the code chunk below and hit "Run Code."
+
+```{webr}
+
+```
+
+## 2. Leaving comments with \#
+
+When you use R, you will want to leave comments for yourself so you remember why you did certain things.
+
+Leave a comment following the hashtag below, and R will ignore it when it runs:
+
+```{webr}
+# 
+5*5
+```
+
+## 3. Creating objects with the assignment operator `<-`
+
+An important feature of R is to create **objects**.
+
+Objects are used to store a variety of values: numbers, lists, entire datasets, and more. Storing these values as objects allows us to use them again and again, without retyping them.
+
+We create objects using the assignment operator: `<-` , which is a less than sign, `<`, followed by a minus sign, `-`.
+
+Replace the blank with the assignment operator so that `2` is assigned to the object named `a`:
+
+```{webr}
+# Assign the value of 2 to an object named `a` using the assignment operator (i.e., <- )
+a _____ 2
+
+# View object a
+a
+```
+
+```{webr}
+# Multiply `a` by 5
+a*5
+
+# Save the result of multiplication as `a2`
+a2 <- a*5
+```
+
+## 4. Using Functions & Arguments
+
+**Functions** are small programs inside R that perform tasks for us. R comes with many built-in functions like `summary()`, `mean()`, and `plot()`.
+
+**Arguments** are the inputs you provide to a function to customize its behavior or to provide the data on which it operates.
+
+For example, we can create a plot of the objects that we created earlier (i.e., a & a2) using the `plot()` function. We will use arguments to tell the `plot()` function what we want it to use as the x-axis and the y-axis:
+
+```{webr}
+# Be sure to run the two code chunks above before running this code chunk
+plot(x = a, y = a2)
+```
+
+Fancier arguments can tell the function, for example, what kind of plot we want, what color we want to make the plot, or whether we want to include descriptive labels and titles. Let's use, for example, the `col` argument to change the color:
+
+```{webr}
+plot(x = a, y = a2, col = "red")
+```
+
+### Help pages
+
+Whenever you want to learn more about a function, you can use `?functionname`, as in the code below. Please note that reading documentation pages is another skill on its own that develops over time.
+
+```{webr}
+?plot
+```
+
+## 5. Packages
+
+Many functions of R live in **packages**. Packages are similar to apps on your phone. Your phone is powerful as is, but you can make it more powerful and add new features to it by installing new apps. Similarly, R is strong as is, but we can add new functions to it by installing new packages.
+
+Today, we will use a package called `palmerpenguins`, so we will install it using the following line of code:
+
+```{webr}
+#| eval: False
+install.packages("palmerpenguins")
+```
+
+After we install a package, we have to call it using the `library()` so that we can use the functions that come with it.
+
+```{webr}
+library(palmerpenguins)
+```
+
+::: callout-important
+You need to install a package only once, but to use its functions, you need to always call it using `library()`.
+:::
+
+## 6. Multi-step functions with the pipe `|>`
+
+We can chain functions with the pipe symbol, `|>`. The pipe takes the result of the preceding function and passes it to the next function. Note that the key for `|` is typically above the `Enter`/`Return` key on a U.S. English keyboard.
+
+Replace the blank with the pipe:
+
+```{webr}
+9.435664 ____
+round()
+```
+
+Let's do it again!
+
+```{webr}
+9.435664 |>
+round() ____
+sqrt()
+```
+
+::: {.callout-tip appearance="simple"}
+**Your turn!**
+
+**First, add two more numbers to the object named "data." Then, calculate the mean of those numbers using `mean()`, and then round the resulting mean using `round()`.**
+
+```{webr}
+data <- c(11,27,29,__,__) # 'c' stands for ‘combine’ or ‘concatenate’ 
+
+data |>
+ 
+```
+:::
+
+::: callout-note
+The shortcut for the pipe can make your life easier!
+
+- **Windows/Linux:** `Ctrl` + `Shift` + `M`
+
+- **macOS:** `Cmd` + `Shift` + `M`
+:::
+
+## 7. Quick Review
+
+```{webr}
+#| echo: false
+library(htmltools)
+
+mcq <- function(id, question, options, correct_index) {
+  option_tags <- lapply(seq_along(options), function(i) {
+    div(
+      class = "form-check",
+      tags$input(
+        class = "form-check-input",
+        type = "radio",
+        name = id,
+        id = paste0(id, "_", i),
+        value = i
+      ),
+      tags$label(
+        class = "form-check-label",
+        `for` = paste0(id, "_", i),
+        options[i]
+      )
+    )
+  })
+
+  tagList(
+    div(
+      class = "mcq mb-3",
+      tags$p(tags$strong(question)),
+      option_tags,
+      tags$button(
+        class = "btn btn-sm btn-primary mt-2",
+        id = paste0("check_", id),
+        "Check answer"
+      ),
+      tags$div(class = "mt-2", id = paste0("feedback_", id))
+    ),
+    tags$script(HTML(sprintf("
+      document.getElementById('%s').addEventListener('click', function() {
+        const selected = document.querySelector('input[name=\"%s\"]:checked');
+        const feedback = document.getElementById('%s');
+        if (!selected) {
+          feedback.innerHTML = '<span class=\"text-warning\">Please select an answer.</span>';
+        } else if (selected.value == '%s') {
+          feedback.innerHTML = '<span class=\"text-success\">Correct!</span>';
+        } else {
+          feedback.innerHTML = '<span class=\"text-danger\">Try again</span>';
+        }
+      });
+    ", paste0("check_", id), id, paste0("feedback_", id), correct_index)))
+  )
+}
+
+```
+
+```{webr}
+#| echo: false
+mcq(
+  id = "q1",
+  question = "1. What does the # symbol do in R?",
+  options = c(
+    "It assigns a value to an object",
+    "It starts a comment that R ignores",
+    "It runs the code that follows",
+    "It loads a package"
+  ),
+  correct_index = 2
+)
+```
+
+```{webr}
+#| echo: false 
+mcq(
+  id = "q2",
+  question = "2. What does the assignment operator <- do in R?",
+  options = c(
+    "It compares two values",
+    "It creates an object and stores a value in it",
+    "It adds two numbers together",
+    "It makes a plot"
+  ),
+  correct_index = 2
+)
+```
+
+```{webr}
+#| echo: false
+mcq(
+  id = "q3",
+  question = "3. Which statement about R package is correct?",
+  options = c(
+    "You must reinstall a package every time you use R",
+    "You only need to call library() once in your life",
+    "You install a package once but call it with library() in each R session",
+    "Packages can only be used for plotting"
+  ),
+  correct_index = 3
+)
+```
+
+```{webr}
+#| echo: false
+mcq(
+  id = "q4",
+  question = "4. In plot(x = a, y = a2, col = \"red\"), what is the function?",
+  options = c(
+    "plot()",
+    "x = a",
+    "y = a2",
+    "col = \"red\""
+  ),
+  correct_index = 1
+)
+```
+
+```{webr}
+#| echo: false
+mcq(
+  id = "q5",
+  question = "5. In plot(x = a, y = a2, col = \"red\"), what are the arguments?",
+  options = c(
+    "plot() only",
+    "a and a2 only",
+    "x = a, y = a2, and col = \"red\"",
+    "\"red\" only"
+  ),
+  correct_index = 3
+)
+```
+
+```{webr}
+#| echo: false
+mcq(
+  id = "q6",
+  question = "6. What does the pipe symbol |> do in R?",
+  options = c(
+    "It combines two objects into one",
+    "It takes the result of one function and passes it to the next function",
+    "It rounds numbers to the nearest whole number",
+    "It creates a new package in R"
+  ),
+  correct_index = 2
+)
+```
+
+::: callout-caution
+**BEFORE YOU CLOSE THIS PAGE, SAVE YOUR PROGRESS:**
+
+1.  Right-click anywhere on the page
+
+2.  Select *Print*
+
+3.  Choose *Save as PDF*
+:::

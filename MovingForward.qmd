@@ -1,0 +1,40 @@
+---
+title: "MOVING FORWARD ⏩"
+format: 
+  live-html:
+    css: styles.css
+engine: knitr
+toc: true
+toc-location: left
+mainfont: Arial
+sectfont: Arial
+monofont: Arial
+fontsize: "13"
+linestretch: 1.5
+smooth-scroll: true
+highlight-style: github #breeze, cosmo
+webr:
+  render-df: gt-interactive
+---
+
+# 1. Downloading R and RStudio
+
+Click [here](https://www.dropbox.com/scl/fi/tp3qv66e75azt9f8o75hp/Getting-Set-Up.pdf?rlkey=x92h6lhit16r9kejn776l0h8o&st=vl7ftwsu&dl=0) for the handout that I share with my students to help them download the software.
+
+# 2. How to use your own datasets in RStudio
+
+After you download the required software, click [here](https://youtu.be/zgzUXn9DArg?si=4Wmh_EOZ-cuLXmTC&t=770) to watch a video tutorial to familiarize yourself with the layout of RStudio and to learn how you can use your own datasets. The tutorial uses a dataset titled, "yrbss2023.csv" in a folder named "QTM 100 Datasets," but you can replace that folder and dataset with your own.
+
+# 3. Posit Academy
+
+[Posit Academy](https://posit.co/products/enterprise/academy/) was very helpful for me to sharpen my R skills. It's a 5-week online training with a 45-minute daily commitment.
+
+# 4. Books
+
+- [R for Data Science](https://r4ds.hadley.nz/)
+
+- [Advanced R](https://adv-r.hadley.nz/)
+
+- [Data Visualization](https://socviz.co/)
+
+- [ggplot2: Elegant Graphics for Data Analysis (3e)](https://ggplot2-book.org/index.html)
