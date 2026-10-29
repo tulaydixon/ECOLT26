@@ -1,0 +1,127 @@
+/* =========================
+   Base variables
+   ========================= */
+
+:root {
+  --code-font: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+
+  --code-size: 0.9rem;
+  --code-line-height: 1.45;
+
+  --code-bg: #f8fafc;
+  --code-border: #dbe4ee;
+
+  --editor-bg: #ffffff;
+  --editor-border: #d8e1eb;
+
+  --output-bg: #fcfcfd;
+  --output-border: #e2e8f0;
+
+  --code-padding-y: 0.6rem;
+  --code-padding-x: 0.8rem;
+}
+
+/* =========================
+   webR / CodeMirror editor
+   ========================= */
+
+/* Hide line numbers */
+.cm-gutters {
+  display: none !important;
+}
+
+/* Main editor box */
+.cm-editor {
+  font-family: var(--code-font) !important;
+  font-size: var(--code-size) !important;
+  line-height: var(--code-line-height);
+  background: var(--editor-bg);
+  border: 1px solid var(--editor-border);
+  overflow: hidden;
+  tab-size: 2;
+}
+
+/* Inner editor padding */
+.cm-scroller {
+  padding: var(--code-padding-y) var(--code-padding-x);
+}
+
+/* Make sure code inside the editor inherits correctly */
+.cm-content,
+.cm-line {
+  font-family: inherit !important;
+  font-size: inherit !important;
+  line-height: inherit;
+}
+
+/* Optional, subtle focus state */
+.cm-editor.cm-focused {
+  outline: none;
+  border-color: #b8cbe0;
+}
+
+/* =========================
+   Regular code blocks
+   ========================= */
+
+pre,
+pre code,
+.sourceCode,
+.cell-code {
+  font-family: var(--code-font);
+  font-size: var(--code-size);
+  line-height: var(--code-line-height);
+  tab-size: 2;
+}
+
+/* Block appearance */
+pre,
+div.sourceCode,
+.cell-code {
+  background: var(--code-bg);
+  border: 1px solid var(--code-border);
+  padding: var(--code-padding-y) var(--code-padding-x);
+  overflow-x: auto;
+}
+
+/* Remove double backgrounds if Quarto nests code inside pre */
+pre code {
+  background: transparent;
+  border: 0;
+  padding: 0;
+}
+
+/* =========================
+   Output blocks
+   ========================= */
+
+.cell-output,
+.cell-output pre {
+  font-family: var(--code-font);
+  font-size: 0.88rem;
+  line-height: 1.4;
+}
+
+.cell-output pre,
+.cell-output-stdout pre,
+.cell-output-stderr pre {
+  background: var(--output-bg);
+  border: 1px solid var(--output-border);
+  padding: var(--code-padding-y) var(--code-padding-x);
+  margin-top: 0.5rem;
+  overflow-x: auto;
+}
+
+/* =========================
+   Inline code
+   ========================= */
+
+p code,
+li code,
+td code {
+  font-family: var(--code-font);
+  font-size: 0.9em;
+  background: #f3f4f6;
+  padding: 0.1em 0.3em;
+}

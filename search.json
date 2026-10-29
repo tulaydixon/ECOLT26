@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "Basics.html",
+    "href": "Basics.html",
+    "title": "FOUNDATIONAL R FUNCTIONS & TERMINOLOGY",
+    "section": "",
+    "text": "Let’s start with a simple command and ask R to do a calculation. Type 1+1 in the code chunk below and hit “Run Code.”"
+  },
+  {
+    "objectID": "Basics.html#r-as-a-calculator",
+    "href": "Basics.html#r-as-a-calculator",
+    "title": "FOUNDATIONAL R FUNCTIONS & TERMINOLOGY",
+    "section": "",
+    "text": "Let’s start with a simple command and ask R to do a calculation. Type 1+1 in the code chunk below and hit “Run Code.”"
+  },
+  {
+    "objectID": "Basics.html#leaving-comments-with",
+    "href": "Basics.html#leaving-comments-with",
+    "title": "FOUNDATIONAL R FUNCTIONS & TERMINOLOGY",
+    "section": "2. Leaving comments with #",
+    "text": "2. Leaving comments with #\nWhen you use R, you will want to leave comments for yourself so you remember why you did certain things.\nLeave a comment following the hashtag below, and R will ignore it when it runs:"
+  },
+  {
+    "objectID": "Basics.html#creating-objects-with-the-assignment-operator--",
+    "href": "Basics.html#creating-objects-with-the-assignment-operator--",
+    "title": "FOUNDATIONAL R FUNCTIONS & TERMINOLOGY",
+    "section": "3. Creating objects with the assignment operator <-",
+    "text": "3. Creating objects with the assignment operator &lt;-\nAn important feature of R is to create objects.\nObjects are used to store a variety of values: numbers, lists, entire datasets, and more. Storing these values as objects allows us to use them again and again, without retyping them.\nWe create objects using the assignment operator: &lt;- , which is a less than sign, &lt;, followed by a minus sign, -.\nReplace the blank with the assignment operator so that 2 is assigned to the object named a:"
+  },
+  {
+    "objectID": "Basics.html#using-functions-arguments",
+    "href": "Basics.html#using-functions-arguments",
+    "title": "FOUNDATIONAL R FUNCTIONS & TERMINOLOGY",
+    "section": "4. Using Functions & Arguments",
+    "text": "4. Using Functions & Arguments\nFunctions are small programs inside R that perform tasks for us. R comes with many built-in functions like summary(), mean(), and plot().\nArguments are the inputs you provide to a function to customize its behavior or to provide the data on which it operates.\nFor example, we can create a plot of the objects that we created earlier (i.e., a & a2) using the plot() function. We will use arguments to tell the plot() function what we want it to use as the x-axis and the y-axis:\n\n\n\n\n\n\n\n\nFancier arguments can tell the function, for example, what kind of plot we want, what color we want to make the plot, or whether we want to include descriptive labels and titles. Let’s use, for example, the col argument to change the color:\n\n\n\n\n\n\n\n\n\nHelp pages\nWhenever you want to learn more about a function, you can use ?functionname, as in the code below. Please note that reading documentation pages is another skill on its own that develops over time."
+  },
+  {
+    "objectID": "Basics.html#packages",
+    "href": "Basics.html#packages",
+    "title": "FOUNDATIONAL R FUNCTIONS & TERMINOLOGY",
+    "section": "5. Packages",
+    "text": "5. Packages\nMany functions of R live in packages. Packages are similar to apps on your phone. Your phone is powerful as is, but you can make it more powerful and add new features to it by installing new apps. Similarly, R is strong as is, but we can add new functions to it by installing new packages.\nToday, we will use a package called palmerpenguins, so we will install it using the following line of code:\n\n\n\n\n\n\n\n\nAfter we install a package, we have to call it using the library() so that we can use the functions that come with it.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nYou need to install a package only once, but to use its functions, you need to always call it using library()."
+  },
+  {
+    "objectID": "Basics.html#multi-step-functions-with-the-pipe",
+    "href": "Basics.html#multi-step-functions-with-the-pipe",
+    "title": "FOUNDATIONAL R FUNCTIONS & TERMINOLOGY",
+    "section": "6. Multi-step functions with the pipe |>",
+    "text": "6. Multi-step functions with the pipe |&gt;\nWe can chain functions with the pipe symbol, |&gt;. The pipe takes the result of the preceding function and passes it to the next function. Note that the key for | is typically above the Enter/Return key on a U.S. English keyboard.\nReplace the blank with the pipe:\n\n\n\n\n\n\n\n\nLet’s do it again!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour turn!\nFirst, add two more numbers to the object named “data.” Then, calculate the mean of those numbers using mean(), and then round the resulting mean using round().\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe shortcut for the pipe can make your life easier!\n\nWindows/Linux: Ctrl + Shift + M\nmacOS: Cmd + Shift + M"
+  },
+  {
+    "objectID": "Basics.html#quick-review",
+    "href": "Basics.html#quick-review",
+    "title": "FOUNDATIONAL R FUNCTIONS & TERMINOLOGY",
+    "section": "7. Quick Review",
+    "text": "7. Quick Review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaution\n\n\n\nBEFORE YOU CLOSE THIS PAGE, SAVE YOUR PROGRESS:\n\nRight-click anywhere on the page\nSelect Print\nChoose Save as PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Tidyverse Workflow for Descriptive Statistics and Data Visualization in R",
+    "section": "",
+    "text": "These are the stickers you will receive at the end of the workshop! 🙂\n\nLogistics\n\nToday’s activities are web-based; that is, you do not need to download any software. R will magically run in your browser! When you use R on your own, you will need the following software: R and RStudio. At the end of the workshop, you will be given resources to help you (a) install these software and (b) become familiar with their interface.\nYou can edit the code chunks in any way you want. When you want a code chunk to return to its original state, just click on “Start Over.”\nIf you refresh the page, you will lose your progress, so at the end of each page, you may want to print your progress as a PDF file.\n\n\n\nObjectives\nBy the end of the workshop, you will be able to\n\nidentify some key functions of R\ndefine foundational R terminology such as object, function, package, library, and argument\nsummarize numerical variables using descriptive statistics such as mean, standard deviation, min, max, and median (resources for categorical variables will be provided but not covered in the workshop)\nvisualize data in scatter plots and box plots (resources for bar plots and histograms will be provided but not covered in the workshop)\n“wrangle” data by dropping NA observations, creating new variables based on existing variables, and filtering data based on desired parameters\n\n\n\nRough Schedule\n\n1 PM - 2:45 PM: Introductions and the tabs The Foundation and Descriptives & Data Wrangling\n2:45 PM - 3:00 PM: 15-min break\n3:00 PM - 5:00 PM: The last three tabs Visualizations Part I, Visualizations Part II, Moving Forward"
+  },
+  {
+    "objectID": "VisualizationsI.html",
+    "href": "VisualizationsI.html",
+    "title": "FUNDAMENTALS OF DATA VISUALIZATION 🎨",
+    "section": "",
+    "text": "Remember that we have to install packages only once, but we always have to call them into our workspace using library()."
+  },
+  {
+    "objectID": "VisualizationsI.html#setup",
+    "href": "VisualizationsI.html#setup",
+    "title": "FUNDAMENTALS OF DATA VISUALIZATION 🎨",
+    "section": "",
+    "text": "Remember that we have to install packages only once, but we always have to call them into our workspace using library()."
+  },
+  {
+    "objectID": "VisualizationsI.html#defining-the-required-elements",
+    "href": "VisualizationsI.html#defining-the-required-elements",
+    "title": "FUNDAMENTALS OF DATA VISUALIZATION 🎨",
+    "section": "1. Defining the required elements",
+    "text": "1. Defining the required elements\nEvery plot we create with ggplot2 requires the ggplot() function. When we run ggplot() on its own, it creates an empty, gray square—a blank canvas for us to do our “art”! Let’s see it in action.\n\n\n\n\n\n\n\n\nWe need to add some arguments to ggplot() if we want to plot data. Arguments are the information we give to a function to change how the function behaves.\nLet’s plot body_mass_g and flipper_length_mm. To do so, we will need the following:\n\nthe data argument to supply a dataset and\nthe mapping argument to connect variables from the dataset to visual properties (i.e., aesthetics) of the plot.\n\n\n\n\n\n\n\nYour turn!\nFill in the following code chunk to supply the data penguins and map body_mass_g to the x-axis and flipper_length_mm to the y-axis.\n\n\n\n\n\n\n\n\n\n\n\nWe still have not plotted the data, though. The function geom_point() will add a scatter plot layer to our plot.\n\n\n\n\n\n\nYour turn!\nCopy your code from above and then add + geom_point(). Then, run the code chunk to see the result.\n\n\n\n\n\n\n\n\n\n\n\nThe + operator combines ggplot2 functions. Without the +, R doesn’t know that you want to add geom_point() to the plot you started with ggplot(). Missing the + operator or putting it on a new line are common errors people receive when using ggplot2.\n\nTemplate for ggplot():\nggplot(data = DATAFRAME, mapping = aes(x = VARIABLE, y = VARIABLE)) + geom_point()\n\n\nggplot() initiates a blank canvas where we can create our plot\ndata supplies the dataset\naes() determines which variable should be on the x-axis and which on the y-axis\ngeom_point() adds a scatter plot layer\n\n\n\n\n\n\n\nYour turn!\nUsing the template above, create a scatter plot to show the relationship between bill_length_mm (x-axis) and bill_depth_mm (y-axis). Write your code from scratch without copying and pasting 🙂\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour turn!\nLet’s rewrite our code above to (a) apply the pipe |&gt; workflow and (b) get rid of the warning error by dropping NAs in the variables bill_length_mm and bill_depth_mm."
+  },
+  {
+    "objectID": "VisualizationsI.html#customizing-plots-by-changing-aesthetics",
+    "href": "VisualizationsI.html#customizing-plots-by-changing-aesthetics",
+    "title": "FUNDAMENTALS OF DATA VISUALIZATION 🎨",
+    "section": "2. Customizing plots by changing aesthetics",
+    "text": "2. Customizing plots by changing aesthetics\nVisual aspects like the color, shape, and size are called aesthetics.\nThe following code, for example, changes the color aesthetic for the scatter points. Run the code to see the result.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour turn!\nEdit the code below to turn the points “maroon” instead.\n\n\n\n\n\n\n\n\n\n\n\nggplot2 recognizes a range of color names. Run the function colors() to see a list of options.\n\n\n\n\n\n\n\n\nThe following table contains some aesthetics that you can use with geom_point():\n\n\n\n\n\n\n\n\nAesthetic\nWhat it controls\nUse\n\n\n\n\ncolor\nColor\nQuoted name of a color, e.g., “blue”\n\n\nsize\nSize\nNumber\n\n\nshape\nShape (circle, triangle, etc.)\nAn integer between 0 and 25\n\n\nalpha\nTransparency\nA number between 0 and 1\n\nalpha = 1 creates completely opaque points.\nalpha = 0 creates completely transparent ones.\n\nSetting alpha less than 1 helps with overplotting.\n\n\n\n\n\n\n\n\n\nYour turn!\nTry the following arguments one by one so you can see their effects: alpha = 0.6, shape = 18, and size = 3. You can add these arguments to geom_point() using commas in between."
+  },
+  {
+    "objectID": "VisualizationsI.html#mapping-aesthetics-to-variables-in-the-dataset",
+    "href": "VisualizationsI.html#mapping-aesthetics-to-variables-in-the-dataset",
+    "title": "FUNDAMENTALS OF DATA VISUALIZATION 🎨",
+    "section": "3. Mapping aesthetics to variables in the dataset",
+    "text": "3. Mapping aesthetics to variables in the dataset\nThe following plots both alter the color of the points but differ in an important way. What’s the difference?\n\n\n\nPlot 1\nPlot 2\n\n\n\n\n\n\n\n\n\nTo create the second plot, we need to create an aesthetic mapping between the variable species and color.\nHere’s a first attempt to color the points by species. Unfortunately, it doesn’t work.\n\n\n\n\n\n\n\n\nAesthetic mappings like these need to be created inside aes(), so we need to add color = species inside aes().\n\n\n\n\n\n\nYour turn!\nFill in the following code to create a plot that maps species to color.\n\n\n\n\n\n\n\n\n\n\n\nWe put the color aesthetic inside geom_point(). What do you think will happen if we move color = species inside ggplot()? See it yourself!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nAny aesthetics in ggplot() will apply to all the geoms that follow.\n\n\nEarlier, you learned how to set shape so that all the points had the same shape. To map a variable to shape, add the mapping in aes().\n\n\n\n\n\n\nYour turn!\nFill in the code to map species to shape."
+  },
+  {
+    "objectID": "VisualizationsI.html#layering-geoms",
+    "href": "VisualizationsI.html#layering-geoms",
+    "title": "FUNDAMENTALS OF DATA VISUALIZATION 🎨",
+    "section": "4. Layering geoms",
+    "text": "4. Layering geoms\nSo far, we have learned how to use geom_point() together with ggplot(), but with ggplot, we can add multiple geoms to one plot. Let’s add a regression line to our scatter plot by adding geom_smooth().\n\n\n\n\n\n\n\n\nWhat do you think will happen if we add color = species inside aes() in ggplot()? 🕵️‍♀️ Hint: Any aesthetics in ggplot() will apply to all the geoms that follow.\n\n\nGlobal aesthetics—applying aesthetics to all geoms that follow\nThis one applies the color aesthetic mapping to both geom_point() and geom_smooth().\n\n\n\n\n\n\n\n\n\n\nLocal aesthetics—applying aesthetics to a specific geom\nThis one applies the color aesthetic mapping only to geom_point().\n\n\n\n\n\n\n\n\nThis one applies the color aesthetic mapping only to geom_smooth().\n\n\n\n\n\n\n\n\n\n\nRegression line\ngeom_smooth defaults to the loess method for the regression line, but you can change that to the linear model by changing the method argument to lm."
+  },
+  {
+    "objectID": "VisualizationsI.html#faceting-with-facet_wrap-and-facet_grid",
+    "href": "VisualizationsI.html#faceting-with-facet_wrap-and-facet_grid",
+    "title": "FUNDAMENTALS OF DATA VISUALIZATION 🎨",
+    "section": "5. Faceting with facet_wrap() and facet_grid()",
+    "text": "5. Faceting with facet_wrap() and facet_grid()\nLet’s create a plot that looks like this:\n\nThe small plots representing the different species are called facets. The facet_wrap() function creates facets.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour turn!\nFill in the code below to facet the plot by island.\n\n\n\n\n\n\n\n\n\n\n\nIf you want to create facets based on two categorical variables, then you can use facet_grid() and indicate which variable you want in the columns and rows.\n\n\n\n\n\n\nYour turn!\nFill in the code below to facet the rows by species and columns by island."
+  },
+  {
+    "objectID": "VisualizationsI.html#labeling-with-labs",
+    "href": "VisualizationsI.html#labeling-with-labs",
+    "title": "FUNDAMENTALS OF DATA VISUALIZATION 🎨",
+    "section": "6. Labeling with labs()",
+    "text": "6. Labeling with labs()\nOur plot could use some additional finesse, like a title. To add a title to a plot, use the function labs():\n\n\n\n\n\n\n\n\nLabs() can change many other labels, including the x and y axis labels.\n\n\n\n\n\n\n\n\nFor other labels, see the documentation by running ?labs().\n\n\n\n\n\n\n\n\nHere is a figure that illustrates some of the arguments of labs(), such as tag, subtitle, and caption.\n\n\n\nRetrieved from Posit Academy (2025)"
+  },
+  {
+    "objectID": "VisualizationsI.html#application",
+    "href": "VisualizationsI.html#application",
+    "title": "FUNDAMENTALS OF DATA VISUALIZATION 🎨",
+    "section": "7. Application! 🏁",
+    "text": "7. Application! 🏁\nWork in pairs or small groups to create the following figure. Use the code chunk below to type your answer.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtwork by @allison_horst\n\n\n\n\n\n\n\n\nCaution\n\n\n\nBEFORE YOU CLOSE THIS PAGE, SAVE YOUR PROGRESS:\n\nRight-click anywhere on the page\nSelect Print\nChoose Save as PDF"
+  },
+  {
+    "objectID": "VisualizationsI.html#credits",
+    "href": "VisualizationsI.html#credits",
+    "title": "FUNDAMENTALS OF DATA VISUALIZATION 🎨",
+    "section": "Credits",
+    "text": "Credits\nThis page contains materials from Posit Academy (2025)."
+  },
+  {
+    "objectID": "MovingForward.html",
+    "href": "MovingForward.html",
+    "title": "MOVING FORWARD ⏩",
+    "section": "",
+    "text": "1. Downloading R and RStudio\nClick here for the handout that I share with my students to help them download the software.\n\n\n2. How to use your own datasets in RStudio\nAfter you download the required software, click here to watch a video tutorial to familiarize yourself with the layout of RStudio and to learn how you can use your own datasets. The tutorial uses a dataset titled, “yrbss2023.csv” in a folder named “QTM 100 Datasets,” but you can replace that folder and dataset with your own.\n\n\n3. Posit Academy\nPosit Academy was very helpful for me to sharpen my R skills. It’s a 5-week online training with a 45-minute daily commitment.\n\n\n4. Books\n\nR for Data Science\nAdvanced R\nData Visualization\nggplot2: Elegant Graphics for Data Analysis (3e)"
+  },
+  {
+    "objectID": "VisualizationsII.html",
+    "href": "VisualizationsII.html",
+    "title": "VISUALIZATIONS CONTINUED 🎨",
+    "section": "",
+    "text": "1. Setup\nRemember that we have to install packages only once, but we always have to call them into our workspace using library().\n\n\n\n\n\n\n\n\n\n\n\n2. Box plots\nWe can use box plots to show the distribution of a numerical variable broken down by a categorical variable (e.g., body mass by species).\nWith box plots, we need to tell R what variable goes on the x and y axes. The y-axis is for the numerical variable while the x-axis is for the categorical grouping variable.\nLet’s examine body_mass_g across different species using geom_boxplot():\n\n\n\n\n\n\n\n\nLet’s also give each species a different color by mapping the fill argument to the variable species\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour turn!\nAdd onto the code below to recreate the plot below. Hint: fill and facet_grid.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3. Histograms (For you to look at later)\nWe can use histograms to examine the distribution of values for a numerical variable. With histograms, we only need the x variable. y is created automatically and shows the counts.\nLet’s create a histogram for body_mass_g using geom_histogram():\n\n\n\n\n\n\n\n\nWe can color the bins to be able to see them more clearly:\n\ncolor -&gt; Color the outlines of bins\nfill -&gt; Color the inside of the bins\n\n\n\n\n\n\n\n\n\nWe can also change the number of bins with bins or the width of the bins with binwidth:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour turn!\nUpdate the code below so that we can see how body_mass_g values are distributed across the levels of the sex variable.\nYou can either map the variable sex to fill OR use facet_wrap().\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4. Bar plots (For you to look at later)\nSimilar to histograms, we only need to provide x, which will be the categorical variable of interest. y will be automatically calculated and indicate how many observations fall into each category.\nLet’s count how many penguins we have in each species:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour turn!\nHow can we color the species differently?\n\n\n\n\n\n\n\n\n\n\n\n\nStacked bar plots\nWe can also use bar plots to show how one categorical variable is distributed within another categorical variable. To do this, we map one categorical variable to x and another to fill.\n\n\n\n\n\n\n\n\n\n\nSide-by-side bar plots\nIf stacked bar plots are hard to compare, we can place the bars next to each other using position = \"dodge\".\n\n\n\n\n\n\n\n\n\n\nStandardized bar plots\nSometimes we want to compare proportions instead of counts. We can do so with position = \"fill\". Now, each bar will have the same height, and the breakdown will show the proportion of each subgroup.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour turn!\nCreate a stacked bar plot with species on the x-axis. Each bar should represent the total count of penguins for that species, with different fill colors indicating the island they come from.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5. Further customizing your plots\nUsing ggplot2, you can customize pretty much any aspect of your plot. Here are two popular tools:\n\nthemes control the overall appearance of the plot such as the background, grid lines, and text size\nscales control how colors are assigned to variables such as fill colors and outline colors\n\n\nThemes\nLet’s start with a basic box plot:\n\n\n\n\n\n\n\n\nWe can now apply a theme to it.\n\n\n\n\n\n\n\n\n\n\nScales\nBecause species is mapped to fill, we can use the scale_fill_manual() function to control the colors:\n\n\n\n\n\n\n\n\nInstead of manually selecting colors, we can also use a built-in palette with scale_fill_brewer().\n\n\n\n\n\n\n\n\nClick here to see all palettes.\n\n\n\n\n\n\nIf our variable of interest was mapped to the color aesthetic, then we would use scale_color_manual and scale_color_brewer.\n\n\n\n\n\n\n\n6. Application! 🏁\n\nDownload the dataset\n\n\n\n\n\n\n\n\n\n\nTask\nReproduce the following box plot:\n\n\n\n\n\n\n\n\n\n\n\n\n7. Want to learn more about different geoms?\nYou can find more information about them at https://ggplot2.tidyverse.org/index.html Go to Reference and then choose a geom to see that geom’s documentation.\n\n\n\n\n\n\n\n\nCaution\n\n\n\nBEFORE YOU CLOSE THIS PAGE, SAVE YOUR PROGRESS:\n\nRight-click anywhere on the page\nSelect Print\nChoose Save as PDF\n\n\n\n\n\n8. Credits\nThis page contains materials from Posit Academy (2025)."
+  },
+  {
+    "objectID": "Descriptives.html",
+    "href": "Descriptives.html",
+    "title": "DESCRIPTIVES AND DATA WRANGLING",
+    "section": "",
+    "text": "We will work with the dplyr, tidyr, and palmerpenguins packages. Let’s first call them into our workspace using library()."
+  },
+  {
+    "objectID": "Descriptives.html#download-the-dataset",
+    "href": "Descriptives.html#download-the-dataset",
+    "title": "DESCRIPTIVES AND DATA WRANGLING",
+    "section": "Download the dataset",
+    "text": "Download the dataset\nBEST dataset “presents data from 650 adult participants from the Basque Country who completed a series of Basque, English, and Spanish tests (hence the name BEST) as a proxy for measuring their language skills” (Bruin et al., 2017, p. 2)\nRun the following code chunk to download the BEST dataset:\n\n\n\n\n\n\n\n\nLet’s take a look at some of the variables of interest in the BEST dataset:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariable\nDefinition\n\n\n\n\nAGE.IN.YEARS\nParticipant’s age\n\n\nAGE.OF.ACQUISITION.ENGLISH\nThe age when English was acquired (Self-reported)\n\n\nMAXIMUM.EDUCATIONAL.LEVEL\nHigh School, University, Postgraduate, Professional Training\n\n\nINTERVIEW.MARK.ENGLISH\nScores ranging from 1 (lowest level) to 5 (native or native-like)\nPerformance evaluated by four linguists"
+  },
+  {
+    "objectID": "Descriptives.html#tasks",
+    "href": "Descriptives.html#tasks",
+    "title": "DESCRIPTIVES AND DATA WRANGLING",
+    "section": "Tasks",
+    "text": "Tasks\n\nAnswer this question: “On average, how many years have the participants been using English?” Note that we know the participants’ age (i.e., AGE.IN.YEARS) and when they acquired English (i.e., AGE.OF.ACQUISITION.ENGLISH). So, we can create a new variable to answer this question.\nUpdate the results so that we can see the average years of English use broken down by MAXIMUM.EDUCATIONAL.LEVEL.\n\n\n\n\n\n\n\n\n\n\nNow, let’s see whether English proficiency varies across educational levels. We can summarize INTERVIEW.MARK.ENGLISH across MAXIMUM.EDUCATIONAL.LEVEL by calculating the n, mean, SD, min, max, and median.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaution\n\n\n\nBEFORE YOU CLOSE THIS PAGE, SAVE YOUR PROGRESS:\n\nRight-click anywhere on the page\nSelect Print\nChoose Save as PDF"
+  }
+]
